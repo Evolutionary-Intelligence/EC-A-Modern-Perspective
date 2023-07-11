@@ -2,9 +2,10 @@
 
 This is an *online* and *free* book: **Evolutionary Computation: A Modern Perspective**, written by Qiqi Duan.
 
-## Content
+## Contents
 
 * Introduction
-  * Motivations
-  * Applications
+  * Motivations: Evolution, Diversity, and Adaptation
+  * A Unified Black-Box Optimization Framework: From a Statistical Perspective
+  * Applications: Usefulness and Interestingness
 * History
