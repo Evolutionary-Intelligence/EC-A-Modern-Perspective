@@ -4,12 +4,13 @@ This is an *online* and *free* book: **Evolutionary Computation: A Modern Perspe
 
 ## Contents
 
-* Introduction
+* Introduction to Evolutionary Computation (EC)
   * Motivations: Evolution, Diversity, and Adaptation
   * A Unified Black-Box Optimization Framework: From a Statistical Perspective
   * Applications: Usefulness and Interestingness
-* History
-* Genetic Algorithms
+* History of Evolutionary Computation (EC)
+* Genetic Algorithms (GA)
   * A Computational Model of Adaptation
   * A Popular Algorithm for Discrete Optimization 
   * A General-Purpose Searcher for Unstructured Problems
+  * Some Representatitive Applications of GA
