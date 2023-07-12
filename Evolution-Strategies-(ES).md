@@ -5,6 +5,7 @@
 ## Notes
 
 1. Sometimes **Evolutionary Strategies** are used in the literature.
+2. We are very sorry that in this book we do not give the original German references of ES, since here we only consider English.
 
 ## Reference
 
