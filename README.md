@@ -9,9 +9,9 @@ This is an *online* and *free* book: **Evolutionary Computation: A Modern Perspe
   * A Unified Black-Box Optimization Framework from a Statistical Perspective
   * Some Useful and Interesting Applications
 * History of Evolutionary Computation (EC)
-  * From 1940s to 1960s
-  * From 1970s to 1990s
-  * From 2000s to 2020s
+  * Early Pioneers from 1940s to 1960s
+  * A Unified Community from 1970s to 1990s
+  * Theoretical Advances and Practical Considerations from 2000s to 2020s
 * Genetic Algorithms (GA)
   * A Computational Model of Adaptation
   * A Popular Algorithm for Discrete Optimization 
@@ -20,5 +20,5 @@ This is an *online* and *free* book: **Evolutionary Computation: A Modern Perspe
 * Evolution Strategies (ES)
   * Self-Adaptation and CMA-ES
   * Natural Gradients and Natural Evolution Strategies (NES)
-  * Gradient Estimation and Variance Reduction
+  * Gradient Estimation and Variance Reduction (OpenAI-ES)
   * Meta-ES and Distributed Evolution Strategies (DES)
