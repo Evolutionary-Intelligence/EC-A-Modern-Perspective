@@ -5,9 +5,9 @@ This is an *online* and *free* book: **Evolutionary Computation: A Modern Perspe
 ## Contents
 
 * Introduction to Evolutionary Computation (EC)
-  * Motivations: Evolution, Diversity, and Adaptation
-  * A Unified Black-Box Optimization Framework: From a Statistical Perspective
-  * Applications: Usefulness and Interestingness
+  * Motivations from Evolution, Diversity, and Adaptation
+  * A Unified Black-Box Optimization Framework from a Statistical Perspective
+  * Some Useful and Interesting Applications
 * History of Evolutionary Computation (EC)
   * From 1940s to 1960s
   * From 1970s to 1990s
@@ -19,6 +19,6 @@ This is an *online* and *free* book: **Evolutionary Computation: A Modern Perspe
   * Some Representatitive Applications of GA
 * Evolution Strategies (ES)
   * Self-Adaptation and CMA-ES
-  * Natural Gradient and Natural Evolution Strategies (NES)
+  * Natural Gradients and Natural Evolution Strategies (NES)
   * Gradient Estimation and Variance Reduction
   * Meta-ES and Distributed Evolution Strategies (DES)
