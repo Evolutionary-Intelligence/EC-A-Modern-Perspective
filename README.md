@@ -9,6 +9,9 @@ This is an *online* and *free* book: **Evolutionary Computation: A Modern Perspe
   * A Unified Black-Box Optimization Framework: From a Statistical Perspective
   * Applications: Usefulness and Interestingness
 * History of Evolutionary Computation (EC)
+  * From 1940s to 1960s
+  * From 1970s to 1990s
+  * From 2000s to 2020s
 * Genetic Algorithms (GA)
   * A Computational Model of Adaptation
   * A Popular Algorithm for Discrete Optimization 
