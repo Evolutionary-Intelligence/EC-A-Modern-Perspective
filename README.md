@@ -16,7 +16,7 @@ This is an *online* and *free* book: **Evolutionary Computation: A Modern Perspe
   * A Computational Model of Adaptation
   * A Popular Algorithm for Discrete Optimization 
   * A General-Purpose Searcher for Unstructured Problems
-  * Some Representatitive Applications of GA
+  * Some Representative Applications of GA
 * Evolution Strategies (ES)
   * Self-Adaptation and CMA-ES
   * Natural Gradients and Natural Evolution Strategies (NES)
