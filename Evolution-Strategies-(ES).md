@@ -4,7 +4,7 @@
 
 ## Optimization Applications
 
-* [Adaptable materials](https://www.pnas.org/doi/abs/10.1073/pnas.2219558120)
+* [Adaptable materials](https://www.pnas.org/doi/abs/10.1073/pnas.2219558120): A joint team from University of Chicago and Yale University
 
 ## Notes
 
