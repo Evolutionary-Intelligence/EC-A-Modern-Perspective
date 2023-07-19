@@ -4,7 +4,8 @@
 
 ## Optimization Applications
 
-* [Adaptable materials](https://www.pnas.org/doi/abs/10.1073/pnas.2219558120): A joint team from University of Chicago and Yale University
+* [Exoskeleton assistance](https://www.nature.com/articles/s41586-022-05191-1): A team from Stanford University.
+* [Adaptable materials](https://www.pnas.org/doi/abs/10.1073/pnas.2219558120): A joint team from University of Chicago and Yale University.
 
 ## Notes
 
