@@ -22,3 +22,4 @@ This is an *online* and *free* book: **Evolutionary Computation: A Modern Perspe
   * Natural Gradients and Natural Evolution Strategies (NES)
   * Gradient Estimation and Variance Reduction (OpenAI-ES)
   * Meta-ES and Distributed Evolution Strategies (DES)
+  * Typical Optimization Applications of ES
