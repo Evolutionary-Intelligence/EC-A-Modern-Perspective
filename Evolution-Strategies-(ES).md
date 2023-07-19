@@ -6,7 +6,7 @@
 
 * [Exoskeleton assistance](https://www.nature.com/articles/s41586-022-05191-1): A team from Stanford University (**Nature, 2022**).
 * [Flying robots](https://www.nature.com/articles/s41586-022-05182-2): A joint team from Delft University of Technology and Aix Marseille Université (**Nature, 2022**).
-* [Adaptable materials](https://www.pnas.org/doi/abs/10.1073/pnas.2219558120): A joint team from University of Chicago and Yale University.
+* [Adaptable materials](https://www.pnas.org/doi/abs/10.1073/pnas.2219558120): A joint team from University of Chicago and Yale University (**PNAS, 2023**).
 
 ## Notes
 
