@@ -18,7 +18,7 @@ This is an *online* and *free* book: **Evolutionary Computation: A Modern Perspe
   * A General-Purpose Searcher for Unstructured Problems
   * Some Representative Applications of GA
 * Evolution Strategies (ES)
-  * Self-Adaptation and CMA-ES
+  * Self-Adaptation and Covariance Matrix Adaptation ES (CMA-ES)
   * Natural Gradients and Natural Evolution Strategies (NES)
   * Gradient Estimation and Variance Reduction (OpenAI-ES)
   * Meta-ES and Distributed Evolution Strategies (DES)
