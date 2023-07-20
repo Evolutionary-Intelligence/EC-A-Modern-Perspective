@@ -1,6 +1,6 @@
 # Evolutionary Computation: A Modern Perspective
 
-This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**, written/edited by *Qiqi Duan* and *Yijun Yang* from **SUSTech, Shenzhen, China**.
+This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**, written/edited by *Qiqi Duan* and *Yijun Yang* @ **SUSTech, Shenzhen, China**. We start to write this open book from July, 2023 and plan to finish it in December, 2025. Owing to its *open* nature, any suggestions, improvements, corrections to it are highly encouraged.
 
 ## Contents
 
