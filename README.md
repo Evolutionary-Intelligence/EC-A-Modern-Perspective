@@ -7,6 +7,8 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
 * Introduction to Evolutionary Computation (EC)
   * Motivations from Evolution, Diversity, and Adaptation
   * A Unified Black-Box Optimization Framework from a Statistical Perspective
+    * No Free Lunch Theorems for Optimization
+    * Exploration-Exploitation Tradeoff
   * Some Useful and Interesting Applications
 * History of Evolutionary Computation (EC)
   * Early EC Pioneers from 1940s to 1960s
