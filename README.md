@@ -26,6 +26,6 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
 
 ## Preface
 
-An important yet difficult question to answer is the (underlying) assumption(s) behind EAs.
+An important yet difficult question to answer is the (underlying) **assumptions** behind EAs (followed closely by their **working principles**).
 
 Our **modest** goal for this book is to provide basic information regarding to EC, in order to help the novices foster the ability of judging **which is a good research practice or not**, which we think is important especially for some novices.
