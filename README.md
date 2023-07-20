@@ -9,8 +9,8 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
   * A Unified Black-Box Optimization Framework from a Statistical Perspective
   * Some Useful and Interesting Applications
 * History of Evolutionary Computation (EC)
-  * Early Pioneers from 1940s to 1960s
-  * A Unified Community from 1970s to 1990s
+  * Early EC Pioneers from 1940s to 1960s
+  * A Unified Community for Evolutionary Algorithms (EAs) from 1970s to 1990s
   * Theoretical Advances and Practical Considerations from 2000s to 2020s
 * Genetic Algorithms (GA)
   * A Computational Model of Adaptation
@@ -23,3 +23,7 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
   * Gradient Estimation and Variance Reduction (OpenAI-ES)
   * Meta-ES and Distributed Evolution Strategies (DES)
   * Typical Optimization Applications of ES
+
+## Preface
+
+An important yet difficult question to answer is the (underlying) assumption behind EAs.
