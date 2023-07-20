@@ -2,6 +2,8 @@
 
 **Evolution Strategies (ES)** were originally proposed in the 1960s by two students [Rechenberg](https://web.archive.org/web/20180425010001/http://www.bionik.tu-berlin.de/institut/xstart.htm) and [Schwefel](https://ls11-www.cs.tu-dortmund.de/people/schwefel/) at the Technical University of Berlin ([TUB](https://www.tu.berlin/en/)), Germany. For a detailed introduction to the (relatively long) history of ES, we strongly suggest to refer to e.g. [[Hansen et al., 2015]](), [[Bäck et al., 2013]](https://link.springer.com/book/10.1007/978-3-642-40137-4), [[Beyer&Schwefel, 2002]](https://link.springer.com/article/10.1023/A:1015059928466), especially from two early pioneers. In this book, we mainly focus on **modern** ES versions and variants: Covariance Matrix Adaptation ES (**CMA-ES**), **NES**, **OpenAI-ES**, **Persistent ES**, and **Meta-ES/Distributed ES**.
 
+## Self-Adaptation and Covariance Matrix Adaptation ES (CMA-ES)
+
 ## Typical Optimization Applications of ES
 
 * [Exoskeleton assistance](https://www.nature.com/articles/s41586-022-05191-1): A team from Stanford University (**Nature, 2022**).
