@@ -9,6 +9,7 @@
 * [Exoskeleton assistance](https://www.nature.com/articles/s41586-022-05191-1): A team from Stanford University (**Nature, 2022**).
 * [Flying robots](https://www.nature.com/articles/s41586-022-05182-2): A joint team from Delft University of Technology and Aix Marseille Université (**Nature, 2022**).
 * [Adaptable materials](https://www.pnas.org/doi/abs/10.1073/pnas.2219558120): A joint team from University of Chicago and Yale University (**PNAS, 2023**).
+* [Combination treatment optimization](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009689): A joint team from Carnegie Mellon University, University of Pittsburgh, and Harvard Medical School + Strategy Robot, Inc., Optimized Markets, Inc., Strategic Machine, Inc. (PLOS Computational Biology, 2021).
 
 ## Notes
 
