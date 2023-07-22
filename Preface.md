@@ -1,6 +1,6 @@
 # Preface
 
-An important yet difficult question to answer is the (underlying) **assumptions** behind EAs (followed closely by their **working principles**). Although initially their **biological evolution-based inspiration** is an attractive point to readers, researchers, and practitioners (at the beginning stage), undoubtedly its **mathematical foundations and practical usefulness** play a cornerstone role in the (increasing) maturity of this field (i.e., Evolutionary Computation).
+An important yet difficult research question to answer is the (underlying) **assumptions** behind Evolutionary Algorithms (EAs), followed closely by their **working principles**. Since the **black-box** nature of the problems tackled by EAs, it is often very difficult to **mathematically quantitize** these (typically *implicit*) assumptions. Although initially their **biological evolution-based inspiration** is an attractive point to readers, researchers, and practitioners (at the beginning stage), undoubtedly its **mathematical foundations and practical usefulness** play a cornerstone role in the (increasing) maturity of this field (i.e., Evolutionary Computation).
 
 Our **modest** goal for this book is to provide basic information regarding to EC, in order to help the novices foster the ability of judging **whether it is a good research practice or not for EC**, which we think is very important especially for some novices.
 
