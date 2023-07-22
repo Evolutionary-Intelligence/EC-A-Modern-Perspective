@@ -6,6 +6,8 @@ Our **modest** goal for this book is to provide basic information regarding to E
 
 Up to now, there have been several wonderful books devoted to EC, such as [[Eiben&Smith, 2015]](https://link.springer.com/book/10.1007/978-3-662-44874-8), [[Fogel, 2006]](https://ieeexplore.ieee.org/book/5237910)/[[Fogel, 1998]](https://ieeexplore.ieee.org/book/5263042), [[Back, 1996]](https://academic.oup.com/book/40791).
 
+[[Lehman et al., 2020, ALJ]](https://direct.mit.edu/artl/article/26/2/274/93255/The-Surprising-Creativity-of-Digital-Evolution-A)
+
 
 
 Written by Qiqi Duan and Yijun Yang @ SUSTech, Shenzhen, China.
