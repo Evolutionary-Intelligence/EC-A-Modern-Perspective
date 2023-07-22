@@ -15,12 +15,12 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
   * Early EC Pioneers from 1940s to 1960s
   * A Unified Community for Evolutionary Algorithms (EAs) from 1970s to 1990s
   * Theoretical Advances and Practical Considerations from 2000s to 2020s
-* Genetic Algorithms (GA)
+* [Genetic Algorithms (GA)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Genetic-Algorithms-(GA).md)
   * A Computational Model of Adaptation
   * A Popular Algorithm for Discrete Optimization 
   * A General-Purpose Searcher for Unstructured Problems
   * Some Representative Applications of GA
-* Evolution Strategies (ES)
+* [Evolution Strategies (ES)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolution-Strategies-(ES).md)
   * Self-Adaptation and Covariance Matrix Adaptation ES (CMA-ES)
   * Natural Gradients and Natural Evolution Strategies (NES)
   * Gradient Estimation and Variance Reduction (OpenAI-ES)
