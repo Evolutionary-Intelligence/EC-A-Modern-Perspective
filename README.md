@@ -5,7 +5,7 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
 ## Contents (still actively updated)
 
 * [Preface](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Preface.md)
-* Introduction to Evolutionary Computation (EC)
+* [Introduction to Evolutionary Computation (EC)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Introduction-to-Evolutionary-Computation-(EC).md)
   * Motivations from Evolution, Diversity, and Adaptation
   * A Unified Black-Box Optimization Framework from a Statistical Perspective
     * No Free Lunch Theorems for Optimization
