@@ -9,6 +9,6 @@ Up to now, there have been several wonderful books devoted to EC, such as [[Eibe
 [[Lehman et al., 2020, ALJ]](https://direct.mit.edu/artl/article/26/2/274/93255/The-Surprising-Creativity-of-Digital-Evolution-A)
 
 ******* *** *******
-Written by Qiqi Duan and Yijun Yang @ SUSTech, Shenzhen, China.
+Written by Qiqi Duan & Yijun Yang @ SUSTech, Shenzhen, China.
 
 2023 -
