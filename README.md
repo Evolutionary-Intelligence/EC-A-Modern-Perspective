@@ -31,5 +31,5 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
   * [Typical Optimization Applications of ES](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolution-Strategies-(ES).md#typical-optimization-applications-of-es)
 * Genetic Programming (GP)
 * Evolutionary Robotics (ER) and Quality-Diversity (QD)
-* Evolutionary Reinforcement Learning (ERL)
+* [Evolutionary Reinforcement Learning (ERL)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolutionary-Reinforcement-Learning-(ERL).md)
 * [Learning and Evolution](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Learning-and-Evolution.md)
