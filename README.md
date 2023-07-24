@@ -32,4 +32,4 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
 * Genetic Programming (GP)
 * Evolutionary Robotics (ER) and Quality-Diversity (QD)
 * Evolutionary Reinforcement Learning (ERL)
-* Learning and Evolution
+* [Learning and Evolution](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Learning-and-Evolution.md)
