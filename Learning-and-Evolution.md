@@ -1,6 +1,8 @@
 # Learning and Evolution
 
-["The processes of life involve change at many scales of space and time. One trade-off between learning (at the individual level) and evolution (at the level of population or species) is readily apparent: Learning is facilitated by long individual lifetimes, whereas evolution benefits from rapidly passing generations."](https://www.amazon.com/Artificial-INSTITUTE-SCIENCES-COMPLEXITY-PROCEEDINGS/dp/0201525712) [Ackley&Littman, 1991].
+## Multi-Scale/Level Evolution and Learning
+
+["The processes of life involve change at many scales of space and time. Choosing a spatiotemporal scale emphasizes the change at that scale, rendering smaller scales essentially as noise, large scales essentially as constant. One trade-off between learning (at the individual level) and evolution (at the level of population or species) is readily apparent: Learning is facilitated by long individual lifetimes, whereas evolution benefits from rapidly passing generations."](https://www.amazon.com/Artificial-INSTITUTE-SCIENCES-COMPLEXITY-PROCEEDINGS/dp/0201525712) [Ackley&Littman, 1991].
 
 ## The Baldwin Effect
 
