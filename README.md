@@ -13,6 +13,9 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
   * [Some Useful and Interesting Applications](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Introduction-to-Evolutionary-Computation-(EC).md#some-useful-and-interesting-applications)
 * History of Evolutionary Computation (EC)
   * Early EC Pioneers from 1940s to 1960s
+    * Evolutionary Programming (EP)
+    * Genetic Algorithms (GA)
+    * Evolution Strategies (ES)
   * A Unified Community for Evolutionary Algorithms (EAs) from 1970s to 1990s
   * Theoretical Advances and Practical Considerations from 2000s to 2020s
 * [Genetic Algorithms (GA)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Genetic-Algorithms-(GA).md)
