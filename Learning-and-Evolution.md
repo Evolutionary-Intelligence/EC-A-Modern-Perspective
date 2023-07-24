@@ -8,6 +8,6 @@ As pointed out by [Hinton](http://www.cs.toronto.edu/~hinton/) ([ACM Turing Awar
 
 ## Reference
 
-* Ackley, D. and Littman, M., 1991. Interactions between learning and evolution. Artificial Life, 10, pp.487-509. [ [ppt](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=675be3c1f8a57015a91be5cd191a8d262a9061fb) ]
+* Ackley, D. and Littman, M., 1991. [Interactions between learning and evolution](https://www.amazon.com/Artificial-INSTITUTE-SCIENCES-COMPLEXITY-PROCEEDINGS/dp/0201525712). Artificial Life, 10, pp.487-509. [ [ppt](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=675be3c1f8a57015a91be5cd191a8d262a9061fb) ]
 * Hinton, G.E. and Nowlan, S.J., 1987. [How learning can guide evolution](https://www.cs.toronto.edu/~hinton/absps/baldwin.pdf). Complex Systems, 1(3), pp.495-502.
 * Baldwin, J.M., 1896. [A new factor in evolution](https://www.journals.uchicago.edu/doi/pdf/10.1086/276428). American Naturalist, 30(355), pp.536-553.
