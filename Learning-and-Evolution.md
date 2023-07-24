@@ -1,6 +1,6 @@
 # Learning and Evolution
 
-["The processes of life involve change at many scales of space and time"](https://www.amazon.com/Artificial-INSTITUTE-SCIENCES-COMPLEXITY-PROCEEDINGS/dp/0201525712) [Ackley&Littman, 1991].
+["The processes of life involve change at many scales of space and time. One trade-off between learning (at the individual level) and evolution (at the level of population or species) is readily apparent: Learning is facilitated by long individual lifetimes, whereas evolution benefits from rapidly passing generations."](https://www.amazon.com/Artificial-INSTITUTE-SCIENCES-COMPLEXITY-PROCEEDINGS/dp/0201525712) [Ackley&Littman, 1991].
 
 ## The Baldwin Effect
 
