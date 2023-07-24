@@ -6,4 +6,5 @@ As pointed out by [Hinton](http://www.cs.toronto.edu/~hinton/) ([ACM Turing Awar
 
 ## Reference
 
+* Hinton, G.E. and Nowlan, S.J., 1987. [How learning can guide evolution](https://www.cs.toronto.edu/~hinton/absps/baldwin.pdf). Complex Systems, 1(3), pp.495-502.
 * Baldwin, J.M., 1896. [A new factor in evolution](https://www.journals.uchicago.edu/doi/pdf/10.1086/276428). The American Naturalist, 30(355), pp.536-553.
