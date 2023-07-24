@@ -30,4 +30,5 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
   * Meta-ES and Distributed Evolution Strategies (DES)
   * [Typical Optimization Applications of ES](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolution-Strategies-(ES).md#typical-optimization-applications-of-es)
 * Genetic Programming (GP)
+* Evolutionary Robotics and Quality-Diversity (QD)
 * Learning and Evolution
