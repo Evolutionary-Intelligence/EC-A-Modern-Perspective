@@ -6,7 +6,7 @@ Our **modest** goal for this book is to provide basic information regarding to E
 
 Up to now, there have been several wonderful books devoted to EC, such as [[Eiben&Smith, 2015]](https://link.springer.com/book/10.1007/978-3-662-44874-8), [[De Jong, 2006]](https://ieeexplore.ieee.org/book/6267245), [[Fogel, 2006]](https://ieeexplore.ieee.org/book/5237910)/[[Fogel, 1998]](https://ieeexplore.ieee.org/book/5263042), [[Mitchell, 1998]](https://direct.mit.edu/books/book/4675/An-Introduction-to-Genetic-Algorithms), [[Back, 1996]](https://academic.oup.com/book/40791), to name a few. Furthermore, there have been some well-written review/survey papers for EC: e.g., [[Miikkulainen&Forrest, 2021, Nature MI]](https://www.nature.com/articles/s42256-020-00278-8), [[Lehman et al., 2020, ALJ]](https://direct.mit.edu/artl/article/26/2/274/93255/The-Surprising-Creativity-of-Digital-Evolution-A), [[Eiben&Smith, 2015, Nature]](https://www.nature.com/articles/nature14544), [[Forrest, 1993, Science]](https://www.science.org/doi/10.1126/science.8346439), still to name a few. Undoubtedly, these above works provide a *very good* starting point to learn EAs and enter the EC community.
 
-For AI, **learning and evolution** (e.g., [[Hinton&Nowlan, 1987]](https://www.cs.toronto.edu/~hinton/absps/baldwin.pdf), [[Maynard Smith, 1987, Nature]](https://www.cs.toronto.edu/~hinton/absps/maynardsmith.pdf)).
+For AI/ML, **learning and evolution** (e.g., [[Hinton&Nowlan, 1987]](https://www.cs.toronto.edu/~hinton/absps/baldwin.pdf), [[Maynard Smith, 1987, Nature]](https://www.cs.toronto.edu/~hinton/absps/maynardsmith.pdf)).
 
 Finally, we thanks very much for Prof. Shi and Prof. Yao which provide our Ph.D. opportunities to study AI/ML and EC.
 
