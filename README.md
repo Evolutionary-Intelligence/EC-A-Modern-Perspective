@@ -12,6 +12,7 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
     * Exploration-Exploitation Tradeoff
     * Generality versus Particularity
   * [Some Useful and Interesting Applications](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Introduction-to-Evolutionary-Computation-(EC).md#some-useful-and-interesting-applications)
+  * Limitations and Possible Risks of Evolutionary Computation
 * History of Evolutionary Computation (EC)
   * Early EC Pioneers from 1940s to 1960s
     * Evolutionary Programming (EP)
