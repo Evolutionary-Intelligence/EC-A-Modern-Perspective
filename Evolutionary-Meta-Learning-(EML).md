@@ -3,6 +3,7 @@
 ## Reference
 
 * Schmidgall, S., Achterberg, J., Miconi, T., Kirsch, L., Ziaei, R., Hajiseyedrazi, S. and Eshraghian, J., 2023. [Brain-inspired learning in artificial neural networks: A review](https://arxiv.org/abs/2305.11252). arXiv preprint arXiv:2305.11252.
+* Dorrell, W., Yuffa, M. and Latham, P.E., 2023, July. [Meta-learning the inductive bias of simple neural circuits](https://proceedings.mlr.press/v202/dorrell23a.html). In International Conference on Machine Learning (pp. 8389-8402). PMLR.
 * Miconi, T., 2023, July. [Learning to acquire novel cognitive tasks with evolution, plasticity and meta-meta-learning](https://proceedings.mlr.press/v202/miconi23a.html). In International Conference on Machine Learning (pp. 24756-24774). PMLR.
 * Vanchurin, V., Wolf, Y.I., Katsnelson, M.I. and Koonin, E.V., 2022. [Toward a theory of evolution as multilevel learning](https://www.pnas.org/doi/abs/10.1073/pnas.2120037119). Proceedings of the National Academy of Sciences, 119(6), p.e2120037119.
 * Jordan, J., Schmidt, M., Senn, W. and Petrovici, M.A., 2021. [Evolving interpretable plasticity for spiking networks](https://elifesciences.org/articles/66273). Elife, 10, p.e66273.
