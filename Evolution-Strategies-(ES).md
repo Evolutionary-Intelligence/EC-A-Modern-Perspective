@@ -21,6 +21,7 @@
 
 ## Reference
 
+* [https://www.paulvicol.com/pdfs/ES-Single-Slides.pdf](https://www.paulvicol.com/pdfs/ES-Single-Slides.pdf)
 * Hansen, N., Arnold, D.V. and Auger, A., 2015. Evolution strategies. In Springer Handbook of Computational Intelligence (pp. 871-898). Springer, Berlin, Heidelberg.
 * Bäck, T., Foussette, C. and Krause, P., 2013. Contemporary evolution strategies. Berlin: Springer.
 * Beyer, H.G. and Schwefel, H.P., 2002. Evolution strategies–A comprehensive introduction. Natural Computing, 1(1), pp.3-52.
