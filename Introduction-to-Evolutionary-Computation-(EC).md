@@ -6,3 +6,4 @@
 * [Designs of Computer Architectures](https://dl.acm.org/doi/10.1145/3579371.3589049):
   * ""
 * Hyper-Parameter Optimization (HPO): e.g., for [Reinforcement Learning](https://openreview.net/forum?id=0Vm8Ghcxmp)
+* [AI for Infectious Diseases](https://www.science.org/doi/full/10.1126/science.adh1114)
