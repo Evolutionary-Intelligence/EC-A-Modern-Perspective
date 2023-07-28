@@ -9,7 +9,7 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
   * Motivations from Evolution, Diversity, and Adaptation
   * A Unified Black-Box Optimization Framework from a Statistical Perspective
     * No Free Lunch Theorems for Optimization
-    * Exploration-Exploitation Tradeoff
+    * Exploration-Exploitation Trade-Offs
     * Generality versus Particularity
   * [Some Useful and Interesting Applications](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Introduction-to-Evolutionary-Computation-(EC).md#some-useful-and-interesting-applications)
   * Limitations and Possible Risks of Evolutionary Computation
