@@ -31,7 +31,7 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
   * Gradient Estimation and Variance Reduction (OpenAI-ES)
   * Meta-ES and Distributed Evolution Strategies (DES)
   * [Typical Optimization Applications of ES](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolution-Strategies-(ES).md#typical-optimization-applications-of-es)
-* Genetic Programming (GP)
+* [Genetic Programming (GP)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Genetic-Programming-(GP).md)
 * [NeuroEvolution]()
   * [NeuroEvolution of Augmenting Topologies (NEAT)]()
   * [Population-Based Training (PBT)]()
