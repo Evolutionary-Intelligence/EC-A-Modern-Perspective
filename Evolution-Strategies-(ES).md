@@ -12,6 +12,7 @@ CMA-ES could provide a **strong baseline** on *many* challenging BBO problems, s
 
 * [Exoskeleton assistance](https://www.nature.com/articles/s41586-022-05191-1): A team from Stanford University (**Nature, 2022**).
 * [Flying robots](https://www.nature.com/articles/s41586-022-05182-2): A joint team from Delft University of Technology and Aix Marseille Université (**Nature, 2022**).
+* [Abstract art](https://arxiv.org/pdf/2304.12932.pdf): Google Research, Brain Team (**2023**).
 * [Reactive robot](https://arxiv.org/pdf/2210.04067.pdf): A joint team from Idiap Research Institute, Ecole Polytechnique Federale de Lausanne (EPFL), and University of Oxford (**2023**).
 * [Adversarial robustness in discontinuous spaces](https://openaccess.thecvf.com/content/WACV2023/papers/Venkatesh_Adversarial_Robustness_in_Discontinuous_Spaces_via_Alternating_Sampling__Descent_WACV_2023_paper.pdf): A joint team from Stanford University, University of Pennsylvania, Carnegie Mellon University and Bosch Center for AI (WACV, 2023).
 * [Target specific peptide design](https://arxiv.org/pdf/2302.01435.pdf): A joint team from Carnegie Mellon University and Ohio State University (**2023**).
