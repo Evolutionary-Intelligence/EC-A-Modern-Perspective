@@ -15,6 +15,7 @@
 * Robotics: [[Wang et al., 2023, ICRA]](https://ieeexplore.ieee.org/abstract/document/10160303)
 * Computer Vision: [[Tian et al., 2023, CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tian_Multi-Object_Manipulation_via_Object-Centric_Neural_Scattering_Functions_CVPR_2023_paper.pdf)
 * Graphics: [[Lee et al., 2022, ACM-TOG]](https://dl.acm.org/doi/abs/10.1145/3550454.3555489), [[Geijtenbeek et al., 2013, ACM-TOG]](https://dl.acm.org/doi/abs/10.1145/2508363.2508399), [[Stoll et al., 2010, ACM-TOG]](https://dl.acm.org/doi/abs/10.1145/1882261.1866161), [[Wang et al., 2009, ACM-TOG]](https://dl.acm.org/doi/abs/10.1145/1661412.1618514), [[Wampler&Popović, 2009, ACM-TOG]](https://dl.acm.org/doi/abs/10.1145/1531326.1531366)
+  * [[Fei et al., 2023]](https://arxiv.org/pdf/2304.05818.pdf)
 
 ## Notes
 
