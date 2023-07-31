@@ -1,5 +1,7 @@
 # Introduction to Evolutionary Computation (EC)
 
+[directed evolution](https://iopscience.iop.org/article/10.1088/2632-2153/accacd)
+
 ## Some Useful and Interesting Applications
 
 * [NeuroScience](https://www.pnas.org/doi/abs/10.1073/pnas.2213034120): A joint team from Harvard Medical School and Washington University, St. Louis (**PNAS, 2023**)
