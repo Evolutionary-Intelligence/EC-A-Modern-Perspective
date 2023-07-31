@@ -4,7 +4,7 @@
 
 ## Self-Adaptation and Covariance Matrix Adaptation ES (CMA-ES)
 
-CMA-ES could provide a **strong baseline** on *many* challenging BBO problems, such as [offline design of biological sequences](https://arxiv.org/pdf/2306.03111.pdf), where ["for TFbind8, which has a relatively small search space, the classical method of CMA-ES gave pretty good performances"](https://arxiv.org/pdf/2306.03111.pdf).
+CMA-ES could provide a **strong baseline** on *many* challenging BBO problems, such as [offline design of biological sequences](https://arxiv.org/pdf/2306.03111.pdf) where ["for TFbind8, which has a relatively small search space, the classical method of CMA-ES gave pretty good performances"](https://arxiv.org/pdf/2306.03111.pdf), [informative path planning](https://proceedings.mlr.press/v205/cao23b/cao23b.pdf) where ["CMA-ES finds a good trade-off between exploration and exploitation, resulting in the best overall performance among non-learning solvers"](https://proceedings.mlr.press/v205/cao23b/cao23b.pdf).
 
 ## Typical Optimization Applications of ES
 
