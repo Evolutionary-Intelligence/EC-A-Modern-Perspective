@@ -30,7 +30,7 @@ CMA-ES could provide a **strong baseline** on *many* challenging BBO problems, s
 * Graphics: [[Lee et al., 2022, ACM-TOG]](https://dl.acm.org/doi/abs/10.1145/3550454.3555489), [[Geijtenbeek et al., 2013, ACM-TOG]](https://dl.acm.org/doi/abs/10.1145/2508363.2508399), [[Stoll et al., 2010, ACM-TOG]](https://dl.acm.org/doi/abs/10.1145/1882261.1866161), [[Wang et al., 2009, ACM-TOG]](https://dl.acm.org/doi/abs/10.1145/1661412.1618514), [[Wampler&Popović, 2009, ACM-TOG]](https://dl.acm.org/doi/abs/10.1145/1531326.1531366)
   * [[Fei et al., 2023]](https://arxiv.org/pdf/2304.05818.pdf)
 * Operations Research: [[Jacquet, 2023, EJOR]](https://www.sciencedirect.com/science/article/pii/S0377221723003508)
-* Language Models: [Shen et al., 2023](https://arxiv.org/pdf/2305.00593.pdf) 
+* Language Models: [[Cao et al., 2023, NSR]](https://academic.oup.com/nsr/article/10/6/nwad124/7152626), [[Shen et al., 2023]](https://arxiv.org/pdf/2305.00593.pdf) 
 
 ## Notes
 
