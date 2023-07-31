@@ -39,3 +39,4 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
 * [Evolutionary Reinforcement Learning (ERL)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolutionary-Reinforcement-Learning-(ERL).md)
 * [Evolutionary Meta-Learning (EML)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolutionary-Meta-Learning-(EML).md)
 * [Learning and Evolution](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Learning-and-Evolution.md)
+* [Search-Based Software Engineering]()
