@@ -2,6 +2,8 @@
 
 [Combustion machine learning](https://www.sciencedirect.com/science/article/pii/S0360128522000193)
 
+[Scientific understanding](https://www.nature.com/articles/s42254-022-00518-3)
+
 * https://astroautomata.com/PySR/ | https://github.com/MilesCranmer/PySR
 * https://www.nature.com/articles/s41586-023-06221-2
 * https://arxiv.org/abs/2307.16890
