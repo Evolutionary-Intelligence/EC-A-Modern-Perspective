@@ -1,5 +1,7 @@
 # Genetic Programming (GP)
 
+* [Modeling the galaxy-halo connection](https://arxiv.org/abs/2111.02422v2)
+
 [Combustion machine learning](https://www.sciencedirect.com/science/article/pii/S0360128522000193), [Explainable machine learning in materials science
 ](https://www.nature.com/articles/s41524-022-00884-7) for [polycrystalline materials](https://www.nature.com/articles/s41524-018-0094-7)
 
