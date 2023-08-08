@@ -5,6 +5,7 @@
 ## Some Useful and Interesting Applications
 
 * [Chemical Science]()
+  * [Crystal structure prediction](https://pubs.aip.org/aip/jcp/article-abstract/124/24/244704/567275/Crystal-structure-prediction-using-ab-initio)
   * [Constructing first-principles phase diagrams of amorphous LixSi](https://pubs.aip.org/aip/jcp/article/148/24/241711/960040)
 * [Control](https://evotorch.ai/)
 * [NeuroScience](https://www.pnas.org/doi/abs/10.1073/pnas.2213034120): A joint team from Harvard Medical School and Washington University, St. Louis (**PNAS, 2023**)
