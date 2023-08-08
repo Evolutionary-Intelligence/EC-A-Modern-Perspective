@@ -4,6 +4,8 @@
 
 ## Some Useful and Interesting Applications
 
+* [Chemical Science]()
+  * [Constructing first-principles phase diagrams of amorphous LixSi](https://pubs.aip.org/aip/jcp/article/148/24/241711/960040)
 * [Control](https://evotorch.ai/)
 * [NeuroScience](https://www.pnas.org/doi/abs/10.1073/pnas.2213034120): A joint team from Harvard Medical School and Washington University, St. Louis (**PNAS, 2023**)
 * [Designs of Computer Architectures](https://dl.acm.org/doi/10.1145/3579371.3589049):
