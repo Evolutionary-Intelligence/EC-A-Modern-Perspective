@@ -4,6 +4,12 @@
 
 ## Some Useful and Interesting Applications
 
+### Open-Source Softwares
+
+* [MEIGO](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-136): Scatter search for continuous nonlinear programming and mixed-integer programming, and variable neighborhood search for integer programming.
+
+###
+
 * [Chemical Science]()
   * [Crystal structure prediction](https://pubs.aip.org/aip/jcp/article-abstract/124/24/244704/567275/Crystal-structure-prediction-using-ab-initio): e.g. [[Yang et al., 2023, Science]](https://www.science.org/doi/full/10.1126/science.abm5134), [[Mannix et al., 2015, Science]](https://www.science.org/doi/full/10.1126/science.aad1080), [[Zhang et al., 2013, Science]](https://www.science.org/doi/10.1126/science.1244989) [([Insa, 2013, Science])](https://www.science.org/doi/10.1126/science.1247699).
   * [Constructing first-principles phase diagrams of amorphous LixSi](https://pubs.aip.org/aip/jcp/article/148/24/241711/960040)
