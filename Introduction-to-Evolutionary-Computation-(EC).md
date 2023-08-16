@@ -28,3 +28,5 @@
   * [Algolux + Mercedes-Benz + Princeton University](https://openaccess.thecvf.com/content/CVPR2023/papers/Goudreault_LiDAR-in-the-Loop_Hyperparameter_Optimization_CVPR_2023_paper.pdf) 
 * [Adversarial samples](https://dl.acm.org/doi/10.1145/3134599): https://evademl.org/
 * [AI for Infectious Diseases](https://www.science.org/doi/full/10.1126/science.adh1114)
+* [Environmental Science]()
+  * [Wind turbine locations](https://www.sciencedirect.com/science/article/pii/S1462901123000497)
