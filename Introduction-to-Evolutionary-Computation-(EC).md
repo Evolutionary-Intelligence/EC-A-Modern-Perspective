@@ -30,3 +30,5 @@
 * [AI for Infectious Diseases](https://www.science.org/doi/full/10.1126/science.adh1114)
 * [Environmental Science]()
   * [Wind turbine locations](https://www.sciencedirect.com/science/article/pii/S1462901123000497)
+
+Although we have gave **many** problem instance where EAs showed satisfactory (not necessarily optimal) performance, *not all problems* could be best solved by EAs: e.g., [[1]](https://www.sciencedirect.com/science/article/pii/S2590238522006622), just to name a few.
