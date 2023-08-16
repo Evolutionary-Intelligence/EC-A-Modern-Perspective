@@ -1,5 +1,7 @@
 # Genetic Algorithms (GA)
 
+[Parallel GA](https://www.sciencedirect.com/science/article/pii/S0048969722066438)
+
 ## Some Representative Applications of GA
 
 * [Evolving images for visual neurons](https://www.sciencedirect.com/science/article/pii/S0092867419303915): A joint team from Harvard Medical School, Harvard University, Boston Children’s Hospital, and Washington University, St. Louis.
