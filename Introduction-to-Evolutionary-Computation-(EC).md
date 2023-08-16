@@ -6,7 +6,8 @@
 
 ### Open-Source Softwares
 
-* [MEIGO](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-136): Scatter search for continuous nonlinear programming and mixed-integer programming, and variable neighborhood search for integer programming.
+* [ParMOO](https://joss.theoj.org/papers/10.21105/joss.04468.pdf): Parallel multiobjective simulation optimization.
+* [MEIGO](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-136): Scatter search for continuous nonlinear programming and mixed-integer programming and variable neighborhood search for integer programming.
 
 ###
 
