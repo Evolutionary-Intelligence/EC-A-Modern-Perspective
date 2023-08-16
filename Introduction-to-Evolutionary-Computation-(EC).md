@@ -13,8 +13,8 @@
   * ""
 * [Quantum Optimal Control](https://www.sciencedirect.com/science/article/pii/S0010465523001273)
   * Global optimization of model fitting: [[Villeneuve et al., 2017, Science]](https://www.science.org/doi/full/10.1126/science.aam8393)
-* Hyper-Parameter Optimization (HPO): e.g., for [Reinforcement Learning](https://openreview.net/forum?id=0Vm8Ghcxmp)
-  * [Baidu Inc](https://assets.researchsquare.com/files/rs-2408527/v1_covered.pdf?c=1673942367)
+* Hyper-Parameter Optimization (HPO): e.g., for [Reinforcement Learning](https://openreview.net/forum?id=0Vm8Ghcxmp), [Environmental Research](https://pubs.acs.org/doi/full/10.1021/acs.est.3c00026)
+  * [Baidu Inc.](https://assets.researchsquare.com/files/rs-2408527/v1_covered.pdf?c=1673942367)
   * [Algolux + Mercedes-Benz + Princeton University](https://openaccess.thecvf.com/content/CVPR2023/papers/Goudreault_LiDAR-in-the-Loop_Hyperparameter_Optimization_CVPR_2023_paper.pdf) 
 * [Adversarial samples](https://dl.acm.org/doi/10.1145/3134599): https://evademl.org/
 * [AI for Infectious Diseases](https://www.science.org/doi/full/10.1126/science.adh1114)
