@@ -31,4 +31,4 @@
 * [Environmental Science]()
   * [Wind turbine locations](https://www.sciencedirect.com/science/article/pii/S1462901123000497)
 
-Although we have gave **many** problem instance where EAs showed satisfactory (not necessarily optimal) performance, *not all problems* could be best solved by EAs: e.g., [[1]](https://www.sciencedirect.com/science/article/pii/S2590238522006622), just to name a few.
+Although we have gave **many** problem instances where EAs showed **satisfactory** (*not necessarily optimal*) performance, *NOT all problems* could be best solved by EAs: e.g., [[1]](https://www.sciencedirect.com/science/article/pii/S2590238522006622), just to name a few. We believe that the amount of problem instances tackled effectively by EA will still keep increasing in the future.
