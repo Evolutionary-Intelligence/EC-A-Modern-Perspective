@@ -14,6 +14,7 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
   * [Some Useful and Interesting Applications](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Introduction-to-Evolutionary-Computation-(EC).md#some-useful-and-interesting-applications)
     * Open-Source Softwares
     * Physical Science
+    * Chemical Science
   * Limitations and Possible Risks of Evolutionary Computation
 * History of Evolutionary Computation (EC)
   * Early EC Pioneers from 1940s to 1960s
