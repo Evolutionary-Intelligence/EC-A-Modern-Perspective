@@ -7,6 +7,9 @@
 
 [Scientific understanding](https://www.nature.com/articles/s42254-022-00518-3): "It will be exciting to see how these approaches, for example, combined with methods such as causal inference, can be improved to propose reasonable physical models of unknown systems that advance scientific understanding."
 
+# Reference
+
+* https://github.com/hengzhe-zhang/awesome-genetic-programming (which provides an *actively updated* collection of some latest research papers on GP.)
 * https://astroautomata.com/PySR/ | https://github.com/MilesCranmer/PySR
 * https://www.nature.com/articles/s41586-023-06221-2
 * https://arxiv.org/abs/2307.16890
