@@ -22,6 +22,7 @@
   * [Grain boundaries in 2D materials](https://pubs.acs.org/doi/full/10.1021/acsami.3c01161)
 * [Control](https://evotorch.ai/)
   * [Active flow control](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/comparative-analysis-of-machine-learning-methods-for-active-flow-control/DF06699ACFFCCD1B5778ED63DFDADCFF)
+  * [Autonomous cars](https://www.sciencedirect.com/science/article/pii/S0743731522002507)
 * [NeuroScience](https://www.pnas.org/doi/abs/10.1073/pnas.2213034120): A joint team from Harvard Medical School and Washington University, St. Louis (**PNAS, 2023**)
 * [Designs of Computer Architectures](https://dl.acm.org/doi/10.1145/3579371.3589049):
   * ""
