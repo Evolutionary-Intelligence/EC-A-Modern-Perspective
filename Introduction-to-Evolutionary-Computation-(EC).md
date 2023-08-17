@@ -33,7 +33,8 @@
   * [Algolux + Mercedes-Benz + Princeton University](https://openaccess.thecvf.com/content/CVPR2023/papers/Goudreault_LiDAR-in-the-Loop_Hyperparameter_Optimization_CVPR_2023_paper.pdf) 
 * [Adversarial samples](https://dl.acm.org/doi/10.1145/3134599): https://evademl.org/
 * [AI for Infectious Diseases](https://www.science.org/doi/full/10.1126/science.adh1114)
-* [Environmental Science]()
+* [Environmental and Energy Science]()
   * [Wind turbine locations](https://www.sciencedirect.com/science/article/pii/S1462901123000497)
+  * [Fuel cell and nuclear reactor design](https://www.sciencedirect.com/science/article/pii/S0029549323002728): A joint team from Massachusetts Institute of Technology, University of Michigan (Ann Arbor), and  Shanghai Jiao Tong University
 
 Although we have given **many** problem instances where EAs showed **satisfactory** (*not necessarily optimal*) performance, *NOT all problems* could be best solved by EAs: e.g., [[1]](https://www.sciencedirect.com/science/article/pii/S2590238522006622), just to name a few. We believe that the amount of problem instances tackled effectively by EA will still keep increasing in the future.
