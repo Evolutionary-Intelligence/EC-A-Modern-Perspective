@@ -6,6 +6,7 @@
 
 ### Open-Source Softwares
 
+* [DEAP](): 
 * [ParMOO](https://joss.theoj.org/papers/10.21105/joss.04468.pdf): Parallel multiobjective simulation optimization.
 * [EC-KitY](https://www.sciencedirect.com/science/article/pii/S2352711023000778): A Python library for doing EC (compatible with scikit-learn).
 * [MEIGO](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-15-136): Scatter search for continuous nonlinear programming and mixed-integer programming and variable neighborhood search for integer programming.
