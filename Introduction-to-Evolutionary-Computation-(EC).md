@@ -33,6 +33,8 @@
   * [Algolux + Mercedes-Benz + Princeton University](https://openaccess.thecvf.com/content/CVPR2023/papers/Goudreault_LiDAR-in-the-Loop_Hyperparameter_Optimization_CVPR_2023_paper.pdf) 
 * [Adversarial samples](https://dl.acm.org/doi/10.1145/3134599): https://evademl.org/
 * [AI for Infectious Diseases](https://www.science.org/doi/full/10.1126/science.adh1114)
+* [Scientific Computing]()
+  * [Reduced order modelling for inverse problems](https://link.springer.com/article/10.1007/s10915-023-02142-4)
 * [Environmental and Energy Science]()
   * [Wind turbine locations](https://www.sciencedirect.com/science/article/pii/S1462901123000497)
   * [Fuel cell and nuclear reactor design](https://www.sciencedirect.com/science/article/pii/S0029549323002728): A joint team from Massachusetts Institute of Technology, University of Michigan (Ann Arbor), and  Shanghai Jiao Tong University
