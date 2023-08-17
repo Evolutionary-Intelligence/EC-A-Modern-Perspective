@@ -11,6 +11,8 @@
 
 ###
 
+* [Physical Science]()
+  * [Higgs-boson measurement](https://arxiv.org/pdf/2303.12018.pdf)
 * [Chemical Science]()
   * [Crystal structure prediction](https://pubs.aip.org/aip/jcp/article-abstract/124/24/244704/567275/Crystal-structure-prediction-using-ab-initio): e.g. [[Yang et al., 2023, Science]](https://www.science.org/doi/full/10.1126/science.abm5134), [[Mannix et al., 2015, Science]](https://www.science.org/doi/full/10.1126/science.aad1080), [[Zhang et al., 2013, Science]](https://www.science.org/doi/10.1126/science.1244989) [([Insa, 2013, Science])](https://www.science.org/doi/10.1126/science.1247699).
   * [Constructing first-principles phase diagrams of amorphous LixSi](https://pubs.aip.org/aip/jcp/article/148/24/241711/960040)
