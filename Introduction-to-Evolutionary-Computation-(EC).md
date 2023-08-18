@@ -35,8 +35,8 @@
   * [State preparation on quantum computers](https://www.nature.com/articles/s41598-023-37767-w): [Physics Letters A](https://www.sciencedirect.com/science/article/pii/S0375960123002402)
 * Hyper-Parameter Optimization (HPO): e.g., for [Reinforcement Learning](https://openreview.net/forum?id=0Vm8Ghcxmp), [Environmental Research](https://pubs.acs.org/doi/full/10.1021/acs.est.3c00026)
   * [Baidu Inc.](https://assets.researchsquare.com/files/rs-2408527/v1_covered.pdf?c=1673942367)
-  * [Algolux + Mercedes-Benz + Princeton University](https://openaccess.thecvf.com/content/CVPR2023/papers/Goudreault_LiDAR-in-the-Loop_Hyperparameter_Optimization_CVPR_2023_paper.pdf) 
-* [Adversarial samples](https://dl.acm.org/doi/10.1145/3134599): https://evademl.org/
+  * [Algolux + Mercedes-Benz + Princeton University](https://openaccess.thecvf.com/content/CVPR2023/papers/Goudreault_LiDAR-in-the-Loop_Hyperparameter_Optimization_CVPR_2023_paper.pdf)
+* [Search-Based Software Engineering (SBSE)](https://dl.acm.org/doi/abs/10.1145/3514233) and [Adversarial ML](https://dl.acm.org/doi/10.1145/3134599): https://evademl.org/
   * [Arachne](https://dl.acm.org/doi/10.1145/3563210)
   * [DeLag](https://ieeexplore.ieee.org/abstract/document/10098585)
 * [AI for Infectious Diseases](https://www.science.org/doi/full/10.1126/science.adh1114)
