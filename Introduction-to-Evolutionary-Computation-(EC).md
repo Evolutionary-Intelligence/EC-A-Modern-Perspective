@@ -36,6 +36,7 @@
   * [Algolux + Mercedes-Benz + Princeton University](https://openaccess.thecvf.com/content/CVPR2023/papers/Goudreault_LiDAR-in-the-Loop_Hyperparameter_Optimization_CVPR_2023_paper.pdf) 
 * [Adversarial samples](https://dl.acm.org/doi/10.1145/3134599): https://evademl.org/
   * [Arachne](https://dl.acm.org/doi/10.1145/3563210)
+  * [DeLag](https://ieeexplore.ieee.org/abstract/document/10098585)
 * [AI for Infectious Diseases](https://www.science.org/doi/full/10.1126/science.adh1114)
 * [Scientific Computing]()
   * [Reduced order modelling for inverse problems](https://link.springer.com/article/10.1007/s10915-023-02142-4)
