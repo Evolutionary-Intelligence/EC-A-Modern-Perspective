@@ -7,6 +7,7 @@
 ### Open-Source Softwares
 
 * [DEAP](): Distributed EAs in Python.
+* [paradiseo](https://github.com/nojhan/paradiseo): An EC framework to (automatically) build fast parallel stochastic optimization solvers.
 * [ParMOO](https://joss.theoj.org/papers/10.21105/joss.04468.pdf): Parallel multiobjective simulation optimization.
 * [Platypus](https://github.com/Project-Platypus/Platypus): A framework for EC in Python with a focus on Multi-Objective EAs.
 * [EC-KitY](https://www.sciencedirect.com/science/article/pii/S2352711023000778): A Python library for doing EC (compatible with scikit-learn).
