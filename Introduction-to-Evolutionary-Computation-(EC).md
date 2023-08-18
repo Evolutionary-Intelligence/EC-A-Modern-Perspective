@@ -26,7 +26,7 @@
   * [Autonomous cars](https://www.sciencedirect.com/science/article/pii/S0743731522002507)
 * [NeuroScience](https://www.pnas.org/doi/abs/10.1073/pnas.2213034120): A joint team from Harvard Medical School and Washington University, St. Louis (**PNAS, 2023**)
 * [Designs of Computer Architectures](https://dl.acm.org/doi/10.1145/3579371.3589049):
-  * ""
+  * [Geneva](https://link.springer.com/article/10.1007/s41781-023-00098-6)
 * [Quantumn Computing]()
   * [Quantum optimal control](https://www.sciencedirect.com/science/article/pii/S0010465523001273)
   * Global optimization of model fitting: [[Villeneuve et al., 2017, Science]](https://www.science.org/doi/full/10.1126/science.aam8393)
