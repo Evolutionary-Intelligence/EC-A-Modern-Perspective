@@ -6,7 +6,8 @@
 
 ### Open-Source Softwares
 
-* [DEAP](): Distributed EAs in Python.
+* [DEAP](https://github.com/deap/deap): Distributed EAs in Python.
+  * **Fortin, F.A., De Rainville, F.M., Gardner, M.A.G., Parizeau, M. and Gagné, C., 2012. DEAP: Evolutionary algorithms made easy. Journal of Machine Learning Research, 13(1), pp.2171-2175.**
 * [PySR]()
 * [paradiseo](https://github.com/nojhan/paradiseo): An EC framework to (automatically) build fast parallel stochastic optimization solvers.
 * [ParMOO](https://joss.theoj.org/papers/10.21105/joss.04468.pdf): Parallel multiobjective simulation optimization.
