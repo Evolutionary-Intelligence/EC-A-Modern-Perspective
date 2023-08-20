@@ -10,6 +10,7 @@
   * **Fortin, F.A., De Rainville, F.M., Gardner, M.A.G., Parizeau, M. and Gagné, C., 2012. DEAP: Evolutionary algorithms made easy. Journal of Machine Learning Research, 13(1), pp.2171-2175.**
 * [pyribs](https://github.com/icaros-usc/pyribs): A Python library for quality-diversity optimization.
 * [PySR]()
+* [TPOT](https://github.com/EpistasisLab/tpot): A Python AutoML tool that optimizes ML pipelines using genetic programming.
 * [paradiseo](https://github.com/nojhan/paradiseo): An EC framework to (automatically) build fast parallel stochastic optimization solvers.
 * [ParMOO](https://joss.theoj.org/papers/10.21105/joss.04468.pdf): Parallel multiobjective simulation optimization.
 * [Platypus](https://github.com/Project-Platypus/Platypus): A framework for EC in Python with a focus on Multi-Objective EAs.
