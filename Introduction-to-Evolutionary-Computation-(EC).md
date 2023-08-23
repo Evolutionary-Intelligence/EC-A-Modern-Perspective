@@ -54,5 +54,6 @@
   * [Wind turbine locations](https://www.sciencedirect.com/science/article/pii/S1462901123000497)
   * [Fuel cell and nuclear reactor design](https://www.sciencedirect.com/science/article/pii/S0029549323002728): A joint team from Massachusetts Institute of Technology, University of Michigan (Ann Arbor), and  Shanghai Jiao Tong University
   * [Kinetics model optimization of fuel-rich methane/NG oxidation with ozone addition](https://www.sciencedirect.com/science/article/pii/S2666352X23000468)
+* Data mining: [[KDD-2023]](https://dl.acm.org/doi/10.1145/3580305.3599253)
 
 Although we have given **many** problem instances where EAs showed **satisfactory** (*not necessarily optimal*) performance, *NOT all problems* could be best solved by EAs: e.g., [[1]](https://www.sciencedirect.com/science/article/pii/S2590238522006622), just to name a few. We believe that the amount of problem instances tackled effectively by EA will still keep increasing in the future.
