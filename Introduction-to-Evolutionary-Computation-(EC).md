@@ -27,8 +27,9 @@
   * [Crystal structure prediction](https://pubs.aip.org/aip/jcp/article-abstract/124/24/244704/567275/Crystal-structure-prediction-using-ab-initio): e.g. [[Yang et al., 2023, Science]](https://www.science.org/doi/full/10.1126/science.abm5134), [[Mannix et al., 2015, Science]](https://www.science.org/doi/full/10.1126/science.aad1080), [[Zhang et al., 2013, Science]](https://www.science.org/doi/10.1126/science.1244989) [([Insa, 2013, Science])](https://www.science.org/doi/10.1126/science.1247699).
   * [Constructing first-principles phase diagrams of amorphous LixSi](https://pubs.aip.org/aip/jcp/article/148/24/241711/960040)
 * [Materials Science]()
-  * [Granular materials](https://link.springer.com/article/10.1007/s10035-022-01282-y): A joint team from California Institute of Technology and ETH Zurich
+  * [Granular materials](https://link.springer.com/article/10.1007/s10035-022-01282-y): A joint team from California Institute of Technology and ETH Zurich.
   * [Grain boundaries in 2D materials](https://pubs.acs.org/doi/full/10.1021/acsami.3c01161)
+  * [Energy-efficient 4D printing](https://onlinelibrary.wiley.com/doi/10.1002/advs.202206607): A joint team from Singapore Institute of Manufacturing Technology, City University of Hong Kong, and Pennsylvania State University.
 * [Control](https://evotorch.ai/)
   * [Active flow control](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/comparative-analysis-of-machine-learning-methods-for-active-flow-control/DF06699ACFFCCD1B5778ED63DFDADCFF)
   * [Autonomous cars](https://www.sciencedirect.com/science/article/pii/S0743731522002507)
