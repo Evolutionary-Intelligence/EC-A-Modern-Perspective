@@ -22,7 +22,7 @@
 ###
 
 * [Astronomy & Astrophysics]()
-  * Calibration of Dark Energy Model: [[DES Collaboration, 2021]](https://www.aanda.org/articles/aa/full_html/2021/12/aa41744-21/aa41744-21.html) [Jet Propulsion Laboratory, California Institute of Technology + etc.]
+  * Calibration of Dark Energy Model: [[DES Collaboration, 2021]](https://www.aanda.org/articles/aa/full_html/2021/12/aa41744-21/aa41744-21.html) [Jet Propulsion Laboratory, California Institute of Technology + Fermi National Accelerator Laboratory + etc.]
 * [Physical Science](): e.g., in [cosmology](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509)
   * [Higgs-boson measurement](https://arxiv.org/pdf/2303.12018.pdf)
 * [Chemical Science]()
