@@ -13,6 +13,7 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
     * Generality versus Particularity
   * [Some Useful and Interesting Applications](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Introduction-to-Evolutionary-Computation-(EC).md#some-useful-and-interesting-applications)
     * [Open-Source Softwares](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Introduction-to-Evolutionary-Computation-(EC).md#open-source-softwares)
+    * Astronomy & Astrophysics
     * Physical Science
     * Chemical Science
     * Environmental and Energy Science
