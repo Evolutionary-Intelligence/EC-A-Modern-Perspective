@@ -24,7 +24,7 @@
 * [Astronomy & Astrophysics]()
   * Calibration of Dark Energy Model (with a 10-dimensional parameter space) for Observational Cosmology: [[DES Collaboration, 2021]](https://www.aanda.org/articles/aa/full_html/2021/12/aa41744-21/aa41744-21.html) [Jet Propulsion Laboratory, California Institute of Technology + Fermi National Accelerator Laboratory + University College London + National Center for Supercomputing Applications + University of Illinois at Urbana-Champaign + University of Wisconsin-Madison + University of Michigan + University of Chicago + Stanford University + SLAC National Accelerator Laboratory + Ludwig-Maximilians-Universität + Harvard & Smithsonian + University of Cambridge + Princeton University + Oak Ridge National Laboratory + etc.]
 * [Control]()
-  * [Learning to School](): [Harvard University + SPACEX + ETH Zürich + etc. ]
+  * [Learning to School](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/learning-to-school-in-the-presence-of-hydrodynamic-interactions/22EE6D99862DB3F3882F287361C8E16A): [Harvard University + SPACEX + ETH Zürich + etc. ]
 * [Physical Science](): e.g., in [cosmology](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509)
   * [Higgs-boson measurement](https://arxiv.org/pdf/2303.12018.pdf)
 * [Chemical Science]()
