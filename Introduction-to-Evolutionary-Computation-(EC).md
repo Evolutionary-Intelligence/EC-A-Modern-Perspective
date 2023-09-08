@@ -14,10 +14,10 @@
 * [TPOT](https://github.com/EpistasisLab/tpot): A Python AutoML tool that optimizes ML pipelines using genetic programming ([![Downloads](https://static.pepy.tech/badge/tpot)](https://pepy.tech/project/tpot)).
 * [paradiseo](https://github.com/nojhan/paradiseo): An EC framework to (automatically) build fast parallel stochastic optimization solvers.
 * [ParMOO](https://joss.theoj.org/papers/10.21105/joss.04468.pdf): Parallel multiobjective simulation optimization.
-* [Platypus](https://github.com/Project-Platypus/Platypus): A framework for EC in Python with a focus on Multi-Objective EAs.
-* [EC-KitY](https://www.sciencedirect.com/science/article/pii/S2352711023000778): A Python library for doing EC compatible with scikit-learn ([![Downloads](https://static.pepy.tech/badge/eckity)](https://pepy.tech/project/eckity)).
-* [evosax](https://github.com/RobertTLange/evosax): Evolution Strategies in JAX ([![Downloads](https://static.pepy.tech/badge/evosax)](https://pepy.tech/project/evosax)).
 * [PyPop7](https://github.com/Evolutionary-Intelligence/pypop): A Pure-Python Library for POPulation-based Black-Box Optimization (BBO), especially their Large-Scale versions/variants ([![Downloads](https://static.pepy.tech/badge/pypop7)](https://pepy.tech/project/pypop7)).
+* [Platypus](https://github.com/Project-Platypus/Platypus): A framework for EC in Python with a focus on Multi-Objective EAs ([![Downloads](https://static.pepy.tech/badge/platypus)](https://pepy.tech/project/platypus)).
+* [evosax](https://github.com/RobertTLange/evosax): Evolution Strategies in JAX ([![Downloads](https://static.pepy.tech/badge/evosax)](https://pepy.tech/project/evosax)).
+* [EC-KitY](https://www.sciencedirect.com/science/article/pii/S2352711023000778): A Python library for doing EC compatible with scikit-learn ([![Downloads](https://static.pepy.tech/badge/eckity)](https://pepy.tech/project/eckity)).
 
 ###
 
