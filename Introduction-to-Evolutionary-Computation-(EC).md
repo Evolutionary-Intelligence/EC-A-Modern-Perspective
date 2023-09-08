@@ -12,6 +12,7 @@
 * [pycma](https://github.com/CMA-ES/pycma): Python implementation of CMA-ES ([![Downloads](https://static.pepy.tech/badge/cma)](https://pepy.tech/project/cma)).
 * [pymoo](https://github.com/anyoptimization/pymoo): Multi-objective Optimization in Python ([![Downloads](https://static.pepy.tech/badge/pymoo)](https://pepy.tech/project/pymoo)).
 * [TPOT](https://github.com/EpistasisLab/tpot): A Python AutoML tool that optimizes ML pipelines using genetic programming ([![Downloads](https://static.pepy.tech/badge/tpot)](https://pepy.tech/project/tpot)).
+* [nevergrad](https://github.com/facebookresearch/nevergrad): A Python toolbox for performing gradient-free optimization ([![Downloads](https://static.pepy.tech/badge/nevergrad)](https://pepy.tech/project/nevergrad)).
 * [PySR](https://github.com/MilesCranmer/PySR): High-Performance Symbolic Regression in Python and Julia ([![Downloads](https://static.pepy.tech/badge/PySR)](https://pepy.tech/project/PySR)).
 * [PyPop7](https://github.com/Evolutionary-Intelligence/pypop): A Pure-Python Library for POPulation-based Black-Box Optimization (BBO), especially their Large-Scale versions/variants ([![Downloads](https://static.pepy.tech/badge/pypop7)](https://pepy.tech/project/pypop7)).
 * [Platypus](https://github.com/Project-Platypus/Platypus): A framework for EC in Python with a focus on Multi-Objective EAs ([![Downloads](https://static.pepy.tech/badge/platypus)](https://pepy.tech/project/platypus)).
