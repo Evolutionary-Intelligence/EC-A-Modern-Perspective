@@ -9,14 +9,14 @@
 * [DEAP](https://github.com/deap/deap): Distributed EAs in Python (*> 2000 Citations* + [![Downloads](https://static.pepy.tech/badge/deap)](https://pepy.tech/project/deap)).
   * **Fortin, F.A., De Rainville, F.M., Gardner, M.A.G., Parizeau, M. and Gagné, C., 2012. DEAP: Evolutionary algorithms made easy. Journal of Machine Learning Research, 13(1), pp.2171-2175.**
 * [QDax](): A Python tool to accelerate Quality-Diversity (QD) and neuro-evolution algorithms through hardware accelerators and massive parallelization.
-* [pyribs](https://github.com/icaros-usc/pyribs): A Python library for quality-diversity optimization ([![Downloads](https://static.pepy.tech/badge/pyribs)](https://pepy.tech/project/pyribs)).
-* [PySR](): ([![Downloads](https://static.pepy.tech/badge/PySR)](https://pepy.tech/project/PySR)).
 * [TPOT](https://github.com/EpistasisLab/tpot): A Python AutoML tool that optimizes ML pipelines using genetic programming ([![Downloads](https://static.pepy.tech/badge/tpot)](https://pepy.tech/project/tpot)).
-* [paradiseo](https://github.com/nojhan/paradiseo): An EC framework to (automatically) build fast parallel stochastic optimization solvers.
+* [PySR](https://github.com/MilesCranmer/PySR): High-Performance Symbolic Regression in Python and Julia ([![Downloads](https://static.pepy.tech/badge/PySR)](https://pepy.tech/project/PySR)).
 * [PyPop7](https://github.com/Evolutionary-Intelligence/pypop): A Pure-Python Library for POPulation-based Black-Box Optimization (BBO), especially their Large-Scale versions/variants ([![Downloads](https://static.pepy.tech/badge/pypop7)](https://pepy.tech/project/pypop7)).
 * [Platypus](https://github.com/Project-Platypus/Platypus): A framework for EC in Python with a focus on Multi-Objective EAs ([![Downloads](https://static.pepy.tech/badge/platypus)](https://pepy.tech/project/platypus)).
 * [evosax](https://github.com/RobertTLange/evosax): Evolution Strategies in JAX ([![Downloads](https://static.pepy.tech/badge/evosax)](https://pepy.tech/project/evosax)).
 * [EC-KitY](https://www.sciencedirect.com/science/article/pii/S2352711023000778): A Python library for doing EC compatible with scikit-learn ([![Downloads](https://static.pepy.tech/badge/eckity)](https://pepy.tech/project/eckity)).
+* [pyribs](https://github.com/icaros-usc/pyribs): A Python library for quality-diversity optimization ([![Downloads](https://static.pepy.tech/badge/pyribs)](https://pepy.tech/project/pyribs)).
+* [paradiseo](https://github.com/nojhan/paradiseo): An EC framework to (automatically) build fast parallel stochastic optimization solvers.
 
 ###
 
