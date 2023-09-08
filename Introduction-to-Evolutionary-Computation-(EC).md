@@ -6,8 +6,10 @@
 
 ### Open-Source Softwares
 
+* [cmaes](https://github.com/CyberAgentAILab/cmaes): Python library for CMA Evolution Strategy ([![Downloads](https://static.pepy.tech/badge/cmaes)](https://pepy.tech/project/cmaes)).
 * [DEAP](https://github.com/deap/deap): Distributed EAs in Python (*> 2000 Citations* + [![Downloads](https://static.pepy.tech/badge/deap)](https://pepy.tech/project/deap)).
   * **Fortin, F.A., De Rainville, F.M., Gardner, M.A.G., Parizeau, M. and Gagné, C., 2012. DEAP: Evolutionary algorithms made easy. Journal of Machine Learning Research, 13(1), pp.2171-2175.**
+* [pycma](https://github.com/CMA-ES/pycma): Python implementation of CMA-ES ([![Downloads](https://static.pepy.tech/badge/cma)](https://pepy.tech/project/cma)).
 * [pymoo](https://github.com/anyoptimization/pymoo): Multi-objective Optimization in Python ([![Downloads](https://static.pepy.tech/badge/pymoo)](https://pepy.tech/project/pymoo)).
 * [TPOT](https://github.com/EpistasisLab/tpot): A Python AutoML tool that optimizes ML pipelines using genetic programming ([![Downloads](https://static.pepy.tech/badge/tpot)](https://pepy.tech/project/tpot)).
 * [PySR](https://github.com/MilesCranmer/PySR): High-Performance Symbolic Regression in Python and Julia ([![Downloads](https://static.pepy.tech/badge/PySR)](https://pepy.tech/project/PySR)).
