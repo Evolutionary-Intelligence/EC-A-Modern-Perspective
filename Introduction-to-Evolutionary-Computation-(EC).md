@@ -6,21 +6,21 @@
 
 ### Open-Source Softwares
 
-* [cmaes](https://github.com/CyberAgentAILab/cmaes): Python library for CMA Evolution Strategy ([![Downloads](https://static.pepy.tech/badge/cmaes)](https://pepy.tech/project/cmaes)).
+* [cmaes](https://github.com/CyberAgentAILab/cmaes): Python library for CMA ES ([![Downloads](https://static.pepy.tech/badge/cmaes)](https://pepy.tech/project/cmaes)).
 * [DEAP](https://github.com/deap/deap): Distributed EAs in Python (*> 2000 Citations* + [![Downloads](https://static.pepy.tech/badge/deap)](https://pepy.tech/project/deap)).
   * **Fortin, F.A., De Rainville, F.M., Gardner, M.A.G., Parizeau, M. and Gagné, C., 2012. DEAP: Evolutionary algorithms made easy. Journal of Machine Learning Research, 13(1), pp.2171-2175.**
 * [pycma](https://github.com/CMA-ES/pycma): Python implementation of CMA-ES ([![Downloads](https://static.pepy.tech/badge/cma)](https://pepy.tech/project/cma)).
 * [pymoo](https://github.com/anyoptimization/pymoo): Multi-objective Optimization in Python ([![Downloads](https://static.pepy.tech/badge/pymoo)](https://pepy.tech/project/pymoo)).
-* [TPOT](https://github.com/EpistasisLab/tpot): A Python AutoML tool that optimizes ML pipelines using genetic programming ([![Downloads](https://static.pepy.tech/badge/tpot)](https://pepy.tech/project/tpot)).
+* [TPOT](https://github.com/EpistasisLab/tpot): A Python AutoML tool that optimizes ML pipelines using GP ([![Downloads](https://static.pepy.tech/badge/tpot)](https://pepy.tech/project/tpot)).
 * [nevergrad](https://github.com/facebookresearch/nevergrad): A Python toolbox for performing gradient-free optimization ([![Downloads](https://static.pepy.tech/badge/nevergrad)](https://pepy.tech/project/nevergrad)).
 * [PySR](https://github.com/MilesCranmer/PySR): High-Performance Symbolic Regression in Python and Julia ([![Downloads](https://static.pepy.tech/badge/PySR)](https://pepy.tech/project/PySR)).
 * [PyPop7](https://github.com/Evolutionary-Intelligence/pypop): A Pure-Python Library for POPulation-based Black-Box Optimization (BBO), especially their Large-Scale versions/variants ([![Downloads](https://static.pepy.tech/badge/pypop7)](https://pepy.tech/project/pypop7)).
 * [Platypus](https://github.com/Project-Platypus/Platypus): A framework for EC in Python with a focus on Multi-Objective EAs ([![Downloads](https://static.pepy.tech/badge/platypus)](https://pepy.tech/project/platypus)).
-* [evosax](https://github.com/RobertTLange/evosax): Evolution Strategies in JAX ([![Downloads](https://static.pepy.tech/badge/evosax)](https://pepy.tech/project/evosax)).
-* [EvoTorch ](https://github.com/nnaisense/evotorch): Advanced evolutionary computation library built directly on top of PyTorch, created at NNAISENSE ([![Downloads](https://static.pepy.tech/badge/evotorch)](https://pepy.tech/project/evotorch)).
+* [evosax](https://github.com/RobertTLange/evosax): ES in JAX ([![Downloads](https://static.pepy.tech/badge/evosax)](https://pepy.tech/project/evosax)).
+* [EvoTorch ](https://github.com/nnaisense/evotorch): Advanced EC library built directly on top of PyTorch, created at NNAISENSE ([![Downloads](https://static.pepy.tech/badge/evotorch)](https://pepy.tech/project/evotorch)).
 * [EC-KitY](https://www.sciencedirect.com/science/article/pii/S2352711023000778): A Python library for doing EC compatible with scikit-learn ([![Downloads](https://static.pepy.tech/badge/eckity)](https://pepy.tech/project/eckity)).
-* [QDax](https://github.com/adaptive-intelligent-robotics/QDax): A Python tool to accelerate Quality-Diversity (QD) and neuro-evolution algorithms through hardware accelerators and massive parallelization ([![Downloads](https://static.pepy.tech/badge/qdax)](https://pepy.tech/project/qdax)).
-* [pyribs](https://github.com/icaros-usc/pyribs): A Python library for quality-diversity optimization ([![Downloads](https://static.pepy.tech/badge/pyribs)](https://pepy.tech/project/pyribs)).
+* [QDax](https://github.com/adaptive-intelligent-robotics/QDax): A Python tool to accelerate QD and neuro-evolution algorithms through hardware accelerators and massive parallelization ([![Downloads](https://static.pepy.tech/badge/qdax)](https://pepy.tech/project/qdax)).
+* [pyribs](https://github.com/icaros-usc/pyribs): A Python library for QD optimization ([![Downloads](https://static.pepy.tech/badge/pyribs)](https://pepy.tech/project/pyribs)).
 * [paradiseo](https://github.com/nojhan/paradiseo): An EC framework to (automatically) build fast parallel stochastic optimization solvers.
 
 ###
