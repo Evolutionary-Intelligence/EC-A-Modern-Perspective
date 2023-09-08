@@ -6,6 +6,8 @@
 
 ### Open-Source Softwares
 
+Note that the following order regarding a set of open-source EC libraries makes no sense (just from a download statistic perspective).
+
 * [cmaes](https://github.com/CyberAgentAILab/cmaes): Python library for CMA ES ([![Downloads](https://static.pepy.tech/badge/cmaes)](https://pepy.tech/project/cmaes)).
 * [DEAP](https://github.com/deap/deap): Distributed EAs in Python (*> 2000 Citations* + [![Downloads](https://static.pepy.tech/badge/deap)](https://pepy.tech/project/deap)).
   * **Fortin, F.A., De Rainville, F.M., Gardner, M.A.G., Parizeau, M. and Gagné, C., 2012. DEAP: Evolutionary algorithms made easy. Journal of Machine Learning Research, 13(1), pp.2171-2175.**
