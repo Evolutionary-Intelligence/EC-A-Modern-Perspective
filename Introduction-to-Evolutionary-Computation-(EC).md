@@ -18,6 +18,7 @@ Note that the following order regarding a set of open-source EC libraries makes 
 * [PyBrain](https://github.com/pybrain/pybrain): The Python ML Library ([![Downloads](https://static.pepy.tech/badge/pybrain)](https://pepy.tech/project/pybrain)).
 * [pygmo2](https://esa.github.io/pygmo2/): A scientific Python library for massively parallel optimization ([![Downloads](https://static.pepy.tech/badge/pygmo)](https://pepy.tech/project/pygmo)).
 * [PySR](https://github.com/MilesCranmer/PySR): High-Performance Symbolic Regression in Python and Julia ([![Downloads](https://static.pepy.tech/badge/PySR)](https://pepy.tech/project/PySR)).
+* [EvoJAX](https://github.com/google/evojax): Hardware-Accelerated Neuroevolution ([![Downloads](https://static.pepy.tech/badge/evojax)](https://pepy.tech/project/evojax)).
 * [PyPop7](https://github.com/Evolutionary-Intelligence/pypop): A Pure-Python Library for POPulation-based Black-Box Optimization (BBO), especially their Large-Scale versions/variants ([![Downloads](https://static.pepy.tech/badge/pypop7)](https://pepy.tech/project/pypop7)).
 * [Platypus](https://github.com/Project-Platypus/Platypus): A framework for EC in Python with a focus on Multi-Objective EAs ([![Downloads](https://static.pepy.tech/badge/platypus)](https://pepy.tech/project/platypus)).
 * [evosax](https://github.com/RobertTLange/evosax): ES in JAX ([![Downloads](https://static.pepy.tech/badge/evosax)](https://pepy.tech/project/evosax)).
