@@ -22,6 +22,7 @@ Note that the following order regarding a set of **open-source** EC libraries ma
 * [EvoJAX](https://github.com/google/evojax): Hardware-Accelerated Neuroevolution ([![Downloads](https://static.pepy.tech/badge/evojax)](https://pepy.tech/project/evojax)).
 * [PyPop7](https://github.com/Evolutionary-Intelligence/pypop): A Pure-Python Library for POPulation-based Black-Box Optimization (BBO), especially their Large-Scale versions/variants ([![Downloads](https://static.pepy.tech/badge/pypop7)](https://pepy.tech/project/pypop7)).
 * [Platypus](https://github.com/Project-Platypus/Platypus): A framework for EC in Python with a focus on Multi-Objective EAs ([![Downloads](https://static.pepy.tech/badge/platypus)](https://pepy.tech/project/platypus)).
+* [Vega](https://github.com/huawei-noah/vega): AutoML tools chain ([![Downloads](https://static.pepy.tech/badge/noah-vega)](https://pepy.tech/project/noah-vega)).
 * [evosax](https://github.com/RobertTLange/evosax): ES in JAX ([![Downloads](https://static.pepy.tech/badge/evosax)](https://pepy.tech/project/evosax)).
 * [LEAP](https://github.com/AureumChaos/LEAP): A general purpose Library for EAs in Python ([![Downloads](https://static.pepy.tech/badge/leap_ec)](https://pepy.tech/project/leap_ec)).
 * [EvolutionaryForest](https://github.com/hengzhe-zhang/EvolutionaryForest): An open source python library for automated feature engineering based on GP ([![Downloads](https://static.pepy.tech/badge/evolutionary_forest)](https://pepy.tech/project/evolutionary_forest))
