@@ -104,3 +104,7 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 * [2007] Self-Organization, Embodiment, and Biologically Inspired Robotics [Science+Pfeifer+Iida]
 * [2006] Resilient Machines through Continuous Self-Modeling [Science+Cornell+Bongard+Lipson]
 * [2021] From Individual Robots to Robot Societies [ScienceRobotics+Floreano+Lipson]
+* [2019] Particle Robotics Based on Statistical Mechanics of Loosely Coupled Components [Nature+MIT+Columbia+Cornell+Harvard+Lipson]
+* [2003] The Evolutionary Origin of Complex Features [Nature]
+* [2020] Classification with a Disordered Dopant-Atom Network in Silicon [Nature]
+* [2020] Evolution of Circuits for Machine Learning [Nature+MIT]
