@@ -101,3 +101,5 @@ https://www.cs.ubc.ca/~murphyk/Papers/pomdp.pdf
 [2020] Momentum Accelerates Evolutionary Dynamics [Google]
 
 [2020] Visualizing Movement Control Optimization Landscapes [IEEE-TVCG+Stanford]
+
+[2020] Robust Reinforcement Learning using Adversarial Populations [Berkeley+Abbeel]
