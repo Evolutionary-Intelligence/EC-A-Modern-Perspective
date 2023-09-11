@@ -93,3 +93,11 @@ https://www.cs.ubc.ca/~murphyk/Papers/pomdp.pdf
 [2009] Neuroevolutionary Reinforcement Learning for Generalized Helicopter Control [GECCO+Amsterdam+Whiteson]
 
 [2010] On the Characteristics of Sequential Decision Problems and Their Impact on Evolutionary Computation and Reinforcement Learning
+
+[2011] Neuroevolutionary Reinforcement Learning for Generalized Control of Simulated Helicopters [Whiteson]
+
+[2012] Reinforcement Learning in Continuous State and Action Spaces
+
+[2020] Momentum Accelerates Evolutionary Dynamics [Google]
+
+[2020] Visualizing Movement Control Optimization Landscapes [IEEE-TVCG+Stanford]
