@@ -5,3 +5,7 @@
 # Graph Reinforcement Learning (GRL)
 
 * [Feudal Graph Reinforcement Learning (FGRL)](https://arxiv.org/pdf/2304.05099.pdf)
+
+## Reference
+
+https://www.cs.ox.ac.uk/people/shimon.whiteson/pubs/whitesonrlsota11.pdf
