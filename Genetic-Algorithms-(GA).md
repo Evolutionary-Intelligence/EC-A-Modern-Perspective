@@ -11,3 +11,8 @@
 * [Rare earth–free magnetic materials](https://www.pnas.org/doi/abs/10.1073/pnas.2204485119): A joint team from Iowa State University, University of Texas at Austin, University of Tokyo, University of Nebraska, Guangdong University of
 Technology, Yantai University, and Zhejiang Agriculture and Forestry University.
 * [Travelling salesman problem (TSP)](https://www.nature.com/articles/317804a0): Cavendish Laboratory (**Nature, 1985**)
+
+Reference
+
+* Mitchell, M., 1998. An introduction to genetic algorithms. MIT Press.
+* Whitley, D., 1994. A genetic algorithm tutorial. Statistics and Computing, 4(2), pp.65-85.
