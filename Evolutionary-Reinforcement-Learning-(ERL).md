@@ -107,3 +107,10 @@ https://www.cs.ubc.ca/~murphyk/Papers/pomdp.pdf
 [2018] Challenges in High-Dimensional Reinforcement Learning with Evolution Strategies [PPSN+Glasmachers]
 
 [2019] Neuroevolution for Deep Reinforcement Learning Problems [GECCO+GoogleBrain+Ha]
+
+
+[2019] CEM-RL - Combining evolutionary and gradient-based methods for policy search [ICLR+Sigaud]
+
+[2019] Neural Graph Evolution - Towards Efficient Automatic Robot Design [ICLR+Toronto+NVIDIA+Ba]
+
+[2020] Learning to Guide Random Search [ICLR+IntelLabs]
