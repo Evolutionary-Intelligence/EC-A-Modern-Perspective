@@ -73,3 +73,5 @@ https://www.cs.ubc.ca/~murphyk/Papers/pomdp.pdf
 [1999] Evolution of Goal-Directed Behavior from Limited Information in a Complex Environment [GECCO+CMU+Sycara]
 
 [2020] Evolutionary Reinforcement Learning for Sample-Efficient Multiagent Coordination [ICML+Tumer]
+
+[2021] Evolutionary Game Theory Squared - Evolving Agents in Endogenously Evolving Games [AAAI+Washington]
