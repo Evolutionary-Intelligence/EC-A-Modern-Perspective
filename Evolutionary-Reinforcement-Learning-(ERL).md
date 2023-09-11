@@ -103,3 +103,7 @@ https://www.cs.ubc.ca/~murphyk/Papers/pomdp.pdf
 [2020] Visualizing Movement Control Optimization Landscapes [IEEE-TVCG+Stanford]
 
 [2020] Robust Reinforcement Learning using Adversarial Populations [Berkeley+Abbeel]
+
+[2018] Challenges in High-Dimensional Reinforcement Learning with Evolution Strategies [PPSN+Glasmachers]
+
+[2019] Neuroevolution for Deep Reinforcement Learning Problems [GECCO+GoogleBrain+Ha]
