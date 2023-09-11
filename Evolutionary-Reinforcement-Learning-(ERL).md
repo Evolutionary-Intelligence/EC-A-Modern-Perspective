@@ -51,3 +51,5 @@ https://dl.acm.org/doi/10.1145/2463372.2463509
 https://arxiv.org/abs/1703.03864
 
 https://www.deepmind.com/publications/noisy-networks-for-exploration
+
+https://www.ijcai.org/Proceedings/2019/0295.pdf
