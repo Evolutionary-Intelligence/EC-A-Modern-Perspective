@@ -8,3 +8,5 @@
 ## Reference
 
 https://cacm.acm.org/news/225641-can-neuroevolution-change-machine-learning/fulltext
+
+https://direct.mit.edu/neco/article-abstract/22/7/1860/7554/Autonomous-Evolution-of-Topographic-Regularities
