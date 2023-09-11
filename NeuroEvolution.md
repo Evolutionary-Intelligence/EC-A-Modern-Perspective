@@ -24,3 +24,5 @@ https://proceedings.neurips.cc/paper/1989/hash/8c19f571e251e61cb8dd3612f26d5ecf-
 https://direct.mit.edu/evco/article-abstract/10/2/99/1123/Evolving-Neural-Networks-through-Augmenting
 
 https://dl.acm.org/doi/10.5555/1642293.1642430
+
+https://direct.mit.edu/neco/article-abstract/19/3/757/7156/Training-Recurrent-Networks-by-Evolino?redirectedFrom=fulltext
