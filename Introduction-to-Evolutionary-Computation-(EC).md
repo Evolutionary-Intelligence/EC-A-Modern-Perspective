@@ -79,6 +79,7 @@ Note that the following order regarding a set of **open-source** EC libraries ma
 * [Aeronautics and Astronautics]()
   * [Design nonsymmetric satellite constellations](https://arc.aiaa.org/doi/full/10.2514/1.A35515): Georgia Institute of Technology
 * [Environmental and Energy Science]()
+  * [Designing Diversified Renewable Energy Systems](https://www.nature.com/articles/s41893-022-01033-0): [Gonzalez et al., 2023, Nature Sustainability]
   * [Wind turbine locations](https://www.sciencedirect.com/science/article/pii/S1462901123000497)
   * [Fuel cell and nuclear reactor design](https://www.sciencedirect.com/science/article/pii/S0029549323002728): A joint team from Massachusetts Institute of Technology, University of Michigan (Ann Arbor), and  Shanghai Jiao Tong University
   * [Kinetics model optimization of fuel-rich methane/NG oxidation with ozone addition](https://www.sciencedirect.com/science/article/pii/S2666352X23000468)
