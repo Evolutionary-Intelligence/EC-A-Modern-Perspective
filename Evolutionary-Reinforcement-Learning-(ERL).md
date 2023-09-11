@@ -15,3 +15,5 @@ https://link.springer.com/article/10.1007/s12065-011-0066-z
 https://www.ifaamas.org/Proceedings/aamas2010/pdf/01%20Full%20Papers/15_04_FP_0630.pdf
 
 https://dl.acm.org/doi/10.1145/1569901.1570064
+
+https://www.sciencedirect.com/science/article/pii/S0196677409000364
