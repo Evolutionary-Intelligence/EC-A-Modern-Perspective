@@ -12,3 +12,5 @@ https://cacm.acm.org/news/225641-can-neuroevolution-change-machine-learning/full
 https://direct.mit.edu/neco/article-abstract/22/7/1860/7554/Autonomous-Evolution-of-Topographic-Regularities
 
 Evolving neural networks for strategic decision-making problems
+
+https://ieeexplore.ieee.org/document/942536
