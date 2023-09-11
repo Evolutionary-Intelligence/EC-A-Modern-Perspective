@@ -14,3 +14,5 @@ https://direct.mit.edu/neco/article-abstract/22/7/1860/7554/Autonomous-Evolution
 Evolving neural networks for strategic decision-making problems
 
 https://ieeexplore.ieee.org/document/942536
+
+https://www.jair.org/index.php/jair/article/view/10367
