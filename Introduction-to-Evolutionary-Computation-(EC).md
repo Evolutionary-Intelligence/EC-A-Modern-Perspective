@@ -36,7 +36,9 @@ Note that the following order regarding a set of **open-source** EC libraries ma
 
 ###
 
-* [Astronomy & Astrophysics]()
+* [Aeronautics&Astronautics](https://www.aiaa.org/)
+  * [Design Nonsymmetric Satellite Constellations](https://arc.aiaa.org/doi/full/10.2514/1.A35515): Georgia Institute of Technology
+* [Astronomy&Astrophysics]()
   * [Calibration of Dark Energy Model (with a 10-dimensional parameter space) for Observational Cosmology](https://www.aanda.org/articles/aa/full_html/2021/12/aa41744-21/aa41744-21.html): [DES Collaboration: Jet Propulsion Laboratory, California Institute of Technology + Fermi National Accelerator Laboratory + University College London + National Center for Supercomputing Applications + University of Illinois at Urbana-Champaign + University of Wisconsin-Madison + University of Michigan + University of Chicago + Stanford University + SLAC National Accelerator Laboratory + Ludwig-Maximilians-Universität + Harvard & Smithsonian + University of Cambridge + Princeton University + Oak Ridge National Laboratory + etc.]
 * [Biology]()
   * [Stochastic Model Optimization for Microtubule Motors](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000623): [ETH Zürich + University of Zurich]
@@ -76,8 +78,6 @@ Note that the following order regarding a set of **open-source** EC libraries ma
 * [AI for Infectious Diseases](https://www.science.org/doi/full/10.1126/science.adh1114)
 * [Scientific Computing]()
   * [Reduced order modelling for inverse problems](https://link.springer.com/article/10.1007/s10915-023-02142-4)
-* [Aeronautics and Astronautics]()
-  * [Design nonsymmetric satellite constellations](https://arc.aiaa.org/doi/full/10.2514/1.A35515): Georgia Institute of Technology
 * [Environmental and Energy Science]()
   * [Designing Diversified Renewable Energy Systems](https://www.nature.com/articles/s41893-022-01033-0): [Gonzalez et al., 2023, Nature Sustainability]
   * [Wind turbine locations](https://www.sciencedirect.com/science/article/pii/S1462901123000497)
