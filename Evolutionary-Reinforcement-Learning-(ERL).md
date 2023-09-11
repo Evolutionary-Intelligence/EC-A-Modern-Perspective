@@ -35,3 +35,5 @@ https://arxiv.org/abs/1712.00006
 https://openai.com/research/better-exploration-with-parameter-noise
 
 https://direct.mit.edu/evco/article-abstract/5/4/373/797/Forming-Neural-Networks-Through-Efficient-and?redirectedFrom=fulltext
+
+https://www.ijcai.org/Proceedings/99-2/Papers/097.pdf
