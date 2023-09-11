@@ -45,6 +45,7 @@ CMA-ES could provide a **strong baseline** on *many* challenging BBO problems, s
 * Bäck, T., Foussette, C. and Krause, P., 2013. Contemporary evolution strategies. Berlin: Springer.
 * [2012] A Comparison of Global Search Algorithms for Continuous Black Box Optimization [EC]
 * Beyer, H.G. and Schwefel, H.P., 2002. Evolution strategies–A comprehensive introduction. Natural Computing, 1(1), pp.3-52.
+* [2000] Evolutionary algorithms in noisy environments - Theoretical issues and guidelines for practice [Beyer]
 * Rechenberg, I., 2000. Case studies in evolutionary experimentation and computation. Computer Methods in Applied Mechanics and Engineering, 186(2-4), pp.125-140.
 * Rechenberg, I., 1984. The evolution strategy. A mathematical model of darwinian evolution. In Synergetics—from Microscopic to Macroscopic Order (pp. 122-132). Springer, Berlin, Heidelberg.
 * Schwefel, H.P., 1981. Numerical optimization of computer models. John Wiley & Sons, Inc..
