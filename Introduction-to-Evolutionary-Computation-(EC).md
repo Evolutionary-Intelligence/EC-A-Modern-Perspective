@@ -95,3 +95,4 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 * [2020] Evolutionary Computation - A Unified Approach [GECCO+DeJong]
 * [2006] Evolutionary Computation - Toward a New Philosophy of Machine Intelligence [ThirdEdition+Fogel]
 * [2015] The Five Tribes of Machine Learning [Domingos]
+* [2015] The Master Algorithm - How the Quest for the Ultimate Learning Machine Will Remake Our World [Domingos]
