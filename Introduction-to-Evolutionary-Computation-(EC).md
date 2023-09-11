@@ -94,3 +94,4 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 * [2013] Analyzing Evolutionary Algorithms - The Computer Science Perspective [Jansen]
 * [2020] Evolutionary Computation - A Unified Approach [GECCO+DeJong]
 * [2006] Evolutionary Computation - Toward a New Philosophy of Machine Intelligence [ThirdEdition+Fogel]
+* [2015] The Five Tribes of Machine Learning [Domingos]
