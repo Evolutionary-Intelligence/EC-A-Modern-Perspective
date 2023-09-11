@@ -11,3 +11,5 @@
 https://www.cs.ox.ac.uk/people/shimon.whiteson/pubs/whitesonrlsota11.pdf
 
 https://link.springer.com/article/10.1007/s12065-011-0066-z
+
+https://www.ifaamas.org/Proceedings/aamas2010/pdf/01%20Full%20Papers/15_04_FP_0630.pdf
