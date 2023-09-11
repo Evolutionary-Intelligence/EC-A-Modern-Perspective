@@ -108,9 +108,30 @@ https://www.cs.ubc.ca/~murphyk/Papers/pomdp.pdf
 
 [2019] Neuroevolution for Deep Reinforcement Learning Problems [GECCO+GoogleBrain+Ha]
 
-
 [2019] CEM-RL - Combining evolutionary and gradient-based methods for policy search [ICLR+Sigaud]
 
 [2019] Neural Graph Evolution - Towards Efficient Automatic Robot Design [ICLR+Toronto+NVIDIA+Ba]
 
 [2020] Learning to Guide Random Search [ICLR+IntelLabs]
+
+[1993] Genetic Reinforcement Learning for Neurocontrol Problems [ML+Whitley]
+
+[1999] Evolution, Neural Networks, Games, and Intelligence [PIEEE+Fogel]
+
+[2011] Cross-Entropy Randomized Motion Planning [RSS]
+
+[2012] Path Integral Policy Improvement with Covariance Matrix Adaptation [ICML+Stulp+Sigaud]
+
+[2012] Policy Improvement Methods - Between Black-Box Optimization and Episodic Reinforcement Learning [Stulp+Sigaud]
+
+[2018] Deep Neuroevolution - Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning [OpenReview+UberAI+Stanley+Clune]
+
+[2018] Policy Optimization by Genetic Distillation [ICLR]
+
+[2018] Simple Random Search of Static Linear Policies is Competitive for Reinforcement Learning [NeurIPS+Berkeley+SM]
+
+[2019] Computers Evolve a New Path Toward Human Intelligence [quantamagazine]
+
+[2019] Designing Neural Networks through Neuroevolution [Stanley+Clune+Miikkulainen+NatureMachineIntelligence]
+
+[2020] Analyzing Reinforcement Learning Benchmarks with Random Weight Guessing [AAMAS+Glasmachers]
