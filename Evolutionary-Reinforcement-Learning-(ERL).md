@@ -9,3 +9,5 @@
 ## Reference
 
 https://www.cs.ox.ac.uk/people/shimon.whiteson/pubs/whitesonrlsota11.pdf
+
+https://link.springer.com/article/10.1007/s12065-011-0066-z
