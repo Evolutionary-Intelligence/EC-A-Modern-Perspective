@@ -23,3 +23,5 @@ https://dl.acm.org/doi/10.1145/1553374.1553426
 https://direct.mit.edu/evco/article-abstract/16/2/257/1289/Efficient-Evaluation-Functions-for-Evolving
 
 https://link.springer.com/chapter/10.1007/11871842_64
+
+https://link.springer.com/article/10.1023/A:1018004120707
