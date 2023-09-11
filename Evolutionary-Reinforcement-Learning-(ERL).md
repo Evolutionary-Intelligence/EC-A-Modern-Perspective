@@ -62,4 +62,6 @@ https://www.science.org/doi/10.1126/science.aau6249
 
 http://proceedings.mlr.press/v48/duan16.html
 
-[2018] Bootstrapping Q-Learning for Robotics From Neuro-Evolution Results [IEEE-TCDS+Doncieux]
+Bootstrapping Q-Learning for Robotics From Neuro-Evolution Results
+
+https://www.cs.ubc.ca/~murphyk/Papers/pomdp.pdf
