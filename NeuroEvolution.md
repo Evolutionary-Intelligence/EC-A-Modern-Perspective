@@ -26,3 +26,5 @@ https://direct.mit.edu/evco/article-abstract/10/2/99/1123/Evolving-Neural-Networ
 https://dl.acm.org/doi/10.5555/1642293.1642430
 
 https://direct.mit.edu/neco/article-abstract/19/3/757/7156/Training-Recurrent-Networks-by-Evolino?redirectedFrom=fulltext
+
+[2017] Neuroevolution in Games - State of the Art and Open Challenges [NYU+Togelius+Risi]
