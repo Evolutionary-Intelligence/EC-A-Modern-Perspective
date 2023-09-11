@@ -41,3 +41,5 @@ https://www.ijcai.org/Proceedings/99-2/Papers/097.pdf
 https://dl.acm.org/doi/10.1145/1068009.1068092
 
 https://link.springer.com/chapter/10.1007/11550907_61
+
+https://jmlr.org/papers/v7/whiteson06a.html
