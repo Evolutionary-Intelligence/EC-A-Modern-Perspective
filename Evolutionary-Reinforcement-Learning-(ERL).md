@@ -17,3 +17,5 @@ https://www.ifaamas.org/Proceedings/aamas2010/pdf/01%20Full%20Papers/15_04_FP_06
 https://dl.acm.org/doi/10.1145/1569901.1570064
 
 https://www.sciencedirect.com/science/article/pii/S0196677409000364
+
+https://dl.acm.org/doi/10.1145/1553374.1553426
