@@ -75,3 +75,21 @@ https://www.cs.ubc.ca/~murphyk/Papers/pomdp.pdf
 [2020] Evolutionary Reinforcement Learning for Sample-Efficient Multiagent Coordination [ICML+Tumer]
 
 [2021] Evolutionary Game Theory Squared - Evolving Agents in Endogenously Evolving Games [AAAI+Washington]
+
+[2001] Robot Weightlifting By Direct Policy Search [IJCAI+Barto]
+
+[2003] Real-time Adaptation Technique to Real Robots - An Experiment with a Humanoid Robot [CEC+Tokyo+Iba]
+
+[2004] Efficient Evolution of Neural Networks through Complexification [PhD+Stanley+Miikkulainen]
+
+[2005] Synergies between Evolutionary and Neural Computation [Igel]
+
+[2005] The Quantitative Law of Effect is a Robust Emergent Property of an Evolutionary Algorithm for Reinforcement Learning
+
+[2007] Adaptive Representations for Reinforcement Learning [PhD+Whiteson+Stone]
+
+[2008] Similarities and Differences between Policy Gradient Methods and Evolution Strategies [Igel]
+
+[2009] Neuroevolutionary Reinforcement Learning for Generalized Helicopter Control [GECCO+Amsterdam+Whiteson]
+
+[2010] On the Characteristics of Sequential Decision Problems and Their Impact on Evolutionary Computation and Reinforcement Learning
