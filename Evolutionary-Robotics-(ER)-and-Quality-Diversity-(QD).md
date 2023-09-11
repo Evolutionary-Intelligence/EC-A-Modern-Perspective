@@ -1,4 +1,4 @@
-# Evolutionary Robotics (ER)
+# Evolutionary Robotics (ER) and Quality-Diversity (QD)
 
 * [CMA-MAE](https://dl.acm.org/doi/10.1145/3583131.3590389)
 
