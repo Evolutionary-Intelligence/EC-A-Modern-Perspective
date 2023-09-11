@@ -99,3 +99,6 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 * [2019] Exploratory landscape analysis [GECCO]
 * [2009] Distilling Free-Form Natural Laws from Experimental Data [Science+Cornell+Lipson]
 * [2017] Human-in-the-Loop Optimization of Exoskeleton Assistance During Walking [Science+CMU]
+* [2015] From Evolutionary Computation to the Evolution of Things [Nature]
+* [2019] Evolving Embodied Intelligence from Materials to Machines [NatureMachineIntelligence+Eiben+Mouret]
+* [2007] Self-Organization, Embodiment, and Biologically Inspired Robotics [Science+Pfeifer+Iida]
