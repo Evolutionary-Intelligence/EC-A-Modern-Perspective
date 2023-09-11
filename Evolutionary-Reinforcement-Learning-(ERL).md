@@ -65,3 +65,9 @@ http://proceedings.mlr.press/v48/duan16.html
 Bootstrapping Q-Learning for Robotics From Neuro-Evolution Results
 
 https://www.cs.ubc.ca/~murphyk/Papers/pomdp.pdf
+
+[1994] Evolving Neural Networks to Focus Minimax Search [AAAI+Miikkulainen]
+
+[1996] Evolving Obstacle Avoidance Behavior in a Robot Arm [Miikkulainen]
+
+[1999] Evolution of Goal-Directed Behavior from Limited Information in a Complex Environment [GECCO+CMU+Sycara]
