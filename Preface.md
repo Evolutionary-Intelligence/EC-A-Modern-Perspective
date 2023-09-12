@@ -8,7 +8,7 @@ Up to now, there have been several wonderful books devoted to EC, such as [[Eibe
 
 For AI/ML, **learning and evolution** (e.g., [[Hinton&Nowlan, 1987]](https://www.cs.toronto.edu/~hinton/absps/baldwin.pdf), [[Maynard Smith, 1987, Nature]](https://www.cs.toronto.edu/~hinton/absps/maynardsmith.pdf)).
 
-Finally, we thanks very much for Prof. Shi and Prof. Yao which provide our Ph.D. opportunities to study AI/ML and EC. We also acknowledge all authors and reviewers () from each (relatively independent) chapters.
+Finally, we thanks very much for Prof. Shi and Prof. Yao which provide our Ph.D. opportunities to study AI/ML and EC. We also acknowledge all authors () and reviewers (Guochen Zhou) from each (relatively independent) chapters.
 
 ******* *** *******
 Written by Qiqi Duan & Yijun Yang @ SUSTech, Shenzhen, China.
