@@ -91,6 +91,8 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 
 ## Reference
 
+* Eiben, A.E. and Smith, J.E., 2015. [Introduction to evolutionary computing](https://link.springer.com/book/10.1007/978-3-662-44874-8). Springer-Verlag Berlin Heidelberg.
+
 * [1997] No Free Lunch Theorems for Optimization [IEEE-TEVC+IBM+SFI+Wolpert]
 * [2013] Analyzing Evolutionary Algorithms - The Computer Science Perspective [Jansen]
 * [2020] Evolutionary Computation - A Unified Approach [GECCO+DeJong]
