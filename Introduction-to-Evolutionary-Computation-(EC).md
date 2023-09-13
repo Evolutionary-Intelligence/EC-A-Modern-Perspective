@@ -92,6 +92,7 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 
 ## Reference
 
+* Berry, A. and Browne, J., 2022. [Mendel and Darwin](https://www.pnas.org/doi/abs/10.1073/pnas.2122144119). Proceedings of the National Academy of Sciences, 119(30), p.e2122144119.
 * Eiben, A.E. and Smith, J.E., 2015. [Introduction to evolutionary computing](https://link.springer.com/book/10.1007/978-3-662-44874-8). Springer-Verlag Berlin Heidelberg.
 * De Jong, K.A., 2006. [Evolutionary computation: A unified approach](https://mitpress.mit.edu/9780262529600/evolutionary-computation/). MIT Press.
 * Fogel, D.B., 2006. [Evolutionary computation: Toward a new philosophy of machine intelligence](https://www.wiley.com/en-us/Evolutionary+Computation%3A+Toward+a+New+Philosophy+of+Machine+Intelligence%2C+3rd+Edition-p-9780471669517). John Wiley & Sons.
