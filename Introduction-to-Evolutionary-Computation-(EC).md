@@ -96,6 +96,7 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 * De Jong, K.A., 2006. [Evolutionary computation: A unified approach](https://mitpress.mit.edu/9780262529600/evolutionary-computation/). MIT Press.
 * Fogel, D.B., 2006. [Evolutionary computation: Toward a new philosophy of machine intelligence](https://www.wiley.com/en-us/Evolutionary+Computation%3A+Toward+a+New+Philosophy+of+Machine+Intelligence%2C+3rd+Edition-p-9780471669517). John Wiley & Sons.
 * Fogel, D.B., 1998. [Evolutionary computation: The fossil record](https://ieeexplore.ieee.org/book/5263042). IEEE Press.
+* Wright, S., 1931. Evolution in Mendelian populations. Genetics, 16(2), p.97.
 * [1997] No Free Lunch Theorems for Optimization [IEEE-TEVC+IBM+SFI+Wolpert]
 * [2013] Analyzing Evolutionary Algorithms - The Computer Science Perspective [Jansen]
 * [2020] Evolutionary Computation - A Unified Approach [GECCO+DeJong]
