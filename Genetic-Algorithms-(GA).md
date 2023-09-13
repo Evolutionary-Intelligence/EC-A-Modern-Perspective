@@ -1,7 +1,7 @@
 # Genetic Algorithms (GAs)
 
 ******* *** *******
-"[GAs can be a powerful tool for solving problems and for simulating natural systems in a wide variety of scientific fields.](https://direct.mit.edu/books/book/4675/An-Introduction-to-Genetic-Algorithms)"
+"[GAs can be a powerful tool for solving difficult problems and for simulating natural systems in a wide variety of scientific fields.](https://direct.mit.edu/books/book/4675/An-Introduction-to-Genetic-Algorithms)"
 ******* *** *******
 
 [Parallel GA](https://www.sciencedirect.com/science/article/pii/S0048969722066438)
