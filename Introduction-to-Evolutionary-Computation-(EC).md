@@ -69,6 +69,7 @@ Note that the following order regarding a set of **open-source** EC libraries ma
   * [Autonomous cars](https://www.sciencedirect.com/science/article/pii/S0743731522002507)
 * [NeuroScience](https://www.pnas.org/doi/abs/10.1073/pnas.2213034120): A joint team from Harvard Medical School and Washington University, St. Louis (**PNAS, 2023**)
 * [Designs of Computer Architectures](https://dl.acm.org/doi/10.1145/3579371.3589049):
+  * [Evolution of Circuits for ML](https://www.nature.com/articles/d41586-020-00002-x): [[Chen et al., 2020, Nature]](https://www.nature.com/articles/s41586-019-1901-0)
   * [Geneva](https://link.springer.com/article/10.1007/s41781-023-00098-6)
   * Analog Circuit Design and Optimization: [[Zhou et al., TCAD, 2022]](https://ieeexplore.ieee.org/document/9756017)
 * [Quantumn Computing]()
