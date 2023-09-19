@@ -34,7 +34,7 @@ Note that the following order regarding a set of **open-source** EC libraries ma
 * [pyribs](https://github.com/icaros-usc/pyribs): A Python library for QD optimization ([![Downloads](https://static.pepy.tech/badge/pyribs)](https://pepy.tech/project/pyribs)).
 * [paradiseo](https://github.com/nojhan/paradiseo): An EC framework to (automatically) build fast parallel stochastic optimization solvers.
 
-###
+### Some (Rather All) Applications from Different Disciplines
 
 * [Aeronautics&Astronautics](https://www.aiaa.org/)
   * [Design Nonsymmetric Satellite Constellations](https://arc.aiaa.org/doi/full/10.2514/1.A35515): [Georgia Institute of Technology]
