@@ -84,6 +84,7 @@ Note that the following order regarding a set of **open-source** EC libraries ma
 * [Search-Based Software Engineering (SBSE)](https://dl.acm.org/doi/abs/10.1145/3514233) and [Adversarial ML](https://dl.acm.org/doi/10.1145/3134599): https://evademl.org/
   * [Arachne](https://dl.acm.org/doi/10.1145/3563210)
   * [DeLag](https://ieeexplore.ieee.org/abstract/document/10098585)
+  * [SQAPlanner](https://ieeexplore.ieee.org/document/9394771)
 * [AI for Infectious Diseases](https://www.science.org/doi/full/10.1126/science.adh1114)
 * [Scientific Computing]()
   * [Reduced order modelling for inverse problems](https://link.springer.com/article/10.1007/s10915-023-02142-4)
