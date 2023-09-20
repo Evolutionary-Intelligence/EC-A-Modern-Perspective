@@ -54,6 +54,7 @@ Note that the following order regarding a set of **open-source** EC libraries ma
   * [Global Optimization of Continuous-Thrust Trajectories](https://link.springer.com/chapter/10.1007/978-3-030-10501-3_2): German Aerospace Center (DLR) etc.
 * [Operations Research]()
   * Flight Scheduling and Fleet Assignment Model Optimization: [[Birolini et al., 2021, Transportation Research Part B: Methodological]](https://www.sciencedirect.com/science/article/pii/S0191261521000801) (using real-world data for a major European airline Alitalia)
+  * [Planning of Airport Airside Expansion Projects](https://ascelibrary.org/doi/full/10.1061/JCEMD4.COENG-12893): [University of Illinois at Urbana-Champaign] (a real-life case study of an airport airside expansion project at San Diego International Airport)
 * [Engineering]()
   * Physics-supervised DL–based Optimization: [[Li et al., 2023, PNAS]](https://www.pnas.org/doi/abs/10.1073/pnas.2309062120)
 * [Medicine]()
