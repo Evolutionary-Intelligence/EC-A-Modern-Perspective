@@ -47,6 +47,7 @@ Note that the following order regarding a set of **open-source** EC libraries ma
   * [Linguistic Diversity Simulation](https://www.nature.com/articles/s41562-019-0663-x): [Dediu et al., 2019, Nature Human Behaviour]
   * [Stochastic Model Optimization for Microtubule Motors](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000623): [ETH Zürich + University of Zurich]
 * [Control]()
+  * [Exoskeleton Assistance for Walking](https://www.biorxiv.org/content/10.1101/2023.08.22.554212v1.full.pdf): [Stanford University]
   * [Direct Loss Minimization of Inverse Optimal Control](https://roboticsproceedings.org/rss11/p13.pdf): [University Stuttgart + Max Planck Institute + University of Southern California]
   * [Real2Sim2Real for Planar Robot Casting](https://ieeexplore.ieee.org/document/9811651): [UC Berkeley + Toyota Research Institute]
   * [Discovering Multiple Algorithm Configurations](https://arxiv.org/abs/2303.07434): [Carnegie Mellon University]
