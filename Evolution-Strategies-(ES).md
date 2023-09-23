@@ -10,6 +10,12 @@ CMA-ES could be used as a **strong baseline** on some BBO problems, such as [off
 
 [synthesizability-constrained molecular design](https://openreview.net/pdf?id=rKfvMyWVO0L)
 
+## Natural Gradients and Natural Evolution Strategies (NES)
+
+## Gradient Estimation (OpenAI-ES) and Variance Reduction (Persistent ES)
+
+## Meta-ES and Distributed ES (DES)
+
 ## Typical Optimization Applications of ES
 
 * [Exoskeleton assistance](https://www.nature.com/articles/s41586-022-05191-1): A team from Stanford University (**Nature, 2022**).
