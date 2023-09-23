@@ -8,6 +8,8 @@ CMA-ES could provide a **strong baseline** on *many* challenging BBO problems, s
 
 [Surrogate-assisted CMA-ES](), for e.g., [computational chemistry](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01231).
 
+[synthesizability-constrained molecular design](https://openreview.net/pdf?id=rKfvMyWVO0L)
+
 ## Typical Optimization Applications of ES
 
 * [Exoskeleton assistance](https://www.nature.com/articles/s41586-022-05191-1): A team from Stanford University (**Nature, 2022**).
