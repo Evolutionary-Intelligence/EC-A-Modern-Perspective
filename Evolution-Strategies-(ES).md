@@ -34,6 +34,7 @@ CMA-ES could be used as a **strong baseline** on some BBO problems, such as [off
   * [[Fei et al., 2023]](https://arxiv.org/pdf/2304.05818.pdf)
 * Operations Research: [[Jacquet, 2023, EJOR]](https://www.sciencedirect.com/science/article/pii/S0377221723003508)
 * Language Models: [[Cao et al., 2023, NSR]](https://academic.oup.com/nsr/article/10/6/nwad124/7152626), [[Shen et al., 2023]](https://arxiv.org/pdf/2305.00593.pdf) 
+* Noisy Intermediate-Scale Quantum: [[Hu et al., 2023]](https://arxiv.org/pdf/2309.06327.pdf) from George Mason University, Kent State University, Oak Ridge National Laboratory
 
 ## Notes
 
