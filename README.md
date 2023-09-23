@@ -32,7 +32,7 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
   * A General-Purpose Searcher for Unstructured Problems
   * Some Representative Applications of GA
 * [Evolution Strategies (ES)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolution-Strategies-(ES).md)
-  * Self-Adaptation and Covariance Matrix Adaptation ES (CMA-ES)
+  * [Self-Adaptation and Covariance Matrix Adaptation ES (CMA-ES)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolution-Strategies-(ES).md#self-adaptation-and-covariance-matrix-adaptation-es-cma-es)
   * Natural Gradients and Natural Evolution Strategies (NES)
   * Gradient Estimation and Variance Reduction (OpenAI-ES)
   * Meta-ES and Distributed Evolution Strategies (DES)
