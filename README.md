@@ -33,9 +33,9 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
   * Some Representative Applications of GA
 * [Evolution Strategies (ES)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolution-Strategies-(ES).md)
   * [Self-Adaptation and Covariance Matrix Adaptation ES (CMA-ES)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolution-Strategies-(ES).md#self-adaptation-and-covariance-matrix-adaptation-es-cma-es)
-  * Natural Gradients and Natural Evolution Strategies (NES)
-  * Gradient Estimation and Variance Reduction (OpenAI-ES)
-  * Meta-ES and Distributed Evolution Strategies (DES)
+  * Natural Gradients and Natural ES (NES)
+  * Gradient Estimation (OpenAI-ES) and Variance Reduction (Persistent ES)
+  * Meta-ES and Distributed ES (DES)
   * [Typical Optimization Applications of ES](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolution-Strategies-(ES).md#typical-optimization-applications-of-es)
 * [Genetic Programming (GP)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Genetic-Programming-(GP).md)
 * [NeuroEvolution](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/NeuroEvolution.md)
