@@ -46,13 +46,14 @@ Note that the following order regarding a set of **open-source** EC libraries ma
 * [Biology]()
   * [Linguistic Diversity Simulation](https://www.nature.com/articles/s41562-019-0663-x): [Dediu et al., 2019, Nature Human Behaviour]
   * [Stochastic Model Optimization for Microtubule Motors](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000623): [ETH Zürich + University of Zurich]
-* [Control]()
+* [Control&Robotics]()
   * [Exoskeleton Assistance for Walking](https://www.biorxiv.org/content/10.1101/2023.08.22.554212v1.full.pdf): [Stanford University]
   * [Direct Loss Minimization of Inverse Optimal Control](https://roboticsproceedings.org/rss11/p13.pdf): [University Stuttgart + Max Planck Institute + University of Southern California]
   * [Real2Sim2Real for Planar Robot Casting](https://ieeexplore.ieee.org/document/9811651): [UC Berkeley + Toyota Research Institute]
   * [Discovering Multiple Algorithm Configurations](https://arxiv.org/abs/2303.07434): [Carnegie Mellon University]
   * [Learning to School](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/learning-to-school-in-the-presence-of-hydrodynamic-interactions/22EE6D99862DB3F3882F287361C8E16A): [Harvard University + SPACEX + ETH Zürich + etc.] ( [Swimming](https://journals.biologists.com/jeb/article/209/24/4841/16413/Simulations-of-optimized-anguilliform-swimming) + [Swimmer](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/cstart-optimal-start-of-larval-fish/1D69338D18E0748C24D9B0B07D0C233A) + [Swimmers](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/optimal-shapes-for-anguilliform-swimmers-at-intermediate-reynolds-numbers/82B0F4B119815A9AB0508E67A582A285) + [Undulatory Swimmers](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/optimal-morphokinematics-for-undulatory-swimmers-at-intermediate-reynolds-numbers/A89113257A5A14C1C67331EA7922EF7B) + [Swimming Schools](https://cse-lab.seas.harvard.edu/publications/evolutionary-optimization-scalar-transport-cylinder-arrays-multigpumulticore) | [Collective Behavior](https://arxiv.org/abs/2305.10548) )
   * [Global Optimization of Continuous-Thrust Trajectories](https://link.springer.com/chapter/10.1007/978-3-030-10501-3_2): [German Aerospace Center (DLR) etc.]
+  * [Optimization of Modular Robot Composition](https://arxiv.org/pdf/2309.08399.pdf): [Technical University of Munich]
 * [Computer Vision]()
   * [Textual Inversion](https://arxiv.org/pdf/2304.05818.pdf): [Meituan Inc.]
 * [Operations Research]()
