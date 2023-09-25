@@ -50,7 +50,7 @@ CMA-ES could be used as a **strong baseline** on some BBO problems, such as [off
 ## Reference
 
 * [https://www.paulvicol.com/pdfs/ES-Single-Slides.pdf](https://www.paulvicol.com/pdfs/ES-Single-Slides.pdf)
-* Beyer, H.G., 2023, July. [What you always wanted to know about evolution strategies, but never dared to ask](https://dl.acm.org/doi/abs/10.1145/3583133.3595041). In Proceedings of ACM Conference on Genetic and Evolutionary Computation Companion (pp. 878-894).
+* [Beyer, H.G.](https://homepages.fhv.at/hgb/), 2023, July. [What you always wanted to know about evolution strategies, but never dared to ask](https://dl.acm.org/doi/abs/10.1145/3583133.3595041). In Proceedings of ACM Conference on Genetic and Evolutionary Computation Companion (pp. 878-894).
 * Hansen, N., Arnold, D.V. and Auger, A., 2015. Evolution strategies. In Springer Handbook of Computational Intelligence (pp. 871-898). Springer, Berlin, Heidelberg.
 * Bäck, T., Foussette, C. and Krause, P., 2013. Contemporary evolution strategies. Berlin: Springer.
 * [2012] A Comparison of Global Search Algorithms for Continuous Black Box Optimization [EC]
