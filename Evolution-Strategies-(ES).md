@@ -51,6 +51,14 @@ CMA-ES could be used as a **strong baseline** on some BBO problems, such as [off
 
 * [https://www.paulvicol.com/pdfs/ES-Single-Slides.pdf](https://www.paulvicol.com/pdfs/ES-Single-Slides.pdf)
 * [Beyer, H.G.](https://homepages.fhv.at/hgb/), 2023, July. [What you always wanted to know about evolution strategies, but never dared to ask](https://dl.acm.org/doi/abs/10.1145/3583133.3595041). In Proceedings of ACM Conference on Genetic and Evolutionary Computation Companion (pp. 878-894).
+* [Schwefel, H.P.](https://ls11-www.cs.tu-dortmund.de/people/schwefel/), 2002. [Deep insight from simple models of evolution](https://www.sciencedirect.com/science/article/abs/pii/S0303264701001861). BioSystems, 64(1-3), pp.189-198.
+* [Schwefel, H.P.](https://ls11-www.cs.tu-dortmund.de/people/schwefel/), 1994. On the evolution of evolutionary computation. Computational Intelligence: Imitating Life, pp.116-124.
+* [Schwefel, H.P.](https://ls11-www.cs.tu-dortmund.de/people/schwefel/), 1993. [Evolution and optimum seeking: The sixth generation](https://www.amazon.co.uk/Evolution-Optimum-Generation-Computer-Technologies/dp/0471571482). John Wiley & Sons, Inc..
+* [Schwefel, H.P.](https://ls11-www.cs.tu-dortmund.de/people/schwefel/), 1992. [Natural evolution and collective optimum seeking](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=7221f5be8ca17ee9cd8fe638cf2ad4886bd66262). Computational Systems Analysis–Topics and Trends, pp.5-14.
+* [Schwefel, H.P.](https://ls11-www.cs.tu-dortmund.de/people/schwefel/), 1988. [Evolutionary learning optimum-seeking on parallel computer architectures](https://link.springer.com/chapter/10.1007/978-1-4684-6389-7_46). In Systems Analysis and Simulation I (pp. 217-225). Springer, New York, NY.
+* [Schwefel, H.P.](https://ls11-www.cs.tu-dortmund.de/people/schwefel/), 1988. [Collective intelligence in evolving systems](https://link.springer.com/chapter/10.1007/978-3-642-73953-8_8). In Ecodynamics (pp. 95-100). Springer, Berlin, Heidelberg.
+* [Schwefel, H.P.](https://ls11-www.cs.tu-dortmund.de/people/schwefel/), 1984. [Evolution strategies: A family of non-linear optimization techniques based on imitating some principles of organic evolution](https://link.springer.com/article/10.1007/BF01876146). Annals of Operations Research, 1(2), pp.165-167.
+* [Schwefel, H.P.](https://ls11-www.cs.tu-dortmund.de/people/schwefel/), 1981. [Numerical optimization of computer models](https://www.amazon.com/Numerical-optimization-computer-Hans-Paul-Schwefel/dp/0471099880). John Wiley & Sons, Inc..
 * Hansen, N., Arnold, D.V. and Auger, A., 2015. Evolution strategies. In Springer Handbook of Computational Intelligence (pp. 871-898). Springer, Berlin, Heidelberg.
 * Bäck, T., Foussette, C. and Krause, P., 2013. Contemporary evolution strategies. Berlin: Springer.
 * [2012] A Comparison of Global Search Algorithms for Continuous Black Box Optimization [EC]
@@ -58,4 +66,3 @@ CMA-ES could be used as a **strong baseline** on some BBO problems, such as [off
 * [2000] Evolutionary algorithms in noisy environments - Theoretical issues and guidelines for practice [Beyer]
 * Rechenberg, I., 2000. Case studies in evolutionary experimentation and computation. Computer Methods in Applied Mechanics and Engineering, 186(2-4), pp.125-140.
 * Rechenberg, I., 1984. The evolution strategy. A mathematical model of darwinian evolution. In Synergetics—from Microscopic to Macroscopic Order (pp. 122-132). Springer, Berlin, Heidelberg.
-* Schwefel, H.P., 1981. Numerical optimization of computer models. John Wiley & Sons, Inc..
