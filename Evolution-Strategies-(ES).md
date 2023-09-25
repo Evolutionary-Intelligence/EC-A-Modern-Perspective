@@ -4,6 +4,8 @@
 
 ## Self-Adaptation and Covariance Matrix Adaptation ES (CMA-ES)
 
+**Self-adaptation** is widely recognized as the essential feature of ES, which has resulted in (at least) one powerful ES version called Covariance Matrix Adaptation (CMA-ES).
+
 CMA-ES could be used as a **strong baseline** on some BBO problems, such as [offline design of biological sequences](https://arxiv.org/pdf/2306.03111.pdf) where ["for TFbind8, which has a relatively small search space, CMA-ES gave pretty good performances"](https://arxiv.org/pdf/2306.03111.pdf), [informative path planning](https://proceedings.mlr.press/v205/cao23b/cao23b.pdf) where ["CMA-ES finds a good trade-off between exploration and exploitation, resulting in the best overall performance among non-learning solvers"](https://proceedings.mlr.press/v205/cao23b/cao23b.pdf), [task constrained planner for robot manipulator in confined environment](https://arxiv.org/pdf/2304.09260.pdf), [reinforcement learning with human feedback (RLHF)](https://arxiv.org/pdf/2303.03751.pdf), if not the state-of-the-art. On **many** (though not all) hard BBO problems, CMA-ES has shown very competitive (and sometimes even state-of-the-art) performance (see the following section for some of its representative applications).
 
 [Surrogate-assisted CMA-ES](), for e.g., [computational chemistry](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01231).
