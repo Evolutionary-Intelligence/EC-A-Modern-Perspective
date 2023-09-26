@@ -46,3 +46,7 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
 * [Evolutionary Meta-Learning (EML)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolutionary-Meta-Learning-(EML).md)
 * [Learning and Evolution](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Learning-and-Evolution.md)
 * [Search-Based Software Engineering]()
+* [Swarm Intelligence]()
+  * [Ant Colony Optimization](ACO)
+  * [Particle Swarm Optimization](PSO)
+  * [Swarm Robotics]()
