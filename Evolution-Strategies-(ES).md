@@ -53,6 +53,7 @@ CMA-ES could be used as a **strong baseline** on some BBO problems, such as [off
 
 * [https://www.paulvicol.com/pdfs/ES-Single-Slides.pdf](https://www.paulvicol.com/pdfs/ES-Single-Slides.pdf)
 * [Beyer, H.G.](https://homepages.fhv.at/hgb/), 2023, July. [What you always wanted to know about evolution strategies, but never dared to ask](https://dl.acm.org/doi/abs/10.1145/3583133.3595041). In Proceedings of ACM Conference on Genetic and Evolutionary Computation Companion (pp. 878-894).
+* Diouane, Y., Gratton, S. and Vicente, L.N., 2015. [Globally convergent evolution strategies](https://link.springer.com/article/10.1007/s10107-014-0793-x). Mathematical Programming, 152(1), pp.467-490.
 * [Schwefel, H.P.](https://ls11-www.cs.tu-dortmund.de/people/schwefel/), 2002. [Deep insight from simple models of evolution](https://www.sciencedirect.com/science/article/abs/pii/S0303264701001861). BioSystems, 64(1-3), pp.189-198.
 * [Schwefel, H.P.](https://ls11-www.cs.tu-dortmund.de/people/schwefel/), 1994. On the evolution of evolutionary computation. Computational Intelligence: Imitating Life, pp.116-124.
 * [Schwefel, H.P.](https://ls11-www.cs.tu-dortmund.de/people/schwefel/), 1993. [Evolution and optimum seeking: The sixth generation](https://www.amazon.co.uk/Evolution-Optimum-Generation-Computer-Technologies/dp/0471571482). John Wiley & Sons, Inc..
