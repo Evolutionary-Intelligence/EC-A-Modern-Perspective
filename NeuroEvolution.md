@@ -7,6 +7,8 @@
 
 ## Reference
 
+* Whitelam, S. and Tamblyn, I., 2021. [Neuroevolutionary learning of particles and protocols for self-assembly](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.018003). Physical Review Letters, 127(1), p.018003.
+
 https://cacm.acm.org/news/225641-can-neuroevolution-change-machine-learning/fulltext
 
 https://direct.mit.edu/neco/article-abstract/22/7/1860/7554/Autonomous-Evolution-of-Topographic-Regularities
