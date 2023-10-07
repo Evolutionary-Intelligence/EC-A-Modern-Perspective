@@ -1,4 +1,4 @@
-# Evolutionary Computation (EC) for Large Language Models (LLMs)
+# Evolutionary Computation (EC) and Large Language Models (LLMs)
 
 * https://arxiv.org/abs/2307.01230
 * https://arxiv.org/pdf/2305.10013.pdf
