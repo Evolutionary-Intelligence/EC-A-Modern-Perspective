@@ -65,7 +65,8 @@ Note that the following order regarding a set of **open-source** EC libraries ma
 * [Medicine]()
   * [PharmacoKinetic and PharmacoDynamic Modelling Optimization for Model-Informed Precision Dosing](https://www.biorxiv.org/content/10.1101/2023.07.31.551404v1): [University of Oxford + University of Exeter +  F. Hoffmann-La Roche AG]
 * [Physical Science](): e.g., in [cosmology](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.043509)
-  * [Higgs-boson measurement](https://arxiv.org/pdf/2303.12018.pdf)
+  * [Optimization of Majorana Hybrid Wires](https://arxiv.org/abs/2305.16230):
+  * [Higgs-Boson Measurement](https://arxiv.org/pdf/2303.12018.pdf)
 * [Chemical Science]()
   * [Crystal structure prediction](https://pubs.aip.org/aip/jcp/article-abstract/124/24/244704/567275/Crystal-structure-prediction-using-ab-initio): e.g. [[Yang et al., 2023, Science]](https://www.science.org/doi/full/10.1126/science.abm5134), [[Mannix et al., 2015, Science]](https://www.science.org/doi/full/10.1126/science.aad1080), [[Zhang et al., 2013, Science]](https://www.science.org/doi/10.1126/science.1244989) [([Insa, 2013, Science])](https://www.science.org/doi/10.1126/science.1247699).
   * [Constructing first-principles phase diagrams of amorphous LixSi](https://pubs.aip.org/aip/jcp/article/148/24/241711/960040)
