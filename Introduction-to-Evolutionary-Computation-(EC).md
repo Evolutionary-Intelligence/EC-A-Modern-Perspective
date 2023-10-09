@@ -6,7 +6,7 @@
 
 ### Open-Source Softwares
 
-#### Python-based Open-Source Softwares (Involving EC)
+#### Python-based Open-Source Softwares
 
 The following order regarding a set of EC-related Python libraries makes no sense (just from a download statistic perspective). We are actively updating this list as we believe new libraries will be added in the future.
 
