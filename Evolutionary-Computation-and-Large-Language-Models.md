@@ -6,5 +6,6 @@
 
 ## Reference
 
+* https://arxiv.org/abs/2309.16797
 * https://docs.google.com/presentation/d/1636wKStYdT_yRPbJNrf8MLKpQghuWGDmyHinHhAKeXY/edit#slide=id.g27b7c310230_0_496 (title: Large Language Models (in 2023), author: Hyung Won Chung from OpenAI)
 * https://arxiv.org/pdf/2310.02304.pdf
