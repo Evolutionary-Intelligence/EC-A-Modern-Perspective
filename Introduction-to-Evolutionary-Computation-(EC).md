@@ -28,7 +28,7 @@ The following order regarding a set of EC-related Python libraries makes no sens
 * [Vega](https://github.com/huawei-noah/vega): AutoML tools chain ([![Downloads](https://static.pepy.tech/badge/noah-vega)](https://pepy.tech/project/noah-vega)).
 * [evosax](https://github.com/RobertTLange/evosax): ES in JAX ([![Downloads](https://static.pepy.tech/badge/evosax)](https://pepy.tech/project/evosax)).
 * [LEAP](https://github.com/AureumChaos/LEAP): A general purpose Library for EAs in Python ([![Downloads](https://static.pepy.tech/badge/leap_ec)](https://pepy.tech/project/leap_ec)).
-* [EvolutionaryForest](https://github.com/hengzhe-zhang/EvolutionaryForest): An open source python library for automated feature engineering based on GP ([![Downloads](https://static.pepy.tech/badge/evolutionary_forest)](https://pepy.tech/project/evolutionary_forest))
+* [EvolutionaryForest](https://github.com/hengzhe-zhang/EvolutionaryForest): A Python library for automated feature engineering based on GP ([![Downloads](https://static.pepy.tech/badge/evolutionary_forest)](https://pepy.tech/project/evolutionary_forest))
 * [EvoTorch ](https://github.com/nnaisense/evotorch): Advanced EC library built directly on top of PyTorch, created at NNAISENSE ([![Downloads](https://static.pepy.tech/badge/evotorch)](https://pepy.tech/project/evotorch)).
 * [PINTS](https://github.com/pints-team/pints): Probabilistic Inference on Noisy Time Series ([![Downloads](https://static.pepy.tech/badge/pints)](https://pepy.tech/project/pints)). [CMA-ES + XNES + SNES + PSO]
 * [EC-KitY](https://www.sciencedirect.com/science/article/pii/S2352711023000778): A Python library for doing EC compatible with scikit-learn ([![Downloads](https://static.pepy.tech/badge/eckity)](https://pepy.tech/project/eckity)).
