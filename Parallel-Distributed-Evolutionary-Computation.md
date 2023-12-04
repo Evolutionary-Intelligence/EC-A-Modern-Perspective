@@ -8,3 +8,4 @@
 * Dally, W., Turakhia, Y. and Han, S., 2020. [Domain-specific hardware accelerators](https://dl.acm.org/doi/abs/10.1145/3361682). Communications of the ACM, 63(7), pp.48-57. 
 * Leiserson, C.E., Thompson, N.C., Emer, J.S., Kuszmaul, B.C., Lampson, B.W., Sanchez, D. and Schardl, T.B., 2020. [There’s plenty of room at the Top: What will drive computer performance after Moore’s law?](https://www.science.org/doi/full/10.1126/science.aam9744). Science, 368(6495), p.eaam9744.
 * Vishkin, U., 2014. [Is multicore hardware for general-purpose parallel processing broken?](https://dl.acm.org/doi/fullHtml/10.1145/2580945). Communications of the ACM, 57(4), pp.35-39.
+* Moore, G.E., 2006. [Cramming more components onto integrated circuits, Reprinted from Electronics, volume 38, number 8, April 19, 1965, pp. 114 ff](https://ieeexplore.ieee.org/abstract/document/4785860). IEEE Solid-State Circuits Society Newsletter, 11(3), pp.33-35.
