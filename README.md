@@ -43,7 +43,7 @@ This is a *free/online* book: **Evolutionary Computation: A Modern Perspective**
   * [NeuroEvolution of Augmenting Topologies (NEAT)]()
   * [Population-Based Training (PBT)]()
 * [Parallel/Distributed Evolutionary Computation](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Parallel-Distributed-Evolutionary-Computation.md)
-* Evolutionary Robotics (ER) and Quality-Diversity (QD)
+* [Evolutionary Robotics (ER) and Quality-Diversity (QD)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolutionary-Robotics-(ER)-and-Quality-Diversity-(QD).md)
 * [Evolutionary Reinforcement Learning (ERL)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolutionary-Reinforcement-Learning-(ERL).md)
 * [Evolutionary Meta-Learning (EML)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolutionary-Meta-Learning-(EML).md)
 * [Learning and Evolution](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Learning-and-Evolution.md)
