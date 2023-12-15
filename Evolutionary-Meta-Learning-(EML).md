@@ -14,5 +14,7 @@
 * Schaul, T. and Schmidhuber, J., 2010. [Metalearning](http://www.scholarpedia.org/article/Metalearning). Scholarpedia, 5(6), p.4650.
 * [https://people.idsia.ch/~juergen/genetic-programming-1987.html](https://people.idsia.ch/~juergen/genetic-programming-1987.html)
 * Bengio, S., Bengio, Y., Cloutier, J. and Gecsei, J., 1992, June. On the optimization of a synaptic learning rule. In Conference on Optimality in Artificial and Biological Neural Networks.
+* Werbos, P.J., 1990. Backpropagation through time: What it does and how to do it. Proceedings of the IEEE, 78(10), pp.1550-1560.
+
 
 [2020] ES-MAML - Simple Hessian-Free Meta Learning [ICLR+GoogleBrain+Columbia+Berkeley+Choromanski]
