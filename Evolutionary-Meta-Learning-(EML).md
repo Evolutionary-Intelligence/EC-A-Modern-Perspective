@@ -11,6 +11,7 @@
 * Schmidgall, S., 2020, July. [Adaptive reinforcement learning through evolving self-modifying neural networks](). In Proceedings of ACM Genetic and Evolutionary Computation Conference Companion (pp. 89-90).
 * Metz, L., Maheswaranathan, N., Nixon, J., Freeman, D. and Sohl-Dickstein, J., 2019, May. [Understanding and correcting pathologies in the training of learned optimizers](http://proceedings.mlr.press/v97/metz19a.html). In International Conference on Machine Learning (pp. 4556-4565). PMLR. [ Google Brain ]
 * Soltoggio, A., Stanley, K.O. and Risi, S., 2018. [Born to learn: The inspiration, progress, and future of evolved plastic artificial neural networks](https://www.sciencedirect.com/science/article/pii/S0893608018302120). Neural Networks, 108, pp.48-67.
+* Kingma, D.P. and Welling, M., 2013. Auto-encoding variational bayes. arXiv preprint arXiv:1312.6114.
 * Staines, J. and Barber, D., 2012. Variational optimization. arXiv preprint arXiv:1212.4507.
 * Schaul, T. and Schmidhuber, J., 2010. [Metalearning](http://www.scholarpedia.org/article/Metalearning). Scholarpedia, 5(6), p.4650.
 * [https://people.idsia.ch/~juergen/genetic-programming-1987.html](https://people.idsia.ch/~juergen/genetic-programming-1987.html)
