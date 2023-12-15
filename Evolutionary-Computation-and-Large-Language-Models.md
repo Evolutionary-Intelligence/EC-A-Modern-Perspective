@@ -12,3 +12,4 @@
 * https://arxiv.org/pdf/2310.02304.pdf
 
 * Borji, A., 2023. A categorical archive of ChatGPT failures. arXiv preprint arXiv:2302.03494.
+* Lehman, J., Gordon, J., Jain, S., Ndousse, K., Yeh, C. and Stanley, K.O., 2023. Evolution through large models. In Handbook of Evolutionary Machine Learning (pp. 331-366). Singapore: Springer Nature Singapore.
