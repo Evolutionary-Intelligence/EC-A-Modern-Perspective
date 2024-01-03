@@ -53,6 +53,7 @@ CMA-ES could be used as a **strong baseline** on some BBO problems, such as [off
 
 * Lee, U.H., Shetty, V.S., Franks, P.W., Tan, J., Evangelopoulos, G., Ha, S. and Rouse, E.J., 2023. [User preference optimization for control of ankle exoskeletons using sample efficient active learning](https://www.science.org/doi/abs/10.1126/scirobotics.adg3705). Science Robotics, 8(83), p.eadg3705.
 * Antonova, R., Yang, J., Jatavallabhula, K.M. and Bohg, J., 2023, March. [Rethinking optimization with differentiable simulation from a global perspective](https://proceedings.mlr.press/v205/antonova23a.html). In Conference on Robot Learning (pp. 276-286). PMLR.
+* Lange, R.T., 2023, July. Evosax: Jax-based evolution strategies. In Proceedings of ACM Companion Conference on Genetic and Evolutionary Computation (pp. 659-662).
 * [https://www.paulvicol.com/pdfs/ES-Single-Slides.pdf](https://www.paulvicol.com/pdfs/ES-Single-Slides.pdf)
 * [Beyer, H.G.](https://homepages.fhv.at/hgb/), 2023, July. [What you always wanted to know about evolution strategies, but never dared to ask](https://dl.acm.org/doi/abs/10.1145/3583133.3595041). In Proceedings of ACM Conference on Genetic and Evolutionary Computation Companion (pp. 878-894).
 * Diouane, Y., Gratton, S. and Vicente, L.N., 2015. [Globally convergent evolution strategies](https://link.springer.com/article/10.1007/s10107-014-0793-x). Mathematical Programming, 152(1), pp.467-490.
