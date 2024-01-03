@@ -53,6 +53,7 @@ CMA-ES could be used as a **strong baseline** on some BBO problems, such as [off
 
 * Lee, U.H., Shetty, V.S., Franks, P.W., Tan, J., Evangelopoulos, G., Ha, S. and Rouse, E.J., 2023. [User preference optimization for control of ankle exoskeletons using sample efficient active learning](https://www.science.org/doi/abs/10.1126/scirobotics.adg3705). Science Robotics, 8(83), p.eadg3705.
 * Thamm, M. and Rosenow, B., 2023. Machine learning optimization of Majorana hybrid nanowires. Physical Review Letters, 130(11), p.116202.
+* Lin, X., Yang, Z., Zhang, X. and Zhang, Q., 2023, July. Continuation path learning for homotopy optimization. In International Conference on Machine Learning (pp. 21288-21311). PMLR.
 * Antonova, R., Yang, J., Jatavallabhula, K.M. and Bohg, J., 2023, March. [Rethinking optimization with differentiable simulation from a global perspective](https://proceedings.mlr.press/v205/antonova23a.html). In Conference on Robot Learning (pp. 276-286). PMLR.
 * Lange, R.T., 2023, July. Evosax: Jax-based evolution strategies. In Proceedings of ACM Companion Conference on Genetic and Evolutionary Computation (pp. 659-662).
 * Li, A.C., Macridin, A., Mrenna, S. and Spentzouris, P., 2023. Simulating scalar field theories on quantum computers with limited resources. Physical Review A, 107(3), p.032603.
