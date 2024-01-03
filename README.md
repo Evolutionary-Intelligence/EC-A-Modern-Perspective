@@ -1,6 +1,6 @@
 # Evolutionary Computation: A Modern Perspective
 
-This is a *free online* book called **Evolutionary Computation: A Modern Perspective**, currently written/edited by *Qiqi Duan* and *Yijun Yang* @CSE, SUSTech (Shenzhen, China). We start to write this open book from July, 2023 and plan to finish it in December, 2025 (or *using much more time*). Owing to its **open** nature, any suggestions, improvements, and corrections to it are **highly encouraged** via [Issues](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/issues) or [Pull requests](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/pulls).
+This is a *free online* book called **Evolutionary Computation: A Modern Perspective**, currently written/edited by *Qiqi Duan* and *Yijun Yang* @CSE, SUSTech (Shenzhen, China). We start to write this open book from July, 2023 and plan to finish it in December, 2027 (or *using much more time*). Owing to its **open** nature, any suggestions, improvements, and corrections to it are **highly encouraged** via [Issues](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/issues) or [Pull requests](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/pulls).
 
 ## Contents (still actively updated)
 
