@@ -57,6 +57,7 @@ CMA-ES could be used as a **strong baseline** on some BBO problems, such as [off
 * Antonova, R., Yang, J., Jatavallabhula, K.M. and Bohg, J., 2023, March. [Rethinking optimization with differentiable simulation from a global perspective](https://proceedings.mlr.press/v205/antonova23a.html). In Conference on Robot Learning (pp. 276-286). PMLR.
 * Lange, R.T., 2023, July. Evosax: Jax-based evolution strategies. In Proceedings of ACM Companion Conference on Genetic and Evolutionary Computation (pp. 659-662).
 * Wanzenböck, R., Buchner, F., Kovács, P., Madsen, G.K. and Carrete, J., 2023. Clinamen2: Functional-style evolutionary optimization in Python for atomistic structure searches. Computer Physics Communications, p.109065.
+* Giani, T., Magni, G. and Rojo, J., 2023. SMEFiT: A flexible toolbox for global interpretations of particle physics data with effective field theories. European Physical Journal C, 83(5), p.393.
 * Li, Q., Zhang, C. and Woodland, P.C., 2023. Combining hybrid DNN-HMM ASR systems with attention-based models using lattice rescoring. Speech Communication, 147, pp.12-21.
 * Li, A.C., Macridin, A., Mrenna, S. and Spentzouris, P., 2023. Simulating scalar field theories on quantum computers with limited resources. Physical Review A, 107(3), p.032603.
 * Bonet-Monroig, X., Wang, H., Vermetten, D., Senjean, B., Moussa, C., Bäck, T., Dunjko, V. and O'Brien, T.E., 2023. Performance comparison of optimization methods on variational quantum algorithms. Physical Review A, 107(3), p.032407.
