@@ -51,6 +51,7 @@ CMA-ES could be used as a **strong baseline** on some BBO problems, such as [off
 
 ## Reference
 
+* Bäck, T.H., Kononova, A.V., van Stein, B., Wang, H., Antonov, K.A., Kalkreuth, R.T., de Nobel, J., Vermetten, D., de Winter, R. and Ye, F., 2023. [Evolutionary algorithms for parameter optimization—Thirty years later](https://direct.mit.edu/evco/article/31/2/81/115462). Evolutionary Computation, 31(2), pp.81-122.
 * Lee, U.H., Shetty, V.S., Franks, P.W., Tan, J., Evangelopoulos, G., Ha, S. and Rouse, E.J., 2023. [User preference optimization for control of ankle exoskeletons using sample efficient active learning](https://www.science.org/doi/abs/10.1126/scirobotics.adg3705). Science Robotics, 8(83), p.eadg3705.
 * Thamm, M. and Rosenow, B., 2023. Machine learning optimization of Majorana hybrid nanowires. Physical Review Letters, 130(11), p.116202.
 * Lin, X., Yang, Z., Zhang, X. and Zhang, Q., 2023, July. Continuation path learning for homotopy optimization. In International Conference on Machine Learning (pp. 21288-21311). PMLR.
