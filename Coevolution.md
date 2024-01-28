@@ -2,6 +2,7 @@
 
 ## Reference
 
+* Schaeffer, J., Burch, N., Bjornsson, Y., Kishimoto, A., Muller, M., Lake, R., Lu, P. and Sutphen, S., 2007. Checkers is solved. Science, 317(5844), pp.1518-1522.
 * Chellapilla, K. and Fogel, D.B., 1999. [Evolution, neural networks, games, and intelligence](https://ieeexplore.ieee.org/abstract/document/784222). Proceedings of the IEEE, 87(9), pp.1471-1496.
 * Schaeffer, J., Culberson, J., Treloar, N., Knight, B., Lu, P. and Szafron, D., 1992. A world championship caliber checkers program. Artificial Intelligence, 53(2-3), pp.273-289.
 * Axelrod, R., 1989. The evolution of strategies in the iterated prisoner's dilemma. Genetic Algorithms and Simulated Annealing, pp.32-41.
