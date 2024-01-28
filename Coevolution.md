@@ -7,3 +7,4 @@
 * Boyd, R. and Lorberbaum, J.P., 1987. No pure strategy is evolutionarily stable in the repeated prisoner's dilemma game. Nature, 327(6117), pp.58-59.
 * Smith, J.M., 1982. Evolution and the theory of games. In Did Darwin Get it Right? Essays on Games, Sex and Evolution (pp. 202-215). Boston, MA: Springer US.
 * Samuel, A.L., 1959. Some studies in machine learning using the game of checkers. IBM Journal of Research and Development, 3(3), pp.210-229.
+* Turing, A.M., 1950. [Computing machinery and intelligence (1950)](https://www.cse.chalmers.se/~aikmitr/papers/Turing.pdf#page=442). The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life: Plus The Secrets of Enigma, pp.442-473.
