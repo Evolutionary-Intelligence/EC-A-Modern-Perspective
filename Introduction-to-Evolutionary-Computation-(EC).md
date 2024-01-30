@@ -114,6 +114,7 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 ## Reference
 
 * Fogel, D.B., 2006. Evolutionary computation: Toward a new philosophy of machine intelligence. John Wiley & Sons. [ **Fogel, D.B.: IEEE Evolutionary Computation Pioneer Award 2008** ]
+* Copeland, B.J. and Proudfoot, D., 1999. Alan Turing’s forgotten ideas in computer science. Scientific American, 280(4), pp.98-103.
 * Genesereth, M.R. and Nilsson, N.J., 1987. Logical foundations of artificial intelligence. Morgan Kaufmann.
 * Newell, A. and Simon, H.A., 1975. Computer science as empirical inquiry: Symbols and search. In ACM Turing Award Lectures (p. 1975).
 * Berry, A. and Browne, J., 2022. [Mendel and Darwin](https://www.pnas.org/doi/abs/10.1073/pnas.2122144119). Proceedings of the National Academy of Sciences, 119(30), p.e2122144119.
