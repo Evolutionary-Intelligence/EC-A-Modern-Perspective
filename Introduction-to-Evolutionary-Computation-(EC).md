@@ -113,6 +113,7 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 
 ## Reference
 
+* Copeland, B.J., 2023. [Early AI in Britain: Turing et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10198768). IEEE Annals of the History of Computing, (01), pp.1-19.
 * Fogel, D.B., 2006. Evolutionary computation: Toward a new philosophy of machine intelligence. John Wiley & Sons. [ **Fogel, D.B.: IEEE Evolutionary Computation Pioneer Award 2008** ]
 * Copeland, B.J. and Proudfoot, D., 1999. Alan Turing’s forgotten ideas in computer science. Scientific American, 280(4), pp.98-103.
 * Genesereth, M.R. and Nilsson, N.J., 1987. Logical foundations of artificial intelligence. Morgan Kaufmann.
