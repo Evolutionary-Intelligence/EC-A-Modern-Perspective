@@ -113,6 +113,8 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 
 ## Reference
 
+* Fogel, D.B., 2006. Evolutionary computation: Toward a new philosophy of machine intelligence. John Wiley & Sons.
+* Genesereth, M.R. and Nilsson, N.J., 1987. Logical foundations of artificial intelligence. Morgan Kaufmann.
 * Berry, A. and Browne, J., 2022. [Mendel and Darwin](https://www.pnas.org/doi/abs/10.1073/pnas.2122144119). Proceedings of the National Academy of Sciences, 119(30), p.e2122144119.
 * Eiben, A.E. and Smith, J.E., 2015. [Introduction to evolutionary computing](https://link.springer.com/book/10.1007/978-3-662-44874-8). Springer-Verlag Berlin Heidelberg.
 * De Jong, K.A., 2006. [Evolutionary computation: A unified approach](https://mitpress.mit.edu/9780262529600/evolutionary-computation/). MIT Press.
@@ -122,7 +124,6 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 * [1997] No Free Lunch Theorems for Optimization [IEEE-TEVC+IBM+SFI+Wolpert]
 * [2013] Analyzing Evolutionary Algorithms - The Computer Science Perspective [Jansen]
 * [2020] Evolutionary Computation - A Unified Approach [GECCO+DeJong]
-* [2006] Evolutionary Computation - Toward a New Philosophy of Machine Intelligence [ThirdEdition+Fogel]
 * [2015] The Five Tribes of Machine Learning [Domingos]
 * [2015] The Master Algorithm - How the Quest for the Ultimate Learning Machine Will Remake Our World [Domingos]
 * [2019] Exploratory landscape analysis [GECCO]
