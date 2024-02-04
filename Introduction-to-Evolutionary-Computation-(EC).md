@@ -8,7 +8,7 @@
 
 #### Python-based Open-Source Softwares
 
-The following order regarding a set of EC-related Python libraries makes no sense (just from a download statistic perspective). We are actively updating this list as we believe new libraries will be generated in the future.
+The following order regarding a set of EC-related Python libraries makes no sense (just roughly from a *download statistic* perspective). We are actively updating this interesting list as we believe new libraries will be generated in the future.
 
 * [cmaes](https://github.com/CyberAgentAILab/cmaes): A Python library for CMA-ES ([![Downloads](https://static.pepy.tech/badge/cmaes)](https://pepy.tech/project/cmaes)).
 * [DEAP](https://github.com/deap/deap): Distributed EAs in Python (*> 2000 Citations* + [![Downloads](https://static.pepy.tech/badge/deap)](https://pepy.tech/project/deap)).
