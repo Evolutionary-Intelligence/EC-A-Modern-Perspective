@@ -2,6 +2,7 @@
 
 ## Reference
 
+* https://sites.google.com/view/meta-rl-tutorial-aaai-2024
 * Schmidgall, S., Achterberg, J., Miconi, T., Kirsch, L., Ziaei, R., Hajiseyedrazi, S. and Eshraghian, J., 2023. [Brain-inspired learning in artificial neural networks: A review](https://arxiv.org/abs/2305.11252). arXiv preprint arXiv:2305.11252.
 * Dorrell, W., Yuffa, M. and Latham, P.E., 2023, July. [Meta-learning the inductive bias of simple neural circuits](https://proceedings.mlr.press/v202/dorrell23a.html). In International Conference on Machine Learning (pp. 8389-8402). PMLR.
 * Miconi, T., 2023, July. [Learning to acquire novel cognitive tasks with evolution, plasticity and meta-meta-learning](https://proceedings.mlr.press/v202/miconi23a.html). In International Conference on Machine Learning (pp. 24756-24774). PMLR.
