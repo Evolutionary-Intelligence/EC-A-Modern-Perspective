@@ -11,9 +11,10 @@ For AI/ML, **learning and evolution** (e.g., [[Hinton&Nowlan, 1987]](https://www
 Finally, we thank very much for Prof. Shi and Prof. Yao which provide our Ph.D. opportunities to study AI/ML and EC. We also acknowledge all authors () and reviewers (Guochen Zhou) from each (relatively independent) chapters.
 
 ******* *** *******
-Written by Qiqi Duan & Yijun Yang @ SUSTech, Shenzhen, China.
+Written by Qiqi Duan & Yijun Yang.
 
-2023 - 2027
+From 2023 to 2027.
+******* *** *******
 
 ## Some Wonderful Books Directly Inspiring this Book
 
