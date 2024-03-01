@@ -13,4 +13,8 @@ Finally, we thank very much for Prof. Shi and Prof. Yao which provide our Ph.D. 
 ******* *** *******
 Written by Qiqi Duan & Yijun Yang @ SUSTech, Shenzhen, China.
 
-2023 - 2025
+2023 - 2027
+
+## Some Wonderful Books Directly Inspiring this Book
+
+* Fogel, D.B., 2006. Evolutionary computation: Toward a new philosophy of machine intelligence. John Wiley & Sons.
