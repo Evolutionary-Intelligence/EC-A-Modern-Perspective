@@ -18,6 +18,7 @@ The following order regarding a set of EC-related Python libraries makes no sens
 * [TPOT](https://github.com/EpistasisLab/tpot): A Python AutoML tool that optimizes ML pipelines using GP ([![Downloads](https://static.pepy.tech/badge/tpot)](https://pepy.tech/project/tpot)).
 * [nevergrad](https://github.com/facebookresearch/nevergrad): A Python toolbox for performing gradient-free optimization ([![Downloads](https://static.pepy.tech/badge/nevergrad)](https://pepy.tech/project/nevergrad)).
 * [PyBrain](https://github.com/pybrain/pybrain): The Python ML Library ([![Downloads](https://static.pepy.tech/badge/pybrain)](https://pepy.tech/project/pybrain)).
+  * **Schaul, T., Bayer, J., Wierstra, D., Sun, Y., Felder, M., Sehnke, F., Rückstieß, T. and Schmidhuber, J., 2010. PyBrain. Journal of Machine Learning Research, 11, pp.743-746.**
 * [PySwarms](https://github.com/ljvmiranda921/pyswarms): A research toolkit for PSO in Python ([![Downloads](https://static.pepy.tech/badge/PySwarms)](https://pepy.tech/project/PySwarms)).
 * [pygmo2](https://esa.github.io/pygmo2/): A scientific Python library for massively parallel optimization ([![Downloads](https://static.pepy.tech/badge/pygmo)](https://pepy.tech/project/pygmo)).
 * [PySR](https://github.com/MilesCranmer/PySR): High-Performance Symbolic Regression in Python and Julia ([![Downloads](https://static.pepy.tech/badge/PySR)](https://pepy.tech/project/PySR)).
