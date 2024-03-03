@@ -4,6 +4,9 @@
 
 * [Pedersen&Risi, 2023, GECCO](https://dl.acm.org/doi/10.1145/3583131.3590460)
 
+## Evolution of Spiking Neural Networks (SNN)
+
+* Wang, G., Sun, Y., Cheng, S. and Song, S., 2024. Evolving connectivity for recurrent spiking neural networks. Advances in Neural Information Processing Systems, 36.
 
 ## Reference
 
