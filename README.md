@@ -6,7 +6,7 @@ This is a *free online* book called **Evolutionary Computation: A Modern Perspec
 
 * [Preface](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Preface.md)
 * [Introduction to Evolutionary Computation (EC)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Introduction-to-Evolutionary-Computation-(EC).md)
-  * [Motivations from Evolution, Diversity, and Adaptation](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Introduction-to-Evolutionary-Computation-(EC).md#motivations-from-biological-evolution-via-natural-selection-population-based-diversity-and-randomness-based-adaptation)
+  * [Motivations from Biological Evolution via Natural Selection: Population-based Diversity and Randomness-based Adaptation](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Introduction-to-Evolutionary-Computation-(EC).md#motivations-from-biological-evolution-via-natural-selection-population-based-diversity-and-randomness-based-adaptation)
     * Population-based Diversity
     * Randomness-based Adaptation
     * Fitness-based Selection
