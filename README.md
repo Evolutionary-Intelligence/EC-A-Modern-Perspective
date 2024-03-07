@@ -10,6 +10,7 @@ This is a *free online* book called **Evolutionary Computation: A Modern Perspec
     * Population-based Diversity (versus Convergence)
     * Randomness-based Adaptation (and Self-Adaptation)
     * Fitness-based Selection
+    * Optimization versus Approximation
   * A Unified Black-Box Optimization Framework from a Statistical Perspective
     * No Free Lunch Theorems for Optimization
     * Exploration-Exploitation Trade-Offs
