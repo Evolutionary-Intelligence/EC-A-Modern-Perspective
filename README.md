@@ -9,7 +9,7 @@ This is a *free online* book called **Evolutionary Computation: A Modern Perspec
   * [Motivations from Biological Evolution via Natural Selection: Population-based Diversity and Randomness-based Adaptation](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Introduction-to-Evolutionary-Computation-(EC).md#motivations-from-biological-evolution-via-natural-selection-population-based-diversity-and-randomness-based-adaptation)
     * Population-based Diversity (versus Convergence)
     * Randomness-based Adaptation (and Self-Adaptation)
-    * Fitness-based Selection
+    * Fitness-based Selection (Survival-of-the-Fittest versus Extinction)
     * Optimization versus Approximation
   * A Unified Black-Box Optimization Framework from a Statistical Perspective
     * No Free Lunch Theorems for Optimization
