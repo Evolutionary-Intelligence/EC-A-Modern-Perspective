@@ -121,6 +121,7 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 * Copeland, B.J. and Proudfoot, D., 1999. Alan Turing’s forgotten ideas in computer science. Scientific American, 280(4), pp.98-103.
 * Genesereth, M.R. and Nilsson, N.J., 1987. Logical foundations of artificial intelligence. Morgan Kaufmann.
 * Newell, A. and Simon, H.A., 1975. [Computer science as empirical inquiry: Symbols and search](https://dl.acm.org/doi/pdf/10.1145/1283920.1283930). In ACM Turing Award Lectures (p. 1975).
+* Wright, S., 1932. [The roles of mutation, inbreeding, crossbreeding and selection in evolution](http://www.esp.org/books/6th-congress/facsimile/contents/6th-cong-p356-wright.pdf). In Proceedings of Sixth International Congress of Genetics (Vol. 1, pp. 356-366).
 * Berry, A. and Browne, J., 2022. [Mendel and Darwin](https://www.pnas.org/doi/abs/10.1073/pnas.2122144119). Proceedings of the National Academy of Sciences, 119(30), p.e2122144119.
 * Eiben, A.E. and Smith, J.E., 2015. [Introduction to evolutionary computing](https://link.springer.com/book/10.1007/978-3-662-44874-8). Springer-Verlag Berlin Heidelberg.
 * De Jong, K.A., 2006. [Evolutionary computation: A unified approach](https://mitpress.mit.edu/9780262529600/evolutionary-computation/). MIT Press.
