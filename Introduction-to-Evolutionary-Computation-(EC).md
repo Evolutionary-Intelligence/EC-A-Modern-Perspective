@@ -49,7 +49,7 @@ The following order regarding a set of EC-related Python libraries makes no sens
   * [Telescope Schedulers](https://iopscience.iop.org/article/10.3847/1538-3881/aafece): [Princeton University + University of Washington]
   * [Global Optimization of Transit modelling](https://academic.oup.com/mnras/article/505/3/3767/6287591): [European Space Agency etc.]
 * [Biology]() [e.g., Biophysics, Computational Biology]
-  * [Optimization of mathematical modeling of Caenorhabditis elegans]() based on GA: [[Sherman&Harel, PNAS, 2024]](https://www.pnas.org/doi/abs/10.1073/pnas.2302660121) from [Weizmann Institute of Science]()
+  * [Optimization of mathematical modeling of Caenorhabditis elegans](https://www.pnas.org/doi/abs/10.1073/pnas.2302660121) (based on GA): [[Sherman&Harel, PNAS, 2024]](https://www.pnas.org/doi/abs/10.1073/pnas.2302660121) from [Weizmann Institute of Science]()
   * [Linguistic Diversity Simulation](https://www.nature.com/articles/s41562-019-0663-x): [Dediu et al., 2019, Nature Human Behaviour]
   * [Stochastic Model Optimization for Microtubule Motors](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000623): [ETH Zürich + University of Zurich]
 * [Control&Robotics]()
