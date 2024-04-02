@@ -18,5 +18,6 @@ From 2023 to 2027.
 
 ## Some Wonderful Books Directly Inspiring this Open Book
 
+* https://aima.cs.berkeley.edu/ (this very popular book about AI directly motivated the name of our open book)
 * Eiben, A.E. and Smith, J.E., 2015. Introduction to evolutionary computing. Springer-Verlag Berlin Heidelberg.
 * Fogel, D.B., 2006. Evolutionary computation: Toward a new philosophy of machine intelligence. John Wiley & Sons.
