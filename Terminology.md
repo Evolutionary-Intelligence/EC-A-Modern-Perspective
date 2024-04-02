@@ -1,0 +1,3 @@
+# Terminology
+
+EA: Evolutionary Algorithm
