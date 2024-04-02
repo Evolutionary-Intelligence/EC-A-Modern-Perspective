@@ -1,3 +1,4 @@
 # Terminology
 
-EA: Evolutionary Algorithm
+* EA: Evolutionary Algorithm
+* EC: Evolutionary Computation/Computing
