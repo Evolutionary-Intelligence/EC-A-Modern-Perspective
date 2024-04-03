@@ -119,7 +119,7 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 ## Reference
 
 * [Bremermann, H.J.](https://en.wikipedia.org/wiki/Hans-Joachim_Bremermann), 1962. Optimization through evolution and recombination. Self-Organizing Systems, 93, p.106. [ [UC Berkeley](https://newsarchive.berkeley.edu/news/media/releases/96legacy/releases.96/14319.html) + [Hans J. Bremermann: A pioneer in mathematical biology](https://www.sciencedirect.com/science/article/pii/030326479401442A?via%3Dihub) ]
-
+  * "[Last year he received a lifetime achievement award from the Evolutionary Programming Society for his contribuions to the foundations of the field and for his work on genetic algorithms.](https://newsarchive.berkeley.edu/news/media/releases/96legacy/releases.96/14319.html)"
 * Copeland, B.J., 2023. [Early AI in Britain: Turing et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10198768). IEEE Annals of the History of Computing, (01), pp.1-19.
 * Copeland, B.J., Bowen, J., Sprevak, M. and Wilson, R., 2017. The Turing guide. Oxford University Press.
 * Fogel, D.B., 2006. Evolutionary computation: Toward a new philosophy of machine intelligence. John Wiley & Sons. [ **Fogel, D.B.: IEEE Evolutionary Computation Pioneer Award 2008** ]
