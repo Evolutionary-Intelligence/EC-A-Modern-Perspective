@@ -21,3 +21,4 @@ From 2023 to 2027.
 * https://aima.cs.berkeley.edu/ (this very popular book about AI directly motivated the name of our open book)
 * Eiben, A.E. and Smith, J.E., 2015. Introduction to evolutionary computing. Springer-Verlag Berlin Heidelberg.
 * Fogel, D.B., 2006. Evolutionary computation: Toward a new philosophy of machine intelligence. John Wiley & Sons.
+* Back, T., 1996. Evolutionary algorithms in theory and practice: evolution strategies, evolutionary programming, genetic algorithms. Oxford University Press.
