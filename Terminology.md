@@ -1,5 +1,6 @@
 # Terminology List
 
+* CMA-ES: Covariance Matrix Adaptation Evolution Strategy
 * EA: Evolutionary Algorithm
 * EC: Evolutionary Computation/Computing
 * EDA: Estimation of Distribution Algorithm
