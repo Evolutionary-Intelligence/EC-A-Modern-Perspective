@@ -1,5 +1,6 @@
 # Terminology List
 
+* CI: Collective Intelligence
 * CMA-ES: Covariance Matrix Adaptation Evolution Strategy
 * EA: Evolutionary Algorithm
 * EC: Evolutionary Computation/Computing
@@ -9,3 +10,4 @@
 * GA: Genetic Algorithm
 * GP: Genetic Programming
 * LLM: Large Language Model
+* SI: Swarm Intelligence
