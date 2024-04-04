@@ -118,6 +118,7 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 
 ## Reference
 
+* Fogel, D.B., 1998. [Unearthing a fossil from the history of evolutionary computation](http://l.academicdirect.org/Horticulture/GAs/Refs/_other_Fogel/Fogel_1998_Unearthing_Fossil.pdf). Fundamenta Informaticae, 35(1-4), pp.1-16.
 * [Bremermann, H.J.](https://en.wikipedia.org/wiki/Hans-Joachim_Bremermann), 1962. Optimization through evolution and recombination. Self-Organizing Systems, 93, p.106. [ [UC Berkeley](https://newsarchive.berkeley.edu/news/media/releases/96legacy/releases.96/14319.html) + [Hans J. Bremermann: A pioneer in mathematical biology](https://www.sciencedirect.com/science/article/pii/030326479401442A?via%3Dihub) ]
   * "[Last year he received a lifetime achievement award from the Evolutionary Programming Society for his contribuions to the foundations of the field and for his work on genetic algorithms.](https://newsarchive.berkeley.edu/news/media/releases/96legacy/releases.96/14319.html)"
 * Copeland, B.J., 2023. [Early AI in Britain: Turing et al.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10198768). IEEE Annals of the History of Computing, (01), pp.1-19.
