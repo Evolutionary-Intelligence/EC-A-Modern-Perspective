@@ -9,7 +9,8 @@
 
 ## Applications
 
-* For core-collapse supernovae: [[Soto& Villar, 2023]](https://openreview.net/forum?id=WhZrevX2ce) from Harvard&Smithsonian.
+* For core-collapse supernovae: [[Soto& Villar, 2023, NeurIPS-W]](https://openreview.net/forum?id=WhZrevX2ce) from Harvard&Smithsonian.
+* For a rogue wave model: [[Häfner et al., 2023, PNAS]](https://www.pnas.org/doi/10.1073/pnas.2306275120) from Pasteur Labs+University of Copenhagen+cUniversity of Victoria.
 
 # Reference
 
