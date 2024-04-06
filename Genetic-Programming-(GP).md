@@ -7,6 +7,10 @@
 
 [Scientific understanding](https://www.nature.com/articles/s42254-022-00518-3): "It will be exciting to see how these approaches, for example, combined with methods such as causal inference, can be improved to propose reasonable physical models of unknown systems that advance scientific understanding."
 
+## Applications
+
+* For core-collapse supernovae: [[Soto& Villar, 2023]](https://openreview.net/pdf?id=WhZrevX2ce) from Harvard&Smithsonian.
+
 # Reference
 
 * Cranmer, M., 2023. [Interpretable machine learning for science with PySR and SymbolicRegression.jl](https://arxiv.org/abs/2305.01582). arXiv preprint arXiv:2305.01582.
