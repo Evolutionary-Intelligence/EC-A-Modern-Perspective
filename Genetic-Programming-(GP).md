@@ -9,7 +9,8 @@
 
 # Reference
 
-* https://github.com/hengzhe-zhang/awesome-genetic-programming (which provides an *actively updated* collection of some latest research papers on GP.)
+* Koza, J.R., 1989, August. [Hierarchical genetic algorithms operating on populations of computer programs](https://www.genetic-programming.com/jkpdf/ijcai1989.pdf). In Proceedings of International Joint Conference on Artificial Intelligence (pp. 768-774).
+* https://github.com/hengzhe-zhang/awesome-genetic-programming (This provides an open-access collection of some research papers on GP.)
 * https://astroautomata.com/PySR/ | https://github.com/MilesCranmer/PySR
 * https://www.nature.com/articles/s41586-023-06221-2
 * Kelly, S., Park, D.S., Song, X., McIntire, M., Nashikkar, P., Guha, R., Banzhaf, W., Deb, K., Boddeti, V.N., Tan, J. and Real, E., 2023. Discovering adaptable symbolic algorithms from scratch. .
