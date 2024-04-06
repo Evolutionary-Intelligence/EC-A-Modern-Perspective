@@ -9,8 +9,9 @@
 
 ## Applications
 
-* For core-collapse supernovae: [[Soto& Villar, 2023, NeurIPS-W]](https://openreview.net/forum?id=WhZrevX2ce) from Harvard&Smithsonian.
-* For a rogue wave model: [[Häfner et al., 2023, PNAS]](https://www.pnas.org/doi/10.1073/pnas.2306275120) from Pasteur Labs+University of Copenhagen+cUniversity of Victoria.
+* For a core-collapse supernovae model: [[Soto& Villar, 2023, NeurIPS-W]](https://openreview.net/forum?id=WhZrevX2ce) from Harvard&Smithsonian.
+* For a rogue wave model: [[Häfner et al., 2023, PNAS]](https://www.pnas.org/doi/10.1073/pnas.2306275120) from Pasteur Labs+University of Copenhagen+University of Victoria.
+* For a collectively oscillatory behaviour model of rumbles: [[Rantsiou, 2024]](https://www.biorxiv.org/content/10.1101/2024.03.10.584305v1.full.pdf) from Harvard University.
 
 # Reference
 
