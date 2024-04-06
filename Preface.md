@@ -24,3 +24,4 @@ From 2023 to 2027.
 * De Jong, K.A., 2006. Evolutionary computation: A unified approach. MIT Press.
 * Mitchell, M., 1998. An introduction to genetic algorithms. MIT Press.
 * Back, T., 1996. Evolutionary algorithms in theory and practice: evolution strategies, evolutionary programming, genetic algorithms. Oxford University Press.
+* Koza, J.R., 1990. Genetic programming: A paradigm for genetically breeding populations of computer programs to solve problems. Stanford University, Department of Computer Science.
