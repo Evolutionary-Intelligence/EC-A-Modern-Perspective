@@ -9,7 +9,7 @@
 
 ## Applications
 
-* For core-collapse supernovae: [[Soto& Villar, 2023]](https://openreview.net/pdf?id=WhZrevX2ce) from Harvard&Smithsonian.
+* For core-collapse supernovae: [[Soto& Villar, 2023]](https://openreview.net/forum?id=WhZrevX2ce) from Harvard&Smithsonian.
 
 # Reference
 
