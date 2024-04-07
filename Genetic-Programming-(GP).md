@@ -16,6 +16,7 @@
 # Reference
 
 * Cranmer, M., 2023. [Interpretable machine learning for science with PySR and SymbolicRegression.jl](https://arxiv.org/abs/2305.01582). arXiv preprint arXiv:2305.01582.
+* Kötzing, T., Lagodzinski, J.G., Lengler, J. and Melnichenko, A., 2020. Destructiveness of lexicographic parsimony pressure and alleviation by a concatenation crossover in genetic programming. Theoretical Computer Science, 816, pp.96-113.
 * Koza, J.R., 1989, August. [Hierarchical genetic algorithms operating on populations of computer programs](https://www.genetic-programming.com/jkpdf/ijcai1989.pdf). In Proceedings of International Joint Conference on Artificial Intelligence (pp. 768-774).
 * https://github.com/hengzhe-zhang/awesome-genetic-programming (This provides an open-access collection of some research papers on GP.)
 * https://astroautomata.com/PySR/ | https://github.com/MilesCranmer/PySR
