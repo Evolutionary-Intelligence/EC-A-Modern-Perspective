@@ -11,3 +11,7 @@ https://proceedings.neurips.cc/paper/2018/hash/a2802cade04644083dcde1c8c483ed9a-
 [2021] First Return, Then Explore [Nature+Stanley+Clune]
 
 https://arxiv.org/pdf/2310.12103.pdf
+
+# Reference
+
+* Gaier, A., 2020. Accelerating evolutionary design exploration with predictive and generative models (Doctoral dissertation, Université de Lorraine).
