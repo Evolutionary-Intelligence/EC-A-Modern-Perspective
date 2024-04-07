@@ -10,4 +10,5 @@
 * GA: Genetic Algorithm
 * GP: Genetic Programming
 * LLM: Large Language Model
+* QD: Quality-Diversity
 * SI: Swarm Intelligence
