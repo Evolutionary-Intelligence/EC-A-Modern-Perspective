@@ -10,5 +10,6 @@
 * GA: Genetic Algorithm
 * GP: Genetic Programming
 * LLM: Large Language Model
+* NES: Natural Evolution Strategy
 * QD: Quality-Diversity
 * SI: Swarm Intelligence
