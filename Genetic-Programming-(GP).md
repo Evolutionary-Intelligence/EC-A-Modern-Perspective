@@ -17,6 +17,7 @@
 
 * Long, F.X., Vermetten, D., Kononova, A.V., Kalkreuth, R., Yang, K., Bäck, T. and van Stein, N., 2023. Challenges of ELA-guided function evolution using genetic programming. arXiv preprint arXiv:2305.15245.
 * Cranmer, M., 2023. [Interpretable machine learning for science with PySR and SymbolicRegression.jl](https://arxiv.org/abs/2305.01582). arXiv preprint arXiv:2305.01582.
+* La Cava, W., Orzechowski, P., Burlacu, B., de França, F.O., Virgolin, M., Jin, Y., Kommenda, M. and Moore, J.H., 2021. Contemporary symbolic regression methods and their relative performance. arXiv preprint arXiv:2107.14351.
 * Kötzing, T., Lagodzinski, J.G., Lengler, J. and Melnichenko, A., 2020. Destructiveness of lexicographic parsimony pressure and alleviation by a concatenation crossover in genetic programming. Theoretical Computer Science, 816, pp.96-113.
 * Koza, J.R., 1989, August. [Hierarchical genetic algorithms operating on populations of computer programs](https://www.genetic-programming.com/jkpdf/ijcai1989.pdf). In Proceedings of International Joint Conference on Artificial Intelligence (pp. 768-774).
 * https://github.com/hengzhe-zhang/awesome-genetic-programming (This provides an open-access collection of some research papers on GP.)
