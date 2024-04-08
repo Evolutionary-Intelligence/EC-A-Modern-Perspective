@@ -7,7 +7,7 @@
 
 [Scientific understanding](https://www.nature.com/articles/s42254-022-00518-3): "It will be exciting to see how these approaches, for example, combined with methods such as causal inference, can be improved to propose reasonable physical models of unknown systems that advance scientific understanding."
 
-## Applications
+## Some Interesting Applications
 
 * For a core-collapse supernovae model: [[Soto& Villar, 2023, NeurIPS-W]](https://openreview.net/forum?id=WhZrevX2ce) from Harvard&Smithsonian.
 * For a rogue wave model: [[Häfner et al., 2023, PNAS]](https://www.pnas.org/doi/10.1073/pnas.2306275120) from Pasteur Labs+University of Copenhagen+University of Victoria.
