@@ -17,6 +17,7 @@ equation discovery
 * For a core-collapse supernovae model: [[Soto& Villar, 2023, NeurIPS-W]](https://openreview.net/forum?id=WhZrevX2ce) from Harvard&Smithsonian.
 * For a rogue wave model: [[Häfner et al., 2023, PNAS]](https://www.pnas.org/doi/10.1073/pnas.2306275120) from Pasteur Labs+University of Copenhagen+University of Victoria.
 * For a galaxy-halo connection model: [[Delgado et al., 2022, MNRAS]](https://academic.oup.com/mnras/article/515/2/2733/6648805) from Harvard&Smithsonian+New York University+Institute for Advanced Study, Princeton+Durham University+Flatiron Institute+Princeton University+Carnegie Mellon University.
+* For the CAMELS (Cosmology and Astrophysics with Machine-learning Simulations) project: [[Villaescusa-Navarro et al., 2021, ApJ]](https://iopscience.iop.org/article/10.3847/1538-4357/abf7ba) from Princeton University+Flatiron Institute+University of Connecticut+Columbia University+Rutgers University+University of Edinburgh+Max-Planck-Institut für Astronomie+Harvard & Smithsonian+Universität Heidelberg+University of Florida+Tufts University+Carnegie Mellon University+University of the Western Cape+New York University+Cornell University.
 
 # Reference
 
