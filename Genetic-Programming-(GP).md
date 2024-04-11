@@ -21,6 +21,7 @@ equation discovery
 
 # Reference
 
+* https://mrbuche.com/files/applying-genetic-programming-symbolic-regression-to-solid-mechanics.pdf
 * Long, F.X., Vermetten, D., Kononova, A.V., Kalkreuth, R., Yang, K., Bäck, T. and van Stein, N., 2023. Challenges of ELA-guided function evolution using genetic programming. arXiv preprint arXiv:2305.15245.
 * Cranmer, M., 2023. [Interpretable machine learning for science with PySR and SymbolicRegression.jl](https://arxiv.org/abs/2305.01582). arXiv preprint arXiv:2305.01582.
 * La Cava, W., Orzechowski, P., Burlacu, B., de França, F.O., Virgolin, M., Jin, Y., Kommenda, M. and Moore, J.H., 2021. Contemporary symbolic regression methods and their relative performance. arXiv preprint arXiv:2107.14351.
