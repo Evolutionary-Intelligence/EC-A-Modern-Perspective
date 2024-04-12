@@ -16,7 +16,8 @@
 Technology, Yantai University, and Zhejiang Agriculture and Forestry University.
 * [Travelling salesman problem (TSP)](https://www.nature.com/articles/317804a0): Cavendish Laboratory (**Nature, 1985**)
 
-Reference
+# Reference
 
 * Mitchell, M., 1998. An introduction to genetic algorithms. MIT Press.
 * Whitley, D., 1994. A genetic algorithm tutorial. Statistics and Computing, 4(2), pp.65-85.
+* Davis, T.E. and Principe, J.C., 1993. A Markov chain framework for the simple genetic algorithm. Evolutionary Computation, 1(3), pp.269-288.
