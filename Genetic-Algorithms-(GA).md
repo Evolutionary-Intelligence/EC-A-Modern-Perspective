@@ -18,10 +18,15 @@ Technology, Yantai University, and Zhejiang Agriculture and Forestry University.
 
 ## Theoretical Advances
 
-### Schema theorem
+### Schema Theorem and Building Block Hypothesis (BBH)
+
+*******
+"[From the perspective of function optimization, the schema theorem does not provide any guarantee of convergence to, or divergence from, any optimum solution. This is a significant weakness of the theorem.](https://www.sciencedirect.com/science/article/abs/pii/S0303264796016577)" (from [Beyer, 1997, BioSystems](https://www.sciencedirect.com/science/article/abs/pii/S0303264796016577))
+*******
 
 # Reference
 
 * Mitchell, M., 1998. An introduction to genetic algorithms. MIT Press.
+* Beyer, H.G., 1997. An alternative explanation for the manner in which genetic algorithms operate. BioSystems, 41(1), pp.1-15.
 * Whitley, D., 1994. A genetic algorithm tutorial. Statistics and Computing, 4(2), pp.65-85.
 * Davis, T.E. and Principe, J.C., 1993. [A Markov chain framework for the simple genetic algorithm](https://direct.mit.edu/evco/article-abstract/1/3/269/1108/A-Markov-Chain-Framework-for-the-Simple-Genetic). Evolutionary Computation, 1(3), pp.269-288.
