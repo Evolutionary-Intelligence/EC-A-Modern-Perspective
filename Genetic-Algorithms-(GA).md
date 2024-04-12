@@ -16,13 +16,13 @@
 Technology, Yantai University, and Zhejiang Agriculture and Forestry University.
 * [Travelling salesman problem (TSP)](https://www.nature.com/articles/317804a0): Cavendish Laboratory (**Nature, 1985**)
 
-## Theoretical Advances
+## Theoretical Advances of GA
 
 ### Schema Theorem and Building Block Hypothesis (BBH)
 
-*******
+******* *** ******* 
 "[From the perspective of function optimization, the schema theorem does not provide any guarantee of convergence to, or divergence from, any optimum solution. This is a significant weakness of the theorem.](https://www.sciencedirect.com/science/article/abs/pii/S0303264796016577)" (from [Beyer, 1997, BioSystems](https://www.sciencedirect.com/science/article/abs/pii/S0303264796016577))
-*******
+******* *** *******
 
 # Reference
 
