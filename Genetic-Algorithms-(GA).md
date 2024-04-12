@@ -26,6 +26,8 @@ Technology, Yantai University, and Zhejiang Agriculture and Forestry University.
 
 implicit parallelism
 
+### Markov Chains Models of GA
+
 # Reference
 
 * Mitchell, M., 1998. An introduction to genetic algorithms. MIT Press.
