@@ -20,4 +20,4 @@ Technology, Yantai University, and Zhejiang Agriculture and Forestry University.
 
 * Mitchell, M., 1998. An introduction to genetic algorithms. MIT Press.
 * Whitley, D., 1994. A genetic algorithm tutorial. Statistics and Computing, 4(2), pp.65-85.
-* Davis, T.E. and Principe, J.C., 1993. A Markov chain framework for the simple genetic algorithm. Evolutionary Computation, 1(3), pp.269-288.
+* Davis, T.E. and Principe, J.C., 1993. [A Markov chain framework for the simple genetic algorithm](https://direct.mit.edu/evco/article-abstract/1/3/269/1108/A-Markov-Chain-Framework-for-the-Simple-Genetic). Evolutionary Computation, 1(3), pp.269-288.
