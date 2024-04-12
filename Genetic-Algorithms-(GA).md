@@ -16,6 +16,10 @@
 Technology, Yantai University, and Zhejiang Agriculture and Forestry University.
 * [Travelling salesman problem (TSP)](https://www.nature.com/articles/317804a0): Cavendish Laboratory (**Nature, 1985**)
 
+## Theoretical Advances
+
+### Schema theorem
+
 # Reference
 
 * Mitchell, M., 1998. An introduction to genetic algorithms. MIT Press.
