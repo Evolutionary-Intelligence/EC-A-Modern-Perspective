@@ -36,3 +36,4 @@ implicit parallelism
 * Rudolph, G., 1994. [Convergence analysis of canonical genetic algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0303264796016577). IEEE Transactions on Neural Networks, 5(1), pp.96-101.
 * Mühlenbein, H. and Schlierkamp-Voosen, D., 1993. The science of breeding and its application to the breeder genetic algorithm (BGA). Evolutionary Computation, 1(4), pp.335-360.
 * Davis, T.E. and Principe, J.C., 1993. [A Markov chain framework for the simple genetic algorithm](https://direct.mit.edu/evco/article-abstract/1/3/269/1108/A-Markov-Chain-Framework-for-the-Simple-Genetic). Evolutionary Computation, 1(3), pp.269-288.
+* Bertoni, A. and Dorigo, M., 1993. Implicit parallelism in genetic algorithms. Artificial Intelligence, 61(2), pp.307-314.
