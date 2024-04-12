@@ -31,6 +31,7 @@ implicit parallelism
 # Reference
 
 * Mitchell, M., 1998. An introduction to genetic algorithms. MIT Press.
-* Beyer, H.G., 1997. An alternative explanation for the manner in which genetic algorithms operate. BioSystems, 41(1), pp.1-15.
+* Beyer, H.G., 1997. [An alternative explanation for the manner in which genetic algorithms operate](). BioSystems, 41(1), pp.1-15.
 * Whitley, D., 1994. A genetic algorithm tutorial. Statistics and Computing, 4(2), pp.65-85.
+* Rudolph, G., 1994. [Convergence analysis of canonical genetic algorithms](https://www.sciencedirect.com/science/article/abs/pii/S0303264796016577). IEEE Transactions on Neural Networks, 5(1), pp.96-101.
 * Davis, T.E. and Principe, J.C., 1993. [A Markov chain framework for the simple genetic algorithm](https://direct.mit.edu/evco/article-abstract/1/3/269/1108/A-Markov-Chain-Framework-for-the-Simple-Genetic). Evolutionary Computation, 1(3), pp.269-288.
