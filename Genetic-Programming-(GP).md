@@ -7,6 +7,8 @@
 
 [Scientific understanding](https://www.nature.com/articles/s42254-022-00518-3): "It will be exciting to see how these approaches, for example, combined with methods such as causal inference, can be improved to propose reasonable physical models of unknown systems that advance scientific understanding."
 
+## Cartesian Genetic Programming
+
 ## Symbolic Regression
 
 equation discovery
