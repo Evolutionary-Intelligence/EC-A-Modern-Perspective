@@ -22,6 +22,7 @@ The following order regarding a set of EC-related Python libraries makes no sens
 * [PyBrain](https://github.com/pybrain/pybrain): The Python ML Library ([![Downloads](https://static.pepy.tech/badge/pybrain)](https://pepy.tech/project/pybrain)).
   * **Schaul, T., Bayer, J., Wierstra, D., Sun, Y., Felder, M., Sehnke, F., Rückstieß, T. and Schmidhuber, J., 2010. PyBrain. Journal of Machine Learning Research, 11, pp.743-746.**
 * [PySwarms](https://github.com/ljvmiranda921/pyswarms): A research toolkit for PSO in Python ([![Downloads](https://static.pepy.tech/badge/PySwarms)](https://pepy.tech/project/PySwarms)).
+  * "NOTICE: The author of this library is not actively maintaining this open-source repository anymore."
 * [pygmo2](https://esa.github.io/pygmo2/): A scientific Python library for massively parallel optimization ([![Downloads](https://static.pepy.tech/badge/pygmo)](https://pepy.tech/project/pygmo)).
 * [PySR](https://github.com/MilesCranmer/PySR): High-Performance Symbolic Regression in Python and Julia ([![Downloads](https://static.pepy.tech/badge/PySR)](https://pepy.tech/project/PySR)).
 * [Gradient-Free-Optimizers](https://github.com/SimonBlanke/Gradient-Free-Optimizers): Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces ([![Downloads](https://static.pepy.tech/badge/gradient-free-optimizers)](https://pepy.tech/project/gradient-free-optimizers)).
