@@ -37,6 +37,7 @@ The following order regarding a set of EC-related Python libraries makes no sens
 * [PINTS](https://github.com/pints-team/pints): Probabilistic Inference on Noisy Time Series ([![Downloads](https://static.pepy.tech/badge/pints)](https://pepy.tech/project/pints)). [CMA-ES + XNES + SNES + PSO]
 * [EC-KitY](https://www.sciencedirect.com/science/article/pii/S2352711023000778): A Python library for doing EC compatible with scikit-learn ([![Downloads](https://static.pepy.tech/badge/eckity)](https://pepy.tech/project/eckity)).
 * [QDax](https://github.com/adaptive-intelligent-robotics/QDax): A Python tool to accelerate QD and neuro-evolution algorithms through hardware accelerators and massive parallelization ([![Downloads](https://static.pepy.tech/badge/qdax)](https://pepy.tech/project/qdax)).
+  * **Chalumeau, F., Lim, B., Boige, R., Allard, M., Grillotti, L., Flageat, M., Macé, V., Richard, G., Flajolet, A., Pierrot, T. and Cully, A., 2024. QDax: A library for quality-diversity and population-based algorithms with hardware acceleration. Journal of Machine Learning Research, 25(108), pp.1-16.**
 * [pyribs](https://github.com/icaros-usc/pyribs): A Python library for QD optimization ([![Downloads](https://static.pepy.tech/badge/pyribs)](https://pepy.tech/project/pyribs)).
 * [paradiseo](https://github.com/nojhan/paradiseo): An EC framework to (automatically) build fast parallel stochastic optimization solvers.
 
