@@ -8,6 +8,8 @@
 
 ## Reference
 
+* Zhang, X., Gao, X., Wu, K. and Pan, Z., 2024. Learning neural traffic rules. IEEE Robotics and Automation Letters.
+
 https://www.cs.ox.ac.uk/people/shimon.whiteson/pubs/whitesonrlsota11.pdf
 
 https://link.springer.com/article/10.1007/s12065-011-0066-z
