@@ -120,6 +120,8 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 
 ### Computer Graphics
 
+* [Wang et al., 2010, TOG](https://dl.acm.org/doi/10.1145/1778765.1778810): A team from University of Toronto.
+
 ## Reference
 
 * Fogel, D.B., 1998. [Unearthing a fossil from the history of evolutionary computation](http://l.academicdirect.org/Horticulture/GAs/Refs/_other_Fogel/Fogel_1998_Unearthing_Fossil.pdf). Fundamenta Informaticae, 35(1-4), pp.1-16. [ **Fogel, D.B.: IEEE Evolutionary Computation Pioneer Award 2008** ]
