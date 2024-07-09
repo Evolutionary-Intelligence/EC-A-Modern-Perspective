@@ -122,6 +122,7 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 
 * [[Wang et al., 2010, TOG]](https://dl.acm.org/doi/10.1145/1778765.1778810): A team from University of Toronto.
 * [[Wampler&Popović, 2009, TOG]](https://dl.acm.org/doi/10.1145/1531326.1531366): A team from University of Washington.
+* [[Auslander et al., 1995, TOG]](https://dl.acm.org/doi/10.1145/225294.225295): 
 
 ## Reference
 
