@@ -48,6 +48,7 @@ This is a *free online* book, currently written/edited by *Qiqi Duan* @SUSTech (
 * [NeuroEvolution](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/NeuroEvolution.md)
   * [NeuroEvolution of Augmenting Topologies (NEAT)]()
   * [Population-Based Training (PBT)]()
+* Multi-Objective Evolutionary Optimization
 * [Parallel/Distributed Evolutionary Computation](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Parallel-Distributed-Evolutionary-Computation.md)
 * [Evolutionary Robotics (ER) and Quality-Diversity (QD)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolutionary-Robotics-(ER)-and-Quality-Diversity-(QD).md)
 * [Evolutionary Reinforcement Learning (ERL)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Evolutionary-Reinforcement-Learning-(ERL).md)
