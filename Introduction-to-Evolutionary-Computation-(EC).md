@@ -1,4 +1,4 @@
-# Introduction to Evolutionary Computation (EC)
+# An Introduction to Evolutionary Computation (EC)
 
 ## Motivations from Biological Evolution via Natural Selection: Population-based Diversity and Randomness-based Adaptation
 
@@ -117,6 +117,8 @@ The following order regarding a set of EC-related Python libraries makes no sens
 Although we have given **many** problem instances where EAs showed **satisfactory** (*not necessarily optimal*) performance, *NOT all problems* could be best solved by EAs: e.g., [[1]](https://www.sciencedirect.com/science/article/pii/S2590238522006622), just to name a few. We believe that the amount of problem instances tackled effectively by EA will still keep increasing in the future.
 
 * https://psyarxiv.com/9f4k3/
+
+### Computer Graphics
 
 ## Reference
 
