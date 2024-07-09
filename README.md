@@ -24,7 +24,7 @@ This is a *freely online* book, currently written/edited by *Qiqi Duan* @SUSTech
     * Physical Science
     * Chemical Science
     * Environmental and Energy Science
-    * [Computer Graphics]()
+    * [Computer Graphics](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Introduction-to-Evolutionary-Computation-(EC).md#computer-graphics)
   * Limitations and Possible Risks of Evolutionary Computation
 * History of Evolutionary Computation (EC)
   * Early EC Pioneers from 1940s to 1960s
