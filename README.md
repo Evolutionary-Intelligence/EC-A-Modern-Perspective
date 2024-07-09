@@ -57,3 +57,5 @@ This is a *free online* book, currently written/edited by *Qiqi Duan* @SUSTech (
   * [Ant Colony Optimization](ACO)
   * [Particle Swarm Optimization](PSO)
   * [Swarm Robotics]()
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.EC-A-Modern-Perspective)
