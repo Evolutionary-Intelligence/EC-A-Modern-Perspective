@@ -14,4 +14,5 @@ https://arxiv.org/pdf/2310.12103.pdf
 
 # Reference
 
+* Zardini, E., Zappetti, D., Zambrano, D., Iacca, G. and Floreano, D., 2021, June. Seeking quality diversity in evolutionary co-design of morphology and control of soft tensegrity modular robots. In Proceedings of Annual Genetic and Evolutionary Computation Conference (pp. 189-197). ACM.
 * Gaier, A., 2020. Accelerating evolutionary design exploration with predictive and generative models (Doctoral dissertation, Université de Lorraine).
