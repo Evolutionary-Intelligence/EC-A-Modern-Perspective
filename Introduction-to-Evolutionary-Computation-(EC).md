@@ -6,9 +6,9 @@
 
 ## Some Useful and Interesting Applications
 
-### Open-Source Softwares
+### Open-Source Software
 
-#### Python-based Open-Source Softwares
+#### Python-based Software
 
 The following order regarding a set of EC-related Python libraries makes no sense (just roughly from a *download statistic* perspective). We are actively updating this interesting list as we believe new libraries will be generated in the future.
 
