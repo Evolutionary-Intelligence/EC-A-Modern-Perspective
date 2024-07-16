@@ -126,6 +126,7 @@ Although we have given **many** problem instances where EAs showed **satisfactor
 
 ## Reference
 
+* Koonin, E.V., 2011. [The logic of chance: The nature and origin of biological evolution](https://www.amazon.co.uk/Logic-Chance-Nature-Biological-Evolution/dp/0132542498). FT Press.
 * Fogel, D.B., 1998. [Unearthing a fossil from the history of evolutionary computation](http://l.academicdirect.org/Horticulture/GAs/Refs/_other_Fogel/Fogel_1998_Unearthing_Fossil.pdf). Fundamenta Informaticae, 35(1-4), pp.1-16. [ **Fogel, D.B.: IEEE Evolutionary Computation Pioneer Award 2008** ]
 * Fogel, D.B., 1998. [Evolutionary computation: The fossil record](https://ieeexplore.ieee.org/book/5263042). IEEE Press. [ **Fogel, D.B.: IEEE Evolutionary Computation Pioneer Award 2008** ]
 * [Bremermann, H.J.](https://en.wikipedia.org/wiki/Hans-Joachim_Bremermann), 1962. Optimization through evolution and recombination. Self-Organizing Systems, 93, p.106. [ [UC Berkeley](https://newsarchive.berkeley.edu/news/media/releases/96legacy/releases.96/14319.html) + [Hans J. Bremermann: A pioneer in mathematical biology](https://www.sciencedirect.com/science/article/pii/030326479401442A?via%3Dihub) ]
