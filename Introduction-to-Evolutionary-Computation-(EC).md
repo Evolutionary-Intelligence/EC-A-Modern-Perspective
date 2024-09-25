@@ -6,7 +6,7 @@
 
 ## Some Useful and Interesting Applications
 
-### Open-Source Software
+## Open-Source Software
 
 #### Python-based Software
 
