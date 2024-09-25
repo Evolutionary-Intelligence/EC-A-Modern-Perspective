@@ -6,6 +6,7 @@
 * EC: Evolutionary Computation/Computing
 * EDA: Estimation of Distribution Algorithm
 * EP: Evolutionary Programming
+* ERL: Evolutionary Reinforcement Learning 
 * ES: Evolution Strategy
 * GA: Genetic Algorithm
 * GP: Genetic Programming
