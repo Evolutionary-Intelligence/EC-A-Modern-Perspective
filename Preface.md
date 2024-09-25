@@ -10,11 +10,11 @@ With the renaissance of [neural networks](https://www.sciencedirect.com/science/
 
 Finally, we thank very much for Prof. Shi and Prof. Yao which provide our Ph.D. opportunities to study AI/ML and in particular EC. We also acknowledge all authors () and reviewers (Guochen Zhou) from each (relatively independent) chapters.
 
-******* *** *******
-Written by Qiqi Duan & Yijun Yang.
+************** *** **************
+Written/Edited by Qiqi Duan (@SUSTech, Shenzhen) & Yijun Yang (@Tencent AI Lab, Shenzhen).
 
 From 2023 to 2027.
-******* *** *******
+************** *** **************
 
 ## Some Well-Written Books Which have Directly Inspiring this Entirely-Open Book
 
