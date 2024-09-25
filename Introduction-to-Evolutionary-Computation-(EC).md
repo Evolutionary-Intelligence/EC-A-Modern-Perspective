@@ -1,6 +1,6 @@
 # An Introduction to Evolutionary Computation (EC)
 
-## Motivations from Biological Evolution via Natural Selection: Population-based Diversity and Randomness-based Adaptation
+## Motivations from Biological Evolution via Natural Selection
 
 [directed evolution](https://iopscience.iop.org/article/10.1088/2632-2153/accacd)
 
