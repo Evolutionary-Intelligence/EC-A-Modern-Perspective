@@ -20,7 +20,7 @@ From 2023 to 2027.
 
 * [https://probml.github.io/pml-book/](https://probml.github.io/pml-book/): This very popular book about Machine Learning (ML) directly motivated the name of our open book.
 * [https://aima.cs.berkeley.edu/](https://aima.cs.berkeley.edu/): This very popular book about Artificial Intelligence (AI) directly motivated the name of our open book.
-* Eiben, A.E. and Smith, J.E., 2015. Introduction to evolutionary computing. Springer-Verlag Berlin Heidelberg.
+* Eiben, A.E. and Smith, J.E., 2015. [Introduction to evolutionary computing](https://link.springer.com/book/10.1007/978-3-662-44874-8). Springer-Verlag Berlin Heidelberg.
 * Fogel, D.B., 2006. Evolutionary computation: Toward a new philosophy of machine intelligence. John Wiley & Sons.
 * De Jong, K.A., 2006. Evolutionary computation: A unified approach. MIT Press.
 * Deb, K., 2001. Multi-objective optimization using evolutionary algorithms. John Wiley & Sons.
