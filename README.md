@@ -7,7 +7,7 @@ This is a *freely online* book, currently written/edited by *Qiqi Duan* @SUSTech
 * [Preface](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Preface.md)
 * [Terminology](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Terminology.md)
 * [Introduction to Evolutionary Computation (EC)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Introduction-to-Evolutionary-Computation-(EC).md)
-  * [Motivations from Biological Evolution via Natural Selection: Population-based Diversity and Randomness-based Adaptation](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Introduction-to-Evolutionary-Computation-(EC).md#motivations-from-biological-evolution-via-natural-selection-population-based-diversity-and-randomness-based-adaptation)
+  * Motivations from Biological Evolution via Natural Selection
     * Population-based Diversity (versus Convergence)
     * Randomness-based Adaptation (and Self-Adaptation)
     * Fitness-based Selection (Survival-of-the-Fittest versus Extinction)
