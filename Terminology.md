@@ -1,4 +1,4 @@
-# Terminology List
+# Terminology
 
 * CI: Collective Intelligence
 * CMA-ES: Covariance Matrix Adaptation Evolution Strategy
