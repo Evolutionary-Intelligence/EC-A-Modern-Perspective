@@ -16,7 +16,7 @@ Written/Edited by Qiqi Duan (@SUSTech, Shenzhen) & Yijun Yang (@Tencent AI Lab, 
 From 2023 to 2027.
 ************** *** **************
 
-## Some Well-Written Books Which have Directly Inspiring this Entirely-Open Book
+## Some Well-Written Books Which have Directly Inspired this Entirely-Open Book
 
 * [https://probml.github.io/pml-book/](https://probml.github.io/pml-book/): This very popular book about Machine Learning (ML) directly motivated the name of our open book.
 * [https://aima.cs.berkeley.edu/](https://aima.cs.berkeley.edu/): This very popular book about Artificial Intelligence (AI) directly motivated the name of our open book.
