@@ -11,5 +11,6 @@
 * GP: Genetic Programming
 * LLM: Large Language Model
 * NES: Natural Evolution Strategy
+* OEE: Open-Ended Evolution
 * QD: Quality-Diversity
 * SI: Swarm Intelligence
