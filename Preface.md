@@ -8,7 +8,7 @@ Up to now, there have been several *wonderful* books devoted to EC, such as [[Ei
 
 With the renaissance of [neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0893608014002135) (now also called [deep learning](https://www.nature.com/articles/nature14539)) for AI/ML, the interesting interactions between **learning and evolution** (e.g., [[Hinton&Nowlan, 1987]](https://www.cs.toronto.edu/~hinton/absps/baldwin.pdf), [[Maynard Smith, 1987, Nature]](https://www.cs.toronto.edu/~hinton/absps/maynardsmith.pdf)) are worthwhile to be further investigated.
 
-Finally, we thank very much for Prof. Shi and Prof. Yao which provide our Ph.D. opportunities to study AI/ML and in particular EC. We also acknowledge all authors () and reviewers (Guochen Zhou) from each (relatively independent) chapters.
+Finally, we thank very much for Prof. Shi and Prof. Yao which provide our Ph.D. opportunities to study AI/ML and in particular EC. We also acknowledge all authors (Yuwei Huang) and reviewers (Guochen Zhou) from each (relatively independent) chapters.
 
 ************** *** **************
 Written/Edited by Qiqi Duan (@SUSTech, Shenzhen) & Yijun Yang (@Tencent AI Lab, Shenzhen).
@@ -21,7 +21,7 @@ From 2023 to 2027.
 * [https://probml.github.io/pml-book/](https://probml.github.io/pml-book/): This very popular book about Machine Learning (ML) directly motivated the name of our open book.
 * [https://aima.cs.berkeley.edu/](https://aima.cs.berkeley.edu/): This very popular book about Artificial Intelligence (AI) directly motivated the name of our open book.
 * Eiben, A.E. and Smith, J.E., 2015. [Introduction to evolutionary computing](https://link.springer.com/book/10.1007/978-3-662-44874-8). Springer-Verlag Berlin Heidelberg.
-* Fogel, D.B., 2006. Evolutionary computation: Toward a new philosophy of machine intelligence. John Wiley & Sons.
+* Fogel, D.B., 2006. [Evolutionary computation: Toward a new philosophy of machine intelligence](https://www.wiley.com/en-sg/Evolutionary+Computation%3A+Toward+a+New+Philosophy+of+Machine+Intelligence%2C+3rd+Edition-p-9780471749202). John Wiley & Sons.
 * De Jong, K.A., 2006. Evolutionary computation: A unified approach. MIT Press.
 * Deb, K., 2001. Multi-objective optimization using evolutionary algorithms. John Wiley & Sons.
 * Mitchell, M., 1998. An introduction to genetic algorithms. MIT Press.
