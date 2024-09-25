@@ -37,3 +37,5 @@ equation discovery
 * Kelly, S., Park, D.S., Song, X., McIntire, M., Nashikkar, P., Guha, R., Banzhaf, W., Deb, K., Boddeti, V.N., Tan, J. and Real, E., 2023. Discovering adaptable symbolic algorithms from scratch. .
 * https://www.researchsquare.com/article/rs-3307450/v1
 * La Cava, W., Singh, T.R., Taggart, J., Suri, S. and Moore, J.H., 2018, September. Learning concise representations for regression by evolving networks of trees. In International Conference on Learning Representations.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAModernPerspective)
