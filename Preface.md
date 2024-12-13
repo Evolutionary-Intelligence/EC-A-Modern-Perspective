@@ -11,7 +11,9 @@ With the renaissance of [neural networks](https://www.sciencedirect.com/science/
 Finally, we thank very much for Prof. Shi and Prof. Yao which provide our Ph.D. opportunities to study AI/ML and in particular EC. We also acknowledge all authors (Yuwei Huang) and reviewers (Guochen Zhou) from each (relatively independent) chapters.
 
 ************** *** **************
-Written/Edited by Qiqi Duan (@SUSTech, Shenzhen) & Yijun Yang (@Tencent AI Lab, Shenzhen).
+Written/Edited by Qiqi Duan (@HIT&SUSTech, Shenzhen),
+Qi Zhao @SUSTech (@SUSTech, China),
+and Yijun Yang (@Tencent AI Lab, Shenzhen).
 
 From 2023 to 2027.
 ************** *** **************
