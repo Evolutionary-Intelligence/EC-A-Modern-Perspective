@@ -8,7 +8,7 @@ a simple algorithm of diversifcation and natural selection, an algorithm that wo
 of complexity from single protein molecules to whole ecosystems.
 ](https://www.nobelprize.org/uploads/2018/10/arnold-lecture.pdf)" 
 
-An important yet difficult research question to be answered is the (underlying) assumptions behind
+An important-yet-difficult research question to be answered is the (underlying) assumptions behind
 [Evolutionary Algorithms (EAs)](https://www.nature.com/articles/nature14544). Since the black-box
 (or more generally, complex) nature of most hard (e.g., NP-hard) problems tackled by EAs, it is
 very difficult (if not impossible) to mathematically quantitize these (typically *implicit*)
