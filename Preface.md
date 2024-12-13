@@ -60,10 +60,10 @@ From 2023 to 2027.
   [Schwefel, H.P.: [IEEE Frank Rosenblatt Award]() +
   [IEEE Evolutionary Computation Pioneer Award]()]
 * [Koza, J.R.](https://www.genetic-programming.org/), 1990.
-  [Genetic programming: A paradigm for genetically breeding populations
-  of computer programs to solve problems](http://infolab.stanford.edu/pub/cstr/reports/cs/tr/90/1314/CS-TR-90-1314.pdf).
+  [Genetic programming: A paradigm for genetically breeding populations of
+  computer programs to solve problems](https://tinyurl.com/wxy2n6vy).
   Department of Computer Science, Stanford University.
-  [Koza, J.R.: [2024 IEEE Evolutionary Computation Pioneer
-  Award](https://tinyurl.com/ya8s24d9)]
+  [John Koza: [IEEE Evolutionary Computation Pioneer Award
+  2024](https://tinyurl.com/ya8s24d9)]
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP)
