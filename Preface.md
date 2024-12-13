@@ -63,6 +63,7 @@ From 2023 to 2027.
   [Genetic programming: A paradigm for genetically breeding populations
   of computer programs to solve problems](http://infolab.stanford.edu/pub/cstr/reports/cs/tr/90/1314/CS-TR-90-1314.pdf).
   Department of Computer Science, Stanford University.
-  [Koza, J.R.: [2024 IEEE Evolutionary Computation Pioneer Award](https://cis.ieee.org/awards/past-recipients#EvolutionaryComputationPioneerAward)]
+  [Koza, J.R.: [2024 IEEE Evolutionary Computation Pioneer
+  Award](https://tinyurl.com/ya8s24d9)]
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP)
