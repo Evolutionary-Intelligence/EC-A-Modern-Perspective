@@ -1,7 +1,7 @@
 # Evolutionary Computation (EC): A Modern Perspective [A Free Book]
 
 This is an online book for **Evolutionary Computation (EC)**, currently written/edited by
-*Qiqi Duan* @HIT (Harbin, China), *Qi Zhao* @SUSTech (Shenzhen, China) and *Yijun Yang*
+*Qiqi Duan* @HIT (Harbin, China), *Qi Zhao* @SUSTech (Shenzhen, China), and *Yijun Yang*
 @Tencent AI Lab (Shenzhen, China). We started to write this **entirely open-access** book
 from July, 2023 and is planning to finish it's **First Edition** in December, 2027. Owing
 to its **entirely open** nature, any suggestions, improvements, corrections, and even
