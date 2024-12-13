@@ -30,4 +30,4 @@ From 2023 to 2027.
 * Schwefel, H.P., 1993. Evolution and optimum seeking: The sixth generation. John Wiley & Sons. [Schwefel, H.P.: IEEE Frank Rosenblatt Award + IEEE Evolutionary Computation Pioneer Award]
 * [Koza, J.R.](https://www.genetic-programming.org/), 1990. [Genetic programming: A paradigm for genetically breeding populations of computer programs to solve problems](http://infolab.stanford.edu/pub/cstr/reports/cs/tr/90/1314/CS-TR-90-1314.pdf). Stanford University, Department of Computer Science. [Koza, J.R.: [2024 IEEE Evolutionary Computation Pioneer Award](https://cis.ieee.org/awards/past-recipients#EvolutionaryComputationPioneerAward)]
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAModernPerspective)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP)
