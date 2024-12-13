@@ -26,11 +26,15 @@ and Yijun Yang (@Tencent AI Lab, Shenzhen).
 From 2023 to 2027.
 ************** *** **************
 
-## Some Well-Written Books Which have Directly Inspired this Entirely-Open Book
+## Some Well-Written Books Which Have Inspired this Book
 
-* [https://probml.github.io/pml-book/](https://probml.github.io/pml-book/): This very popular book about Machine Learning (ML) directly motivated the name of our open book.
+* [https://probml.github.io/pml-book/](https://probml.github.io/pml-book/):
+  This **very popular** book (**Machine Learning: A Probabilistic Perspective**)
+  directly motivated the name of this open-access book.
 * [https://aima.cs.berkeley.edu/](https://aima.cs.berkeley.edu/): This very popular book about Artificial Intelligence (AI) directly motivated the name of our open book.
-* Eiben, A.E. and Smith, J.E., 2015. [Introduction to evolutionary computing](https://link.springer.com/book/10.1007/978-3-662-44874-8). Springer-Verlag Berlin Heidelberg.
+* [Eiben, A.E.]() and [Smith, J.E.](), 2015.
+  [Introduction to evolutionary computing](https://link.springer.com/book/10.1007/978-3-662-44874-8).
+  Springer.
 * Fogel, D.B., 2006. [Evolutionary computation: Toward a new philosophy of machine intelligence](https://www.wiley.com/en-sg/Evolutionary+Computation%3A+Toward+a+New+Philosophy+of+Machine+Intelligence%2C+3rd+Edition-p-9780471749202). John Wiley & Sons.
 * De Jong, K.A., 2006. Evolutionary computation: A unified approach. MIT Press.
 * Deb, K., 2001. Multi-objective optimization using evolutionary algorithms. John Wiley & Sons.
