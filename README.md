@@ -15,8 +15,8 @@ criticisms to it are **highly welcomed and encouraged** via e.g.,
 
 * [Preface](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Preface.md)
 * [Terminology](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Terminology.md)
-* [Introduction to Evolutionary Computation (EC)](https://github.com/Evolutionary-Intelligence/EC-A-Modern-Perspective/blob/main/Introduction-to-Evolutionary-Computation-(EC).md)
-  * Biological Evolution via Natural Selection
+* [Introduction to Evolutionary Computation (EC)](https://tinyurl.com/57se694t)
+  * [Biological Evolution via Natural Selection](https://tinyurl.com/4bnjns2j)
     * Population-based Diversity (versus Convergence)
     * Randomness-based Adaptation (and Self-Adaptation)
     * Fitness-based Selection (Survival-of-the-Fittest versus Extinction)
