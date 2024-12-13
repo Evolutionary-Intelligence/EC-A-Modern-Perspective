@@ -16,6 +16,7 @@
 * LLM: Large Language Model
 * NES: Natural Evolution Strategy
 * OEE: Open-Ended Evolution
+* PSO: Particle Swarm Optimizer
 * QD: Quality-Diversity
 * SI: Swarm Intelligence
 
