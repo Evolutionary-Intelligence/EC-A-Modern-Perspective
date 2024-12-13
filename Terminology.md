@@ -2,6 +2,7 @@
 
 * CI: Collective Intelligence
 * CMA-ES: Covariance Matrix Adaptation Evolution Strategy
+* DE: Differential Evolution
 * EA: Evolutionary Algorithm
 * EC: Evolutionary Computation/Computing
 * EDA: Estimation of Distribution Algorithm
