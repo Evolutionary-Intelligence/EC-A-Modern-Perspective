@@ -1,6 +1,12 @@
 # An Introduction to Evolutionary Computation (EC)
 
-## Motivations from Biological Evolution via Natural Selection
+## Biological Evolution via Natural Selection
+
+"[The more you study evolution, the more incredible it seems. How can it be that
+an organ as complicated as our own brain is produced by a mere mechanical
+process?](https://link.springer.com/book/10.1007/978-3-319-15524-1)"    [Kenneth
+O. Stanley, Joel Lehman, Why Greatness Cannot Be Planned: The Myth of the
+Objective, 2015]
 
 [directed evolution](https://iopscience.iop.org/article/10.1088/2632-2153/accacd)
 
