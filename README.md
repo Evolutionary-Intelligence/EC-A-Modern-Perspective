@@ -68,4 +68,3 @@ criticisms to it are **highly welcomed and encouraged** via e.g.,
   * [Swarm Robotics]()
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAModernPerspective)
