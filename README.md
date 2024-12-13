@@ -1,5 +1,7 @@
 # Evolutionary Computation (EC): A Modern Perspective [A Free Book]
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP)
+
 This is an online book for **Evolutionary Computation (EC)**, currently written/edited by
 *Qiqi Duan* @HIT (Harbin, China), *Qi Zhao* @SUSTech (Shenzhen, China), and *Yijun Yang*
 @Tencent AI Lab (Shenzhen, China). We started to write this **entirely open-access** book
@@ -66,5 +68,3 @@ criticisms to it are **highly welcomed and encouraged** via e.g.,
   * [Ant Colony Optimization](ACO)
   * [Particle Swarm Optimization](PSO)
   * [Swarm Robotics]()
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP)
