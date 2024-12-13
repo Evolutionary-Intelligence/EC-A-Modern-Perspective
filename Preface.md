@@ -31,7 +31,9 @@ From 2023 to 2027.
 * [https://probml.github.io/pml-book/](https://probml.github.io/pml-book/):
   This **very popular** book (**Machine Learning: A Probabilistic Perspective**)
   directly motivated the name of this open-access book.
-* [https://aima.cs.berkeley.edu/](https://aima.cs.berkeley.edu/): This very popular book about Artificial Intelligence (AI) directly motivated the name of our open book.
+* [https://aima.cs.berkeley.edu/](https://aima.cs.berkeley.edu/):
+  This **very popular** book (**Artificial Intelligence: A Modern Approach**)
+  directly motivated the name of our open-access book.
 * [Eiben, A.E.]() and [Smith, J.E.](), 2015.
   [Introduction to evolutionary computing](https://link.springer.com/book/10.1007/978-3-662-44874-8).
   Springer.
