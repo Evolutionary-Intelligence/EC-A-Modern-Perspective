@@ -1,5 +1,7 @@
 # Terminology
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP-Terminology)
+
 * CI: Collective Intelligence
 * CMA-ES: Covariance Matrix Adaptation Evolution Strategy
 * DE: Differential Evolution
@@ -17,4 +19,4 @@
 * QD: Quality-Diversity
 * SI: Swarm Intelligence
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAModernPerspective)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP)
