@@ -3,9 +3,10 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP-Preface)
 
 As shown by Frances H. Arnold, Prof. of California Institute of Technology, in her Nobel Lecture,
-"Responsible for adaptation, optimization, and innovation in the living world, evolution executes
+"[Responsible for adaptation, optimization, and innovation in the living world, evolution executes
 a simple algorithm of diversifcation and natural selection, an algorithm that works at all levels
-of complexity from single protein molecules to whole ecosystems." 
+of complexity from single protein molecules to whole ecosystems.
+](https://www.nobelprize.org/uploads/2018/10/arnold-lecture.pdf)" 
 
 An important yet difficult research question to be answered is the (underlying) assumptions behind [Evolutionary Algorithms (EAs)](https://www.nature.com/articles/nature14544). Since the black-box (or more generally, complex) nature of most hard (e.g., NP-hard) problems tackled by EAs, it is very difficult (if not impossible) to mathematically quantitize these (typically *implicit*) assumptions behind different EAs, followed closely by their working principles. In this book we first discuss and analyze the hard-to-clarify relationships between underlying assumptions and black-box applications. Although initially (at the beginning stage) their biological evolution-based inspirations (in a form of metaphors) are an attractive/interesting point to readers, researchers, and practitioners, undoubtedly their **mathematical foundations (theoretical insights), algorithmic frameworks (implementation softwares), and practical usefulness (real-world successes)**, which are of our great interest in this book, play three cornerstone roles in the increasing maturity of the well-known [Evolutionary Computation/Computing (EC)](https://link.springer.com/book/10.1007/978-3-662-44874-8) field.
 
