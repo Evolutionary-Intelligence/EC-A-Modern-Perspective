@@ -41,9 +41,12 @@ From 2023 to 2027.
   [Evolutionary computation: Toward a new philosophy of
   machine intelligence](https://tinyurl.com/yc2b2hau).
   John Wiley & Sons.
-* De Jong, K.A., 2006. Evolutionary computation: A unified approach. MIT Press.
-* Deb, K., 2001. Multi-objective optimization using evolutionary algorithms. John Wiley & Sons.
-* Mitchell, M., 1998. An introduction to genetic algorithms. MIT Press.
+* [De Jong, K.A.](), 2006.
+  Evolutionary computation: A unified approach.
+  MIT Press.
+* [Mitchell, M.](), 1998.
+  An introduction to genetic algorithms.
+  MIT Press.
 * Bäck, T., Fogel, D.B. and Michalewicz, Z., 1997. Handbook of evolutionary computation. Oxford University Press.
 * Back, T., 1996. Evolutionary algorithms in theory and practice: evolution strategies, evolutionary programming, genetic algorithms. Oxford University Press.
 * Schwefel, H.P., 1993. Evolution and optimum seeking: The sixth generation. John Wiley & Sons. [Schwefel, H.P.: IEEE Frank Rosenblatt Award + IEEE Evolutionary Computation Pioneer Award]
