@@ -13,7 +13,7 @@ and [Charles Robert Darwin](https://www.nature.com/scitable/spotlight/charles-da
 These fundamental principles, however, *can be* and *have been* employed on complex computational
 (e.g., [evolutionary algorithms](https://mitpress.mit.edu/9780262529600/evolutionary-computation/)),
 design (e.g., [artificial life](https://direct.mit.edu/artl)), and engineering (e.g., [directed
-evolution]()) problems (often though not always with promising performance).
+evolution]()) problems (often though not always with promising or satisfactory performance).
 
 An important-yet-difficult research question to be answered is the (underlying) assumptions behind
 [Evolutionary Algorithms (EAs)](https://www.nature.com/articles/nature14544). Since the black-box
