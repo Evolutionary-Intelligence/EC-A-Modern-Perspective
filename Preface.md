@@ -37,7 +37,10 @@ From 2023 to 2027.
 * [Eiben, A.E.]() and [Smith, J.E.](), 2015.
   [Introduction to evolutionary computing](https://link.springer.com/book/10.1007/978-3-662-44874-8).
   Springer.
-* Fogel, D.B., 2006. [Evolutionary computation: Toward a new philosophy of machine intelligence](https://www.wiley.com/en-sg/Evolutionary+Computation%3A+Toward+a+New+Philosophy+of+Machine+Intelligence%2C+3rd+Edition-p-9780471749202). John Wiley & Sons.
+* [Fogel, D.B.](), 2006.
+  [Evolutionary computation: Toward a new philosophy of
+  machine intelligence](https://tinyurl.com/yc2b2hau).
+  John Wiley & Sons.
 * De Jong, K.A., 2006. Evolutionary computation: A unified approach. MIT Press.
 * Deb, K., 2001. Multi-objective optimization using evolutionary algorithms. John Wiley & Sons.
 * Mitchell, M., 1998. An introduction to genetic algorithms. MIT Press.
