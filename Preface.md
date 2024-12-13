@@ -9,7 +9,7 @@ of complexity from single protein molecules to whole ecosystems.
 ](https://www.nobelprize.org/uploads/2018/10/arnold-lecture.pdf)" Some of fundamental principles
 of biological evolution originated from e.g., [Alfred Russel
 Wallace](https://www.nature.com/collections/bdadcfgjjh)
-and [Charles Robert Darwin](https://www.nature.com/scitable/spotlight/charles-darwin-7567158/)
+and [Charles Robert Darwin](https://www.nature.com/scitable/spotlight/charles-darwin-7567158/).
 
 An important-yet-difficult research question to be answered is the (underlying) assumptions behind
 [Evolutionary Algorithms (EAs)](https://www.nature.com/articles/nature14544). Since the black-box
