@@ -15,6 +15,7 @@ criticisms to it are **highly welcomed and encouraged** via e.g.,
 
 * [Preface](https://tinyurl.com/sdrxcaj9)
 * [Terminology](https://tinyurl.com/yxjsxbt)
+* [Online Resources]()
 * [Introduction to Evolutionary Computation (EC)](https://tinyurl.com/57se694t)
   * [Biological Evolution via Natural Selection](https://tinyurl.com/4bnjns2j)
     * Population-based Diversity (versus Convergence)
