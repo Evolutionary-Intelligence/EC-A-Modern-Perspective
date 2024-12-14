@@ -69,7 +69,8 @@ From 2023 to 2027.
   [[[GECCO-2017]](https://dl.acm.org/doi/abs/10.1145/3067695.3067715),
   [[GECCO-2015]](https://dl.acm.org/doi/abs/10.1145/2739482.2756576),
   [[GECCO-2009]](https://dl.acm.org/doi/abs/10.1145/1570256.1570404),
-  [[GPME-2007]](https://link.springer.com/article/10.1007/s10710-007-9035-9)]
+  [[GPME-2007]](https://link.springer.com/article/10.1007/s10710-007-9035-9),
+  [[ALJ-2007]](https://direct.mit.edu/artl/article-abstract/13/4/423/2573/Evolutionary-Computation-A-Unified-Approach)]
   (This classical book for EC directly motivated the name of
   this open-access book.)
 * [Mitchell, M.](), 1998.
