@@ -10,6 +10,12 @@ Objective, 2015]
 
 [directed evolution](https://iopscience.iop.org/article/10.1088/2632-2153/accacd)
 
+As pointed out by De Jong in his classical book, "this problem-solving viewpoint is precisely the
+issue which separates the field of evolutionary computation from its sister disciplines of
+evolutionary biology and artificial life. natural evolutionary systems are a continuing source of inspiration
+for new ideas for better evolutionary algorithms, and the increasingly sophisticated behavior
+of artificial-life systems suggests new opportunities for evolutionary problem solvers."
+
 ## Some Useful and Interesting Applications
 
 ## Open-Source Software
