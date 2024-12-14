@@ -4,7 +4,7 @@
 
 As shown by Frances H. Arnold, Prof. of California Institute of Technology, in her Nobel Lecture,
 "[Responsible for adaptation, optimization, and innovation in the living world, evolution executes
-a simple algorithm of diversifcation and natural selection, an algorithm that works at all levels
+a simple algorithm of diversification and natural selection, an algorithm that works at all levels
 of complexity from single protein molecules to whole ecosystems.
 ](https://www.nobelprize.org/uploads/2018/10/arnold-lecture.pdf)" Some of fundamental principles
 (e.g., natural selection) of biological evolution originated from e.g., [Alfred Russel
