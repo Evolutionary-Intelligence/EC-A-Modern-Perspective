@@ -1,5 +1,6 @@
 # Parallel and Distributed Evolutionary Computation
 
+generational (batch) model.
 steady-state (incremental) model.
 
 ## Reference
