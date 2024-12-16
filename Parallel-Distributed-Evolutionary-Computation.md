@@ -1,5 +1,7 @@
 # Parallel and Distributed Evolutionary Computation
 
+steady-state (incremental) model.
+
 ## Reference
 
 * [http://www.semiconductors.org](http://www.semiconductors.org)
