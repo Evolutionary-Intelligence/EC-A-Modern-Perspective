@@ -15,6 +15,7 @@
 * GP: Genetic Programming
 * LLM: Large Language Model
 * NES: Natural Evolution Strategy
+* Natural-Inspired Heuristics
 * OEE: Open-Ended Evolution
 * PSO: Particle Swarm Optimizer
 * QD: Quality-Diversity
