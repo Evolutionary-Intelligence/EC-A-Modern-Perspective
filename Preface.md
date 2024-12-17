@@ -115,7 +115,8 @@ From 2023 to 2027.
   Evolution and optimum seeking: The sixth generation.
   John Wiley & Sons.
   [Schwefel, H.P.: [IEEE Frank Rosenblatt Award]() +
-  [IEEE Evolutionary Computation Pioneer Award]()]
+  [IEEE Evolutionary Computation Pioneer Award
+  2002](https://tinyurl.com/ya8s24d9)]
 * [Koza, J.R.](https://www.genetic-programming.org/), 1990.
   [Genetic programming: A paradigm for genetically breeding populations of
   computer programs to solve problems](https://tinyurl.com/wxy2n6vy).
