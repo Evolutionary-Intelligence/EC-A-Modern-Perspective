@@ -31,12 +31,12 @@ of judging whether or not it is a [good](https://tinyurl.com/msxvdkfb) research 
 EC, which we think is very crucial especially for novices in the [explosion of metaphor-centred
 methods](https://publications.aston.ac.uk/id/eprint/44574/1/ALIFE_LLCS.pdf) and the rise of
 [Large Language Models (LLMs)](https://chat.openai.com/). Our main focus on EC is and should be
-**general principles** of designing and analyzing EAs (that is, *when, why, and how to use EC*)
-and their **real-world applications**, rather than only their biological metaphors (though some
-metaphors played an interesting/important role in their early formation stage). Although we
-still believe there may be more or less [opportunities](https://tinyurl.com/mpdhne4f) to
-extend it (such as [Quality-Diversity](https://tinyurl.com/3c5bzumz)) significantly, most of
-its *fundamentally* algorithmic structures have been fixed/unchanged over the past 20 years,
+**general principles** of designing and analyzing EAs (that is, *whether, when, why, and how to
+use EC*) and their **real-world applications**, rather than only their biological metaphors
+(though some metaphors played an interesting/important role in their early formation stage).
+Although we believe there may be more or less [opportunities](https://tinyurl.com/mpdhne4f)
+to extend it (such as [Quality-Diversity](https://tinyurl.com/3c5bzumz)) significantly, most of
+its **fundamentally** algorithmic structures have been fixed/unchanged over the past 20 years,
 to some extents. For effectiveness and efficiency, ["leveraging (or learning) the statistical
 and computational structure of problem"](https://www.nowpublishers.com/article/Details/MAL-070)
 no matter *explicitly* or *implicitly* is now one of main research goals when desiging different
