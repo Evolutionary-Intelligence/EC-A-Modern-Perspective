@@ -15,15 +15,15 @@ These fundamental principles, however, *can be* and *have been* employed on comp
 design (e.g., [artificial life](https://direct.mit.edu/artl)), and engineering (e.g., [directed
 evolution]()) problems (often though not always with promising or satisfactory performance). In
 this open book, we focus on **computational evolution** for modeling, optimization, learning, and
-design.
+design, from both the *historical* and *modern* perspective.
 
-An important-yet-difficult research question to be answered is the (underlying) assumptions behind
-[Evolutionary Algorithms (EAs)](https://www.nature.com/articles/nature14544). Since the black-box
-(or more generally, complex) nature of most hard (e.g., NP-hard) problems tackled approximately by
-EAs, it is very difficult (if not impossible) to mathematically quantitize these (typically
-*implicit*) assumptions behind different EAs, and also their working principles (e.g., from first
-principles). In this open book, we will first discuss the hard-to-clarify relationships between
-underlying assumptions and black-box applications.
+First, an important-yet-difficult research question to be answered is the (underlying) assumptions
+behind [Evolutionary Algorithms (EAs)](https://www.nature.com/articles/nature14544). Since the
+black-box (or more generally, complex) nature of most hard (e.g., NP-hard) problems tackled
+approximately by EAs, it is very difficult (if not impossible) to mathematically quantitize these
+(typically *implicit*) assumptions behind different EAs, and also their working principles (e.g.,
+from first principles). In this open book, we will first discuss the hard-to-clarify relationships
+between underlying assumptions and black-box applications.
 
 Although initially (at the beginning stage) their biological evolution-based inspirations (in a
 form of [metaphors]()) are an attractive/interesting point to readers, researchers, and
