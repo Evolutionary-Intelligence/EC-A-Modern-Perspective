@@ -17,14 +17,6 @@ evolution]()) problems (often though not always with promising or satisfactory p
 this open book, we focus on **computational evolution** for modeling, optimization, learning, and
 design, from both the *historical* and *modern* perspective.
 
-First, an important-yet-difficult research question to be answered is the (underlying) assumptions
-behind [Evolutionary Algorithms (EAs)](https://www.nature.com/articles/nature14544). Since the
-black-box (or more generally, complex) nature of most hard (e.g., NP-hard) problems tackled
-approximately by EAs, it is very difficult (if not impossible) to mathematically quantitize these
-(typically *implicit*) assumptions behind different EAs, and also their working principles (e.g.,
-from first principles). In this open book, we will first discuss the hard-to-clarify relationships
-between underlying assumptions and black-box applications.
-
 Although initially (at the beginning stage) their biological evolution-based inspirations (in a
 form of [metaphors]()) are an attractive/interesting point to readers, researchers, and
 practitioners, undoubtedly their **mathematical foundations (theoretical insights), algorithmic
@@ -32,7 +24,22 @@ frameworks (implementation softwares), and practical usefulness (real-world succ
 of our great interest in this open book, play three cornerstone roles in the increasing maturity of
 the [Evolutionary Computing (EC)](https://link.springer.com/book/10.1007/978-3-662-44874-8) field.
 
-Our modest goal for this open book is to provide basic information regarding to EC and some (unfortunately *not all*) advanced topics, in order to help the novices foster the ability of judging whether or not it is a [good](https://link.springer.com/article/10.1007/s11721-021-00202-9) research practice for EC, which we think is very crucial especially for novices in the [explosion of of metaphor-centred methods](https://publications.aston.ac.uk/id/eprint/44574/1/ALIFE_LLCS.pdf) and the rise of [Large Language Models (LLMs)](https://chat.openai.com/). Our main focus on EC is (and should be) **general principles** of designing and analyzing EAs (that is, *when, why, and how to use EC*) and their **real-world applications**, rather than only their [biological metaphors](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#metaheuristics) (though some metaphors played an interesting/important role in their early formation stage). Although we still believe there may be little [opportunities](https://www.nature.com/articles/s42256-020-00278-8) to significantly extend the basic EC framework (such as [Quality-Diversity](https://www.nature.com/articles/nature14422)), most of EC's *fundamental* algorithmic structures have been fixed/unchanged over the past 20 years, to some extents. For effectiveness and efficiency, ["leveraging (or learning) the statistical and computational structure of problem"](https://www.nowpublishers.com/article/Details/MAL-070) no matter *explicitly* or *implicitly* is now one of main research goals when desiging different EA versions/variants/improvements for different kinds of hard problems (such as [EDA](), [CMA-ES](), [NES](), [Surrogate Models](), just to name a few).
+Our modest goal for this book is to provide basic information regarding to EC and some
+(unfortunately *not all*) advanced topics, in order to help the novices foster the ability of
+judging whether or not it is a [good](https://link.springer.com/article/10.1007/s11721-021-00202-9)
+research practice for EC, which we think is very crucial especially for novices in the [explosion of
+of metaphor-centred methods](https://publications.aston.ac.uk/id/eprint/44574/1/ALIFE_LLCS.pdf) and
+the rise of [Large Language Models (LLMs)](https://chat.openai.com/). Our main focus on EC is (and
+should be) **general principles** of designing and analyzing EAs (that is, *when, why, and how to use
+EC*) and their **real-world applications**, rather than only their [biological metaphors](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#metaheuristics) (though some metaphors played an interesting/important role in their early formation stage). Although we still believe there may be little [opportunities](https://www.nature.com/articles/s42256-020-00278-8) to significantly extend the basic EC framework (such as [Quality-Diversity](https://www.nature.com/articles/nature14422)), most of EC's *fundamental* algorithmic structures have been fixed/unchanged over the past 20 years, to some extents. For effectiveness and efficiency, ["leveraging (or learning) the statistical and computational structure of problem"](https://www.nowpublishers.com/article/Details/MAL-070) no matter *explicitly* or *implicitly* is now one of main research goals when desiging different EA versions/variants/improvements for different kinds of hard problems (such as [EDA](), [CMA-ES](), [NES](), [Surrogate Models](), just to name a few).
+
+First, an important-yet-difficult research question to be answered is the (underlying) assumptions
+behind [Evolutionary Algorithms (EAs)](https://www.nature.com/articles/nature14544). Since the
+black-box (or more generally, complex) nature of most hard (e.g., NP-hard) problems tackled
+approximately by EAs, it is very difficult (if not impossible) to mathematically quantitize these
+(typically *implicit*) assumptions behind different EAs, and also their working principles (e.g.,
+from first principles). In this open book, we will first discuss the hard-to-clarify relationships
+between underlying assumptions and black-box applications.
 
 Up to now, there have been several *wonderful* books devoted to EC, such as [[Eiben&Smith, 2015]](https://link.springer.com/book/10.1007/978-3-662-44874-8), [[De Jong, 2006]](https://ieeexplore.ieee.org/book/6267245), [[Fogel, 2006]](https://ieeexplore.ieee.org/book/5237910)/[[Fogel, 1998]](https://ieeexplore.ieee.org/book/5263042), [[Mitchell, 1998]](https://direct.mit.edu/books/book/4675/An-Introduction-to-Genetic-Algorithms), [[Back, 1996]](https://academic.oup.com/book/40791), [[Koza, 1990]](http://infolab.stanford.edu/pub/cstr/reports/cs/tr/90/1314/CS-TR-90-1314.pdf), to name a few. Furthermore, there have been a number of *well-written* review/survey/perspective papers for EC or one particular class of EAs: e.g., [[Miikkulainen&Forrest, 2021, Nature MI]](https://www.nature.com/articles/s42256-020-00278-8), [[Lehman et al., 2020, ALJ]](https://direct.mit.edu/artl/article/26/2/274/93255/The-Surprising-Creativity-of-Digital-Evolution-A), [[Eiben&Smith, 2015, Nature]](https://www.nature.com/articles/nature14544), [[Schoenauer, 2015]](https://link.springer.com/chapter/10.1007/978-94-017-9014-7_28), [[De Jong&Fogel&Schwefel, 1997]](https://www.taylorfrancis.com/chapters/edit/10.1201/9781482268713-13/history-evolutionary-computation), [[Koza, 1994]](), [[Forrest, 1993, Science]](https://www.science.org/doi/10.1126/science.8346439), just to name a few. Undoubtedly, all of these above works provide multiple *good* starting points to learn EAs or one particular algorithm class for practice and to enter the EC research community.
 
