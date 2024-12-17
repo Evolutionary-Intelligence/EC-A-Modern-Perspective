@@ -36,10 +36,10 @@ and their **real-world applications**, rather than only their biological metapho
 metaphors played an interesting/important role in their early formation stage). Although we
 still believe there may be more or less [opportunities](https://tinyurl.com/mpdhne4f) to
 extend it (such as [Quality-Diversity](https://tinyurl.com/3c5bzumz)) significantly, most of
-its *fundamental* algorithmic structures have been fixed/unchanged over the past 20 years, to
-some extents. For effectiveness and efficiency, ["leveraging (or learning) the statistical and
-computational structure of problem"](https://www.nowpublishers.com/article/Details/MAL-070) no
-matter *explicitly* or *implicitly* is now one of main research goals when desiging different
+its *fundamentally* algorithmic structures have been fixed/unchanged over the past 20 years,
+to some extents. For effectiveness and efficiency, ["leveraging (or learning) the statistical
+and computational structure of problem"](https://www.nowpublishers.com/article/Details/MAL-070)
+no matter *explicitly* or *implicitly* is now one of main research goals when desiging different
 EA versions, variants, and improvements for different kinds of **hard** problems (such as
 [EDA](),
 [CMA-ES](),
