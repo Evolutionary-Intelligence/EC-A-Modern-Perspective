@@ -2,7 +2,9 @@
 
 Journals:
 
-*
+* ACM Transactions on Evolutionary Learning and Optimization (TELO)
+* Evolutionary Computation (ECJ)
+* IEEE Transactions on Evolutionary Computation (TEVC)
 
 Conferences:
 
