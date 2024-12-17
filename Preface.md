@@ -18,11 +18,12 @@ biological) evolution** for modeling, optimization, learning, and design, from b
 *historical* and *modern* perspective.
 
 Although initially (especially at the beginning stage) their so-called biological-evolution-based
-inspirations (in the form of [metaphors]()) are an attractive/interesting point to readers,
-researchers, and practitioners, undoubtedly their **mathematical foundations (theoretical
-insights), algorithmic frameworks (implementation softwares), and practical usefulness (real-world
-successes)**, which are of our great interest in this open book, play three cornerstone roles in
-the increasing maturity of the [Evolutionary Computing (EC)](https://tinyurl.com/48r89bv2) field.
+inspirations (in the form of [metaphors](https://tinyurl.com/mtmwez9h)) are an attractive /
+interesting point to readers, researchers, and practitioners, undoubtedly their **mathematical
+foundations (theoretical insights), algorithmic frameworks (implementation softwares), and
+practical usefulness (real-world successes)**, which are of our great interest in this open book,
+play three cornerstone roles in the increasing maturity of the [Evolutionary Computing
+(EC)](https://tinyurl.com/48r89bv2) field.
 
 Our modest goal for this book is to provide basic information regarding to EC and some
 (unfortunately *not all*) advanced topics, in order to help the novices foster the ability of
