@@ -43,12 +43,13 @@ and computational structure of problem"](https://www.nowpublishers.com/article/D
 no matter *explicitly* or *implicitly* is now one of main research goals when desiging different
 EA versions, variants, and improvements for different kinds of **hard** problems (such as
 [EDA](https://jmlr.org/papers/volume24/22-0628/22-0628.pdf),
+[Surrogate Models](),
 [CMA-ES](),
 [NES](),
-[Surrogate Models](),
 [Population-Based Training (PBT)](),
 [OpenAI-ES](),
 [Persistent ES](),
+[FunSearch](),
 just to name a few).
 
 First, an important-yet-difficult research question to be answered is the (underlying) assumptions
