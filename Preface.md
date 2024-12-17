@@ -41,15 +41,15 @@ its **fundamentally** algorithmic structures have been fixed/unchanged over the 
 to some extents. For effectiveness and efficiency, ["leveraging (or learning) the statistical
 and computational structure of problem"](https://www.nowpublishers.com/article/Details/MAL-070)
 no matter *explicitly* or *implicitly* is now one of main research goals when desiging different
-EA versions, variants, and improvements for different kinds of **hard** problems (such as
+EA versions, variants, extensions, and improvements for different kinds of **hard** problems
+(such as [FunSearch](https://www.nature.com/articles/s41586-023-06924-6),
+[Persistent ES](),
 [EDA](https://jmlr.org/papers/volume24/22-0628/22-0628.pdf),
 [Surrogate Models](),
 [CMA-ES](),
 [NES](),
 [Population-Based Training (PBT)](),
 [OpenAI-ES](),
-[Persistent ES](),
-[FunSearch](),
 just to name a few).
 
 First, an important-yet-difficult research question to be answered is the (underlying) assumptions
