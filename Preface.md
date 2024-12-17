@@ -26,9 +26,9 @@ play three cornerstone roles in the increasing maturity of the [Evolutionary Com
 (EC)](https://tinyurl.com/48r89bv2) field.
 
 Our modest goal for this open book is to provide basic information regarding to EC and some
-(unfortunately *not all*) advanced EC topics, in order to help the novices foster the ability
-of judging whether or not it is a [good](https://tinyurl.com/msxvdkfb) research practice for
-EC, which we think is very crucial especially for novices in the [explosion of metaphor-centred
+(*not all*) advanced EC topics, in order to help *perplexed* novices foster the desirable ability
+of judging whether or not it is a [good](https://tinyurl.com/msxvdkfb) research practice on EC,
+which we think is very crucial for *perplexed* novices in the [explosion of metaphor-centred
 methods](https://publications.aston.ac.uk/id/eprint/44574/1/ALIFE_LLCS.pdf) and the rise of
 [Large Language Models (LLMs)](https://chat.openai.com/). Our main focus on EC is and should be
 **general principles** of designing and analyzing EAs (that is, *whether, when, why, and how to
@@ -41,7 +41,7 @@ to some extents. For effectiveness and efficiency, ["leveraging (or learning) th
 and computational structure of problem"](https://www.nowpublishers.com/article/Details/MAL-070)
 no matter *explicitly* or *implicitly* is now one of main research goals when desiging different
 EA versions, variants, and improvements for different kinds of **hard** problems (such as
-[EDA](),
+[EDA](https://jmlr.org/papers/volume24/22-0628/22-0628.pdf),
 [CMA-ES](),
 [NES](),
 [Surrogate Models](),
