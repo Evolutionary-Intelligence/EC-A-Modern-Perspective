@@ -2,20 +2,19 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP-Preface)
 
-As shown by Frances H. Arnold, Prof. of California Institute of Technology, in her Nobel Lecture,
-"[Responsible for adaptation, optimization, and innovation in the living world, evolution executes
-a simple algorithm of diversification and natural selection, an algorithm that works at all levels
-of complexity from single protein molecules to whole ecosystems.
-](https://www.nobelprize.org/uploads/2018/10/arnold-lecture.pdf)" Some of fundamental principles
-(e.g., natural selection) of biological evolution originated from e.g., [Alfred Russel
-Wallace](https://www.nature.com/collections/bdadcfgjjh)
-and [Charles Robert Darwin](https://www.nature.com/scitable/spotlight/charles-darwin-7567158/).
+As shown by [Frances H. Arnold](http://fhalab.caltech.edu/), Prof. of California Institute of
+Technology, in her Nobel Lecture, "[Responsible for adaptation, optimization, and innovation in
+the living world, evolution executes a simple algorithm of diversification and natural selection,
+an algorithm that works at all levels of complexity from single protein molecules to whole
+ecosystems.](https://www.nobelprize.org/uploads/2018/10/arnold-lecture.pdf)" Some of fundamental
+principles (e.g., natural selection) of biological evolution originated from e.g., [Alfred Russel
+Wallace](https://tinyurl.com/yvwmuv9b) and [Charles Robert Darwin](https://tinyurl.com/5ywts76r).
 These fundamental principles, however, *can be* and *have been* employed on complex computational
-(e.g., [evolutionary algorithms](https://mitpress.mit.edu/9780262529600/evolutionary-computation/)),
-design (e.g., [artificial life](https://direct.mit.edu/artl)), and engineering (e.g., [directed
-evolution]()) problems (often though not always with promising or satisfactory performance). In
-this open book, we focus on **computational evolution** for modeling, optimization, learning, and
-design, from both the *historical* and *modern* perspective.
+(e.g., [evolutionary algorithms](https://tinyurl.com/y57b2r96)), design (e.g., [artificial
+life](https://direct.mit.edu/artl)), and engineering (e.g., [directed
+evolution](http://fhalab.caltech.edu/)) problems (*often* though *not always* with promising or
+satisfactory performance). In this entirely open book, we focus on **computational evolution** for
+modeling, optimization, learning, and design, from both the *historical* and *modern* perspective.
 
 Although initially (especially at the beginning stage) their so-called biological-evolution-based
 inspirations (in the form of [metaphors]()) are an attractive/interesting point to readers,
