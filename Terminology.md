@@ -18,6 +18,7 @@
 * OEE: Open-Ended Evolution
 * PSO: Particle Swarm Optimizer
 * QD: Quality-Diversity
+* RSH: Randomized Search Heuristics
 * SI: Swarm Intelligence
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP)
