@@ -25,14 +25,27 @@ practical usefulness (real-world successes)**, which are of our great interest i
 play three cornerstone roles in the increasing maturity of the [Evolutionary Computing
 (EC)](https://tinyurl.com/48r89bv2) field.
 
-Our modest goal for this book is to provide basic information regarding to EC and some
+Our modest goal for this open book is to provide basic information regarding to EC and some
 (unfortunately *not all*) advanced topics, in order to help the novices foster the ability of
-judging whether or not it is a [good](https://link.springer.com/article/10.1007/s11721-021-00202-9)
-research practice for EC, which we think is very crucial especially for novices in the [explosion of
-of metaphor-centred methods](https://publications.aston.ac.uk/id/eprint/44574/1/ALIFE_LLCS.pdf) and
-the rise of [Large Language Models (LLMs)](https://chat.openai.com/). Our main focus on EC is (and
-should be) **general principles** of designing and analyzing EAs (that is, *when, why, and how to use
-EC*) and their **real-world applications**, rather than only their [biological metaphors](https://github.com/Evolutionary-Intelligence/DistributedEvolutionaryComputation/blob/main/Summary/EvolutionaryComputation.md#metaheuristics) (though some metaphors played an interesting/important role in their early formation stage). Although we still believe there may be little [opportunities](https://www.nature.com/articles/s42256-020-00278-8) to significantly extend the basic EC framework (such as [Quality-Diversity](https://www.nature.com/articles/nature14422)), most of EC's *fundamental* algorithmic structures have been fixed/unchanged over the past 20 years, to some extents. For effectiveness and efficiency, ["leveraging (or learning) the statistical and computational structure of problem"](https://www.nowpublishers.com/article/Details/MAL-070) no matter *explicitly* or *implicitly* is now one of main research goals when desiging different EA versions/variants/improvements for different kinds of hard problems (such as [EDA](), [CMA-ES](), [NES](), [Surrogate Models](), just to name a few).
+judging whether or not it is a [good](https://tinyurl.com/msxvdkfb) research practice for EC,
+which we think is very crucial especially for novices in the [explosion of metaphor-centred
+methods](https://publications.aston.ac.uk/id/eprint/44574/1/ALIFE_LLCS.pdf) and the rise of
+[Large Language Models (LLMs)](https://chat.openai.com/). Our main focus on EC is and should be
+**general principles** of designing and analyzing EAs (that is, *when, why, and how to use EC*)
+and their **real-world applications**, rather than only their biological metaphors (though some
+metaphors played an interesting/important role in their early formation stage). Although we
+still believe there may be more or less [opportunities](https://tinyurl.com/mpdhne4f) to
+extend it (such as [Quality-Diversity](https://tinyurl.com/3c5bzumz)) significantly, most of
+its *fundamental* algorithmic structures have been fixed/unchanged over the past 20 years, to
+some extents. For effectiveness and efficiency, ["leveraging (or learning) the statistical and
+computational structure of problem"](https://www.nowpublishers.com/article/Details/MAL-070) no
+matter *explicitly* or *implicitly* is now one of main research goals when desiging different
+EA versions, variants, and improvements for different kinds of **hard** problems (such as
+[EDA](),
+[CMA-ES](),
+[NES](),
+[Surrogate Models](),
+just to name a few).
 
 First, an important-yet-difficult research question to be answered is the (underlying) assumptions
 behind [Evolutionary Algorithms (EAs)](https://www.nature.com/articles/nature14544). Since the
