@@ -46,6 +46,9 @@ EA versions, variants, and improvements for different kinds of **hard** problems
 [CMA-ES](),
 [NES](),
 [Surrogate Models](),
+[Population-Based Training (PBT)](),
+[OpenAI-ES](),
+[Persistent ES](),
 just to name a few).
 
 First, an important-yet-difficult research question to be answered is the (underlying) assumptions
