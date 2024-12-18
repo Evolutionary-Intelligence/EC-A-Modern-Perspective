@@ -102,6 +102,8 @@ From 2023 to 2027.
   [[ALJ-2007]](https://direct.mit.edu/artl/article-abstract/13/4/423/2573/Evolutionary-Computation-A-Unified-Approach)]
   (This classical book for EC directly motivated the name of
   this open-access book.)
+  [Kenneth De Jong: [IEEE Evolutionary Computation Pioneer Award
+  2005](https://tinyurl.com/ya8s24d9)]
 * [Mitchell, M.](), 1998.
   [An introduction to genetic algorithms]().
   MIT Press.
