@@ -92,6 +92,8 @@ From 2023 to 2027.
   [Evolutionary computation: Toward a new philosophy of
   machine intelligence](https://tinyurl.com/yc2b2hau).
   John Wiley & Sons.
+  [David B. Fogel: [IEEE Evolutionary Computation Pioneer Award
+  2008](https://tinyurl.com/ya8s24d9)]
 * [De Jong, K.A.](), 2006.
   [Evolutionary computation: A unified approach]().
   MIT Press.
