@@ -103,10 +103,10 @@ From 2023 to 2027.
   (This classical book for EC directly motivated the name of
   this open-access book.)
 * [Mitchell, M.](), 1998.
-  An introduction to genetic algorithms.
+  [An introduction to genetic algorithms]().
   MIT Press.
 * [Bäck, T.](), [Fogel, D.B.]() and Michalewicz, Z., 1997.
-  Handbook of evolutionary computation.
+  [Handbook of evolutionary computation]().
   Oxford University Press.
   [Thomas Bäck: [IEEE Evolutionary Computation Pioneer Award
   2015](https://tinyurl.com/ya8s24d9); David B. Fogel:
@@ -119,7 +119,7 @@ From 2023 to 2027.
   [Thomas Bäck: [IEEE Evolutionary Computation Pioneer Award
   2015](https://tinyurl.com/ya8s24d9)]
 * [Schwefel, H.P.](), 1993.
-  Evolution and optimum seeking: The sixth generation.
+  [Evolution and optimum seeking: The sixth generation]().
   John Wiley & Sons.
   [Hans-Paul Schwefel: [IEEE Frank Rosenblatt Award 2011]() +
   [IEEE Evolutionary Computation Pioneer Award
