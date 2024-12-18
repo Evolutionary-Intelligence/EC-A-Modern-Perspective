@@ -2,7 +2,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP-Terminology)
 
-* CC: Cooperative Coevolution
+* COC: Cooperative Coevolution
+* CEC: Competitive Coevolution
 * CEM: Cross Entropy Method
 * CI: Collective Intelligence
 * CMA-ES: Covariance Matrix Adaptation Evolution Strategy
