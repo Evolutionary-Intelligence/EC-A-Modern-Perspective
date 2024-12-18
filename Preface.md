@@ -109,7 +109,9 @@ From 2023 to 2027.
   Handbook of evolutionary computation.
   Oxford University Press.
   [Thomas Bäck: [IEEE Evolutionary Computation Pioneer Award
-  2015](https://tinyurl.com/ya8s24d9)]
+  2015](https://tinyurl.com/ya8s24d9); David B. Fogel:
+  [IEEE Evolutionary Computation Pioneer Award
+  2008](https://tinyurl.com/ya8s24d9)]
 * [Back, T.](), 1996.
   [Evolutionary algorithms in theory and practice: evolution strategies,
   evolutionary programming, genetic algorithms]().
