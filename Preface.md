@@ -77,7 +77,7 @@ Yijun Yang (@Tencent AI Lab, Shenzhen, China).
 From 2023 to 2027.
 ************** *** **************
 
-## Some Well-Written Books Which Have Inspired this Book
+## Some Well-Written Books Which Have Inspired this Open Book
 
 * [https://probml.github.io/pml-book/](https://probml.github.io/pml-book/):
   This **very popular** book (**Machine Learning: A Probabilistic Perspective**)
