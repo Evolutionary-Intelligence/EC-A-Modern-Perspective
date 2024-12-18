@@ -1,5 +1,7 @@
 # Learning and Evolution
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP-LAE)
+
 ## Multi-Scale/Level Evolution and Learning
 
 ["The processes of life involve change at many scales of space and time. Choosing a spatiotemporal scale emphasizes the change at that scale, rendering smaller scales essentially as noise, large scales essentially as constant. One trade-off between learning (at the individual level) and evolution (at the level of population or species) is readily apparent: Learning is facilitated by long individual lifetimes, whereas evolution benefits from rapidly passing generations."](https://www.amazon.com/Artificial-INSTITUTE-SCIENCES-COMPLEXITY-PROCEEDINGS/dp/0201525712) [Ackley&Littman, 1991].
@@ -15,3 +17,5 @@ As pointed out by [Hinton](http://www.cs.toronto.edu/~hinton/) ([ACM Turing Awar
 * Baldwin, J.M., 1896.
   [A new factor in evolution](https://www.journals.uchicago.edu/doi/pdf/10.1086/276428).
   American Naturalist, 30(355), pp.536-553.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP)
