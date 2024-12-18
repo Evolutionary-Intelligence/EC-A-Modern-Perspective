@@ -121,7 +121,7 @@ From 2023 to 2027.
 * [Koza, J.R.](https://www.genetic-programming.org/), 1990.
   [Genetic programming: A paradigm for genetically breeding populations of
   computer programs to solve problems](https://tinyurl.com/wxy2n6vy).
-  Department of Computer Science, Stanford University.
+  Technical Report, Department of Computer Science, Stanford University.
   [John Koza: [IEEE Evolutionary Computation Pioneer Award
   2024](https://tinyurl.com/ya8s24d9)]
 
