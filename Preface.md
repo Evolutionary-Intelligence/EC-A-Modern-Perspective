@@ -93,7 +93,7 @@ From 2023 to 2027.
   machine intelligence](https://tinyurl.com/yc2b2hau).
   John Wiley & Sons.
 * [De Jong, K.A.](), 2006.
-  Evolutionary computation: A unified approach.
+  [Evolutionary computation: A unified approach]().
   MIT Press.
   [[[GECCO-2017]](https://dl.acm.org/doi/abs/10.1145/3067695.3067715),
   [[GECCO-2015]](https://dl.acm.org/doi/abs/10.1145/2739482.2756576),
