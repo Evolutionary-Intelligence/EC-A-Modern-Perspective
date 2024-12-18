@@ -81,7 +81,7 @@ From 2023 to 2027.
 
 * [https://probml.github.io/pml-book/](https://probml.github.io/pml-book/):
   This **very popular** book (**Machine Learning: A Probabilistic Perspective**)
-  directly motivated the name of this open-access book.
+  directly motivated the name of our open-access book.
 * [https://aima.cs.berkeley.edu/](https://aima.cs.berkeley.edu/):
   This **very popular** book (**Artificial Intelligence: A Modern Approach**)
   directly motivated the name of our open-access book.
