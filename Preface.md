@@ -53,13 +53,13 @@ EA versions, variants, extensions, and improvements for different kinds of **har
 just to name a few).
 
 First, an important-yet-difficult research question to be answered is the underlying assumptions
-behind [Evolutionary Algorithms (EAs)](https://www.nature.com/articles/nature14544). Since the
-**black-box** (or more generally, **complex**) nature of hard (e.g., NP-hard) problems tackled
-**approximately** by EAs, it is very difficult, if not impossible, to mathematically quantitize
-these (typically *implicit*) assumptions behind different EAs, and also their working principles
-(e.g., **from first principles**). In this open book, we will first discuss the hard-to-clarify
-relationships between underlying assumptions and black-box applications. Note that in practice,
-the level of black-boxes vary on different classes of complex problems.
+behind [EAs](https://www.nature.com/articles/nature14544). Since the **black-box** (or more
+generally, **complex**) nature of hard (e.g., NP-hard) problems tackled **approximately** by EAs,
+it is very difficult, if not impossible, to mathematically quantitize these (typically *implicit*)
+assumptions behind different EAs, and also their working principles (e.g., **from first
+principles**). In this open book, we will first discuss the hard-to-clarify relationships between
+underlying assumptions and black-box applications. Note that in practice, the level of black-boxes
+vary on different classes of complex problems.
 
 Up to now, there have been several *wonderful* books devoted to EC, such as [[Eiben&Smith, 2015]](https://link.springer.com/book/10.1007/978-3-662-44874-8), [[De Jong, 2006]](https://ieeexplore.ieee.org/book/6267245), [[Fogel, 2006]](https://ieeexplore.ieee.org/book/5237910)/[[Fogel, 1998]](https://ieeexplore.ieee.org/book/5263042), [[Mitchell, 1998]](https://direct.mit.edu/books/book/4675/An-Introduction-to-Genetic-Algorithms), [[Back, 1996]](https://academic.oup.com/book/40791), [[Koza, 1990]](http://infolab.stanford.edu/pub/cstr/reports/cs/tr/90/1314/CS-TR-90-1314.pdf), to name a few. Furthermore, there have been a number of *well-written* review/survey/perspective papers for EC or one particular class of EAs: e.g., [[Miikkulainen&Forrest, 2021, Nature MI]](https://www.nature.com/articles/s42256-020-00278-8), [[Lehman et al., 2020, ALJ]](https://direct.mit.edu/artl/article/26/2/274/93255/The-Surprising-Creativity-of-Digital-Evolution-A), [[Eiben&Smith, 2015, Nature]](https://www.nature.com/articles/nature14544), [[Schoenauer, 2015]](https://link.springer.com/chapter/10.1007/978-94-017-9014-7_28), [[De Jong&Fogel&Schwefel, 1997]](https://www.taylorfrancis.com/chapters/edit/10.1201/9781482268713-13/history-evolutionary-computation), [[Koza, 1994]](), [[Forrest, 1993, Science]](https://www.science.org/doi/10.1126/science.8346439), just to name a few. Undoubtedly, all of these above works provide multiple *good* starting points to learn EAs or one particular algorithm class for practice and to enter the EC research community.
 
