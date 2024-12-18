@@ -2,9 +2,9 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP-Terminology)
 
-* COC: Cooperative Coevolution
-* CEC: Competitive Coevolution
-* CEM: Cross Entropy Method
+* COEA: Cooperative Coevolutionary Algorithm
+* CMEA: Competitive Coevolutionary Algorithm
+* CEM: Cross-Entropy Method
 * CI: Collective Intelligence
 * CMA-ES: Covariance Matrix Adaptation Evolution Strategy
 * DE: Differential Evolution
@@ -18,11 +18,11 @@
 * GP: Genetic Programming
 * LLM: Large Language Model
 * NES: Natural Evolution Strategy
-* Nature-Inspired Heuristics
+* Nature-Inspired Heuristic
 * OEE: Open-Ended Evolution
 * PSO: Particle Swarm Optimizer
 * QD: Quality-Diversity
-* RSH: Randomized Search Heuristics
+* RSH: Randomized Search Heuristic
 * SI: Swarm Intelligence
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP)
