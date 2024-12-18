@@ -109,9 +109,11 @@ From 2023 to 2027.
   Handbook of evolutionary computation.
   Oxford University Press.
 * [Back, T.](), 1996.
-  Evolutionary algorithms in theory and practice: evolution strategies,
-  evolutionary programming, genetic algorithms.
+  [Evolutionary algorithms in theory and practice: evolution strategies,
+  evolutionary programming, genetic algorithms]().
   Oxford University Press.
+  [Thomas Bäck: [IEEE Evolutionary Computation Pioneer Award
+  2015](https://tinyurl.com/ya8s24d9)]
 * [Schwefel, H.P.](), 1993.
   Evolution and optimum seeking: The sixth generation.
   John Wiley & Sons.
