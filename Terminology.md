@@ -2,11 +2,11 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP-Terminology)
 
-* COEA: Cooperative Coevolutionary Algorithm
-* CMEA: Competitive Coevolutionary Algorithm
 * CEM: Cross-Entropy Method
 * CI: Collective Intelligence
-* CMA-ES: Covariance Matrix Adaptation Evolution Strategy
+* **CMA-ES**: Covariance Matrix Adaptation Evolution Strategy
+* CMEA: Competitive Coevolutionary Algorithm
+* COEA: Cooperative Coevolutionary Algorithm
 * DE: Differential Evolution
 * EA: Evolutionary Algorithm
 * EC: Evolutionary Computation/Computing
