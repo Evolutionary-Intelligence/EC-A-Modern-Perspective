@@ -16,7 +16,10 @@ As pointed out by [Hinton](http://www.cs.toronto.edu/~hinton/) ([ACM Turing Awar
 
 * [Whitley, D.](), Gordon, V.S. and Mathias, K., 1994.
   [Lamarckian evolution, the Baldwin effect and function optimization]().
-  International Parallel Problem Solving from Nature. Springer.
+  In International Parallel Problem Solving from Nature (pp. -). Springer.
+* Belew, R.K., 1989, June.
+  [When both individuals and populations search: Adding simple learning to the genetic algorithm]().
+  In Proceedings of International Conference on Genetic Algorithms (pp. 34-41).
 * [Ackley, D.]() and [Littman, M.](), 1991.
   [Interactions between learning and evolution](https://www.amazon.com/Artificial-INSTITUTE-SCIENCES-COMPLEXITY-PROCEEDINGS/dp/0201525712).
   Artificial Life, 10, pp.487-509.
