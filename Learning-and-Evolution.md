@@ -19,6 +19,9 @@ simulation and real-life experiments are still expected nowadays to compare them
 
 ## Reference
 
+* Nolfi, S. and Floreano, D., 1999.
+  [Learning and evolution]().
+  Autonomous Robots, 7, pp.89-113.
 * [Whitley, D.](), Gordon, V.S. and Mathias, K., 1994.
   [Lamarckian evolution, the Baldwin effect and function optimization]().
   In International Parallel Problem Solving from Nature (pp. -). Springer.
