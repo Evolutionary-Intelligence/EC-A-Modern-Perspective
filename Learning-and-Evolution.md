@@ -28,6 +28,9 @@ evolution on the overall performance on [NK fitness landscapes](https://direct.m
 
 ## Reference
 
+* [Levin, M.](), 2023.
+  [Darwin’s agential materials: Evolutionary implications of multiscale competency in developmental biology]().
+  Cellular and Molecular Life Sciences, 80(6), p.142.
 * Todd, G., Candadai, M. and Izquierdo, E.J., 2020, July.
   [Interaction between evolution and learning in NK fitness landscapes](https://direct.mit.edu/isal/proceedings-pdf/isal2020/32/761/1908534/isal_a_00331.pdf).
   In Proceedings of Artificial Life Conference (pp. 761-767).
