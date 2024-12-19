@@ -30,6 +30,10 @@ simulation and real-life experiments are still expected nowadays to compare them
   [Interaction between evolution and learning in NK fitness landscapes](https://direct.mit.edu/isal/proceedings-pdf/isal2020/32/761/1908534/isal_a_00331.pdf).
   In Proceedings of Artificial Life Conference (pp. 761-767).
   MIT Press.
+* Bartoli, A., Catto, M., De Lorenzo, A., Medvet, E. and Talamini, J., 2020, July.
+  [Mechanisms of social learning in evolved artificial life]().
+  In Proceedings of Artificial Life Conference (pp. 190-198).
+  MIT Press.
 * Fernando, C., Banarse, D., Blundell, C., Zwols, Y., Ha, D., Rusu, A.A., Pritzel, A. and Wierstra, D., 2017.
   [Pathnet: Evolution channels gradient descent in super neural networks](https://www.gatsby.ucl.ac.uk/~ucgtcbl/papers/FerBanBluZwoHaRusPriWie2017a.pdf).
   arXiv preprint arXiv:1701.08734.
