@@ -60,6 +60,9 @@ simulation and real-life experiments are still expected nowadays to compare them
 * Belew, R.K., 1989, June.
   [When both individuals and populations search: Adding simple learning to the genetic algorithm]().
   In Proceedings of International Conference on Genetic Algorithms (pp. 34-41).
+* Kauffman, S. and Levin, S., 1987.
+  [Towards a general theory of adaptive walks on rugged landscapes]().
+  Journal of Theoretical Biology, 128(1), pp.11-45.
 * [Hinton, G.E.]() and Nowlan, S.J., 1987.
   [How learning can guide evolution](https://www.cs.toronto.edu/~hinton/absps/baldwin.pdf).
   Complex Systems, 1(3), pp.495-502.
