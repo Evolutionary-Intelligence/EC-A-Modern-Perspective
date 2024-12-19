@@ -12,6 +12,11 @@ As pointed out by [Hinton](http://www.cs.toronto.edu/~hinton/) ([ACM Turing Awar
 
 "[acquired characters](https://www.journals.uchicago.edu/doi/pdf/10.1086/276428)"
 
+In [Whitley]() et al.'s paper in PPSN-2024, initial simulation experiments demonstrated that GA with
+the Baldwin effect sometimes finds the global optimum while Lamarckian GA sometimes gets trapped
+into the local optima, though the latter shows faster convergence at the early stage. However, more
+simulation and real-life experiments are still expected nowadays to compare them.
+
 ## Reference
 
 * [Whitley, D.](), Gordon, V.S. and Mathias, K., 1994.
