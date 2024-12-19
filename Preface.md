@@ -130,6 +130,10 @@ From 2023 to 2027.
   [Hans-Paul Schwefel: [IEEE Frank Rosenblatt Award 2011]() +
   [IEEE Evolutionary Computation Pioneer Award
   2002 (with Ingo Rechenberg)](https://tinyurl.com/ya8s24d9)]
+* [Holland, J.H.](), 1992.
+  [Adaptation in natural and artificial systems: An introductory analysis
+  with applications to biology, control, and artificial intelligence]().
+  MIT Press.
 * [Koza, J.R.](https://www.genetic-programming.org/), 1990.
   [Genetic programming: A paradigm for genetically breeding populations of
   computer programs to solve problems](https://tinyurl.com/wxy2n6vy).
