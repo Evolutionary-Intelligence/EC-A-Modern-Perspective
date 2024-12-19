@@ -136,8 +136,8 @@ From 2023 to 2027.
   Technical Report, Department of Computer Science, Stanford University.
   [John Koza: [IEEE Evolutionary Computation Pioneer Award
   2024](https://tinyurl.com/ya8s24d9)]
-* [Goldberg, D.E.](), 2013.
-  [Genetic algorithms]().
+* [Goldberg, D.E.](), 1989.
+  [Genetic algorithms in search, optimization and machine learning]().
   Pearson Education.
   [David E. Goldberg: [IEEE Evolutionary Computation Pioneer Award 2010
   (with John Greffenstette)](https://tinyurl.com/ya8s24d9)]
