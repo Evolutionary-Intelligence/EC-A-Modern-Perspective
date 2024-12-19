@@ -23,6 +23,9 @@ As pointed out by [Hinton](http://www.cs.toronto.edu/~hinton/) ([ACM Turing Awar
 * Belew, R.K., 1989, June.
   [When both individuals and populations search: Adding simple learning to the genetic algorithm]().
   In Proceedings of International Conference on Genetic Algorithms (pp. 34-41).
+* Vose, M.D. and Liepins, G.E., 1991.
+  [Punctuated equilibria in genetic search]().
+  Complex Systems, 5(1), pp.31-44.
 * [Ackley, D.]() and [Littman, M.](), 1991.
   [Interactions between learning and evolution](https://www.amazon.com/Artificial-INSTITUTE-SCIENCES-COMPLEXITY-PROCEEDINGS/dp/0201525712).
   Artificial Life, 10, pp.487-509.
