@@ -134,6 +134,8 @@ From 2023 to 2027.
   [Adaptation in natural and artificial systems: An introductory analysis
   with applications to biology, control, and artificial intelligence]().
   MIT Press.
+  [John H. Holland: [IEEE Evolutionary Computation Pioneer Award
+  2003](https://tinyurl.com/ya8s24d9)]
 * [Koza, J.R.](https://www.genetic-programming.org/), 1990.
   [Genetic programming: A paradigm for genetically breeding populations of
   computer programs to solve problems](https://tinyurl.com/wxy2n6vy).
