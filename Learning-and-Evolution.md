@@ -30,6 +30,9 @@ simulation and real-life experiments are still expected nowadays to compare them
   [Interaction between evolution and learning in NK fitness landscapes]().
   In Proceedings of Artificial Life Conference (pp. 761-767).
   MIT Press.
+* Barkoczi, D. and Galesic, M., 2016.
+  Social learning strategies modify the effect of network structure on group performance.
+  Nature Communications, 7(1), p.13109.
 * Nolfi, S. and Floreano, D., 1999.
   [Learning and evolution]().
   Autonomous Robots, 7, pp.89-113.
