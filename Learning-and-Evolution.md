@@ -42,18 +42,20 @@ simulation and real-life experiments are still expected nowadays to compare them
 * Nolfi, S., Parisi, D. and Elman, J.L., 1994.
   [Learning and evolution in neural networks]().
   Adaptive Behavior, 3(1), pp.5-28.
+* Belew, R.K., 1990. Evolution, learning and culture: computational metaphors for adaptive search.
+  Complex Systems, 4, pp.11-49.
 * Gruau, F. and Whitley, D., 1993.
   [Adding learning to the cellular development of neural networks: Evolution and the Baldwin effect]().
   Evolutionary Computation, 1(3), pp.213-233.
-* Belew, R.K., 1989, June.
-  [When both individuals and populations search: Adding simple learning to the genetic algorithm]().
-  In Proceedings of International Conference on Genetic Algorithms (pp. 34-41).
 * Vose, M.D. and Liepins, G.E., 1991.
   [Punctuated equilibria in genetic search]().
   Complex Systems, 5(1), pp.31-44.
 * [Ackley, D.]() and [Littman, M.](), 1991.
   [Interactions between learning and evolution](https://www.amazon.com/Artificial-INSTITUTE-SCIENCES-COMPLEXITY-PROCEEDINGS/dp/0201525712).
   Artificial Life, 10, pp.487-509.
+* Belew, R.K., 1989, June.
+  [When both individuals and populations search: Adding simple learning to the genetic algorithm]().
+  In Proceedings of International Conference on Genetic Algorithms (pp. 34-41).
 * [Hinton, G.E.]() and Nowlan, S.J., 1987.
   [How learning can guide evolution](https://www.cs.toronto.edu/~hinton/absps/baldwin.pdf).
   Complex Systems, 1(3), pp.495-502.
