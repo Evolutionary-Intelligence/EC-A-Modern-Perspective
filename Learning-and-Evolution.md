@@ -43,6 +43,9 @@ simulation and real-life experiments are still expected nowadays to compare them
 * [Hinton, G.E.]() and Nowlan, S.J., 1987.
   [How learning can guide evolution](https://www.cs.toronto.edu/~hinton/absps/baldwin.pdf).
   Complex Systems, 1(3), pp.495-502.
+* Waddington, C.H., 1942.
+  [Canalization of development and the inheritance of acquired characters]().
+  Nature, 150(3811), pp.563-565.
 * Baldwin, J.M., 1896.
   [A new factor in evolution](https://www.journals.uchicago.edu/doi/pdf/10.1086/276428).
   American Naturalist, 30(355), pp.536-553.
