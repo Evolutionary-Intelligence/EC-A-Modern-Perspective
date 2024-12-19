@@ -26,6 +26,10 @@ simulation and real-life experiments are still expected nowadays to compare them
 
 ## Reference
 
+* Todd, G., Candadai, M. and Izquierdo, E.J., 2020, July.
+  [Interaction between evolution and learning in NK fitness landscapes]().
+  In Proceedings of Artificial Life Conference (pp. 761-767).
+  MIT Press.
 * Nolfi, S. and Floreano, D., 1999.
   [Learning and evolution]().
   Autonomous Robots, 7, pp.89-113.
