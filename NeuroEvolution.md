@@ -10,6 +10,9 @@
 
 ## Reference
 
+* [Miikkulainen, R.](), 2023, July.
+  [Evolution of neural networks]().
+  In Proceedings of Annual Conference on Genetic and Evolutionary Computation Companion (pp. 1008-1025). ACM.
 * Whitelam, S. and Tamblyn, I., 2021. [Neuroevolutionary learning of particles and protocols for self-assembly](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.018003). Physical Review Letters, 127(1), p.018003.
 * Whitelam, S., Selin, V., Park, S.W. and Tamblyn, I., 2021. [Correspondence between neuroevolution and gradient descent](https://www.nature.com/articles/s41467-021-26568-2). Nature Communications, 12(1), p.6317.
 * https://towardsdatascience.com/paper-repro-deep-neuroevolution-756871e00a66
