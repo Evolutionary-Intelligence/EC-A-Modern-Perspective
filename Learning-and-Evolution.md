@@ -31,8 +31,11 @@ evolution on the overall performance on [NK fitness landscapes](https://direct.m
 * [Levin, M.](), 2023.
   [Darwin’s agential materials: Evolutionary implications of multiscale competency in developmental biology]().
   Cellular and Molecular Life Sciences, 80(6), p.142.
+* Miconi, T., 2023, July.
+  [Learning to acquire novel cognitive tasks with evolution, plasticity and meta-meta-learning]().
+  In International Conference on Machine Learning (pp. 24756-24774). PMLR.
 * Pigozzi, F., Camerota Verdù, F.J. and Medvet, E., 2023, July.
-  How the morphology encoding influences the learning ability in body-brain co-optimization.
+  [How the morphology encoding influences the learning ability in body-brain co-optimization]().
   In Proceedings of Genetic and Evolutionary Computation Conference (pp. 1045-1054). ACM.
 * Todd, G., Candadai, M. and Izquierdo, E.J., 2020, July.
   [Interaction between evolution and learning in NK fitness landscapes](https://direct.mit.edu/isal/proceedings-pdf/isal2020/32/761/1908534/isal_a_00331.pdf).
