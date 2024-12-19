@@ -22,6 +22,9 @@ simulation and real-life experiments are still expected nowadays to compare them
 * [Whitley, D.](), Gordon, V.S. and Mathias, K., 1994.
   [Lamarckian evolution, the Baldwin effect and function optimization]().
   In International Parallel Problem Solving from Nature (pp. -). Springer.
+* Nolfi, S., Parisi, D. and Elman, J.L., 1994.
+  [Learning and evolution in neural networks]().
+  Adaptive Behavior, 3(1), pp.5-28.
 * Gruau, F. and Whitley, D., 1993.
   [Adding learning to the cellular development of neural networks: Evolution and the Baldwin effect]().
   Evolutionary Computation, 1(3), pp.213-233.
