@@ -22,7 +22,9 @@ As pointed out by [Hinton](http://www.cs.toronto.edu/~hinton/) ([ACM Turing Awar
 In [Whitley]() et al.'s paper on [PPSN-1994](), initial simulation experiments demonstrated that GA with
 the Baldwin effect sometimes finds the global optimum while Lamarckian GA sometimes gets trapped into
 the local optima, though the latter shows faster convergence at the early evolution stage. However, more
-simulation and real-life experiments are still expected nowadays to compare them.
+simulation and real-life experiments are still expected nowadays to compare them. Recently, Todd (from
+Stanford University) etc. have investigated the effects of different design choices of learning and
+evolution on the overall performance on [NK fitness landscapes](https://direct.mit.edu/isal/proceedings-pdf/isal2020/32/761/1908534/isal_a_00331.pdf).
 
 ## Reference
 
