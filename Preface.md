@@ -139,5 +139,7 @@ From 2023 to 2027.
 * [Goldberg, D.E.](), 2013.
   [Genetic algorithms]().
   Pearson Education.
+  [David E. Goldberg: [IEEE Evolutionary Computation Pioneer Award 2010
+  (with John Greffenstette)](https://tinyurl.com/ya8s24d9)]
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Evolutionary-Intelligence.ECAMP)
