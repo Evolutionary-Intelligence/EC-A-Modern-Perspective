@@ -37,6 +37,9 @@ evolution on the overall performance on [NK fitness landscapes](https://direct.m
 * Pigozzi, F., Camerota Verdù, F.J. and Medvet, E., 2023, July.
   [How the morphology encoding influences the learning ability in body-brain co-optimization]().
   In Proceedings of Genetic and Evolutionary Computation Conference (pp. 1045-1054). ACM.
+* Gunawardena, J., 2022.
+  Learning outside the brain: Integrating cognitive science and systems biology.
+  Proceedings of the IEEE, 110(5), pp.590-612.
 * Todd, G., Candadai, M. and Izquierdo, E.J., 2020, July.
   [Interaction between evolution and learning in NK fitness landscapes](https://direct.mit.edu/isal/proceedings-pdf/isal2020/32/761/1908534/isal_a_00331.pdf).
   In Proceedings of Artificial Life Conference (pp. 761-767).
